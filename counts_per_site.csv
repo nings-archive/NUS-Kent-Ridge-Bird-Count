@@ -1,896 +1,896 @@
-,Bird Species,Count,Location,Time Period
-0,Javan myna,0,Asian Koel---8 Kent Ridge Drive (Just outside Ventus),0932
-1,Olive-backed sunbird,1,Asian Koel---8 Kent Ridge Drive (Just outside Ventus),0932
-2,Black-naped oriole,2,Asian Koel---8 Kent Ridge Drive (Just outside Ventus),0932
-3,Rock pigeon,0,Asian Koel---8 Kent Ridge Drive (Just outside Ventus),0932
-4,Yellow-vented bulbul,0,Asian Koel---8 Kent Ridge Drive (Just outside Ventus),0932
-5,Javan myna,0,Asian Koel---11 Arts Link (Outside AS5 facing CELC),1005
-6,Olive-backed sunbird,1,Asian Koel---11 Arts Link (Outside AS5 facing CELC),1005
-7,Black-naped oriole,0,Asian Koel---11 Arts Link (Outside AS5 facing CELC),1005
-8,Rock pigeon,0,Asian Koel---11 Arts Link (Outside AS5 facing CELC),1005
-9,Yellow-vented bulbul,0,Asian Koel---11 Arts Link (Outside AS5 facing CELC),1005
-10,Javan myna,0,"Asian Koel---15 Kent Ridge Drive (Opp Hon Sui Sen Drive, facing Motchar Riady Building)",1035
-11,Olive-backed sunbird,1,"Asian Koel---15 Kent Ridge Drive (Opp Hon Sui Sen Drive, facing Motchar Riady Building)",1035
-12,Black-naped oriole,1,"Asian Koel---15 Kent Ridge Drive (Opp Hon Sui Sen Drive, facing Motchar Riady Building)",1035
-13,Rock pigeon,0,"Asian Koel---15 Kent Ridge Drive (Opp Hon Sui Sen Drive, facing Motchar Riady Building)",1035
-14,Yellow-vented bulbul,3,"Asian Koel---15 Kent Ridge Drive (Opp Hon Sui Sen Drive, facing Motchar Riady Building)",1035
-15,Javan myna,3,Asian Koel---3 Research Link (End of D1 Bus terminal),1055
-16,Olive-backed sunbird,2,Asian Koel---3 Research Link (End of D1 Bus terminal),1055
-17,Black-naped oriole,0,Asian Koel---3 Research Link (End of D1 Bus terminal),1055
-18,Rock pigeon,22,Asian Koel---3 Research Link (End of D1 Bus terminal),1055
-19,Yellow-vented bulbul,5,Asian Koel---3 Research Link (End of D1 Bus terminal),1055
-20,Javan myna,7,Spotted Dove---NUS Medical Drive near NUS Graduate School for Intergrative Sciences and Engineering,0925
-21,Olive-backed sunbird,2,Spotted Dove---NUS Medical Drive near NUS Graduate School for Intergrative Sciences and Engineering,0925
-22,Black-naped oriole,0,Spotted Dove---NUS Medical Drive near NUS Graduate School for Intergrative Sciences and Engineering,0925
-23,Rock pigeon,2,Spotted Dove---NUS Medical Drive near NUS Graduate School for Intergrative Sciences and Engineering,0925
-24,Yellow-vented bulbul,1,Spotted Dove---NUS Medical Drive near NUS Graduate School for Intergrative Sciences and Engineering,0925
-25,Javan myna,0,Spotted Dove---LKCNM,0925
-26,Olive-backed sunbird,0,Spotted Dove---LKCNM,0925
-27,Black-naped oriole,0,Spotted Dove---LKCNM,0925
-28,Rock pigeon,0,Spotted Dove---LKCNM,0925
-29,Yellow-vented bulbul,1,Spotted Dove---LKCNM,0925
-30,Javan myna,1,Spotted Dove---Town Green (Between Fine Food and Food Clique),0944
-31,Olive-backed sunbird,0,Spotted Dove---Town Green (Between Fine Food and Food Clique),0944
-32,Black-naped oriole,0,Spotted Dove---Town Green (Between Fine Food and Food Clique),0944
-33,Rock pigeon,0,Spotted Dove---Town Green (Between Fine Food and Food Clique),0944
-34,Yellow-vented bulbul,2,Spotted Dove---Town Green (Between Fine Food and Food Clique),0944
-35,Javan myna,4,"Spotted Dove---11 Lower Kent Ridge Road,",0949
-36,Olive-backed sunbird,10,"Spotted Dove---11 Lower Kent Ridge Road,",0949
-37,Black-naped oriole,0,"Spotted Dove---11 Lower Kent Ridge Road,",0949
-38,Rock pigeon,0,"Spotted Dove---11 Lower Kent Ridge Road,",0949
-39,Yellow-vented bulbul,0,"Spotted Dove---11 Lower Kent Ridge Road,",0949
-40,Javan myna,6,Spotted Dove---Town Green (Near UTR),1000
-41,Olive-backed sunbird,0,Spotted Dove---Town Green (Near UTR),1000
-42,Black-naped oriole,0,Spotted Dove---Town Green (Near UTR),1000
-43,Rock pigeon,0,Spotted Dove---Town Green (Near UTR),1000
-44,Yellow-vented bulbul,1,Spotted Dove---Town Green (Near UTR),1000
-45,Javan myna,2,Spotted Dove---Town Green (Near Starbucks),1011
-46,Olive-backed sunbird,0,Spotted Dove---Town Green (Near Starbucks),1011
-47,Black-naped oriole,0,Spotted Dove---Town Green (Near Starbucks),1011
-48,Rock pigeon,0,Spotted Dove---Town Green (Near Starbucks),1011
-49,Yellow-vented bulbul,1,Spotted Dove---Town Green (Near Starbucks),1011
-50,Javan myna,0,Spotted Dove---31 Prince George's Park,1021
-51,Olive-backed sunbird,4,Spotted Dove---31 Prince George's Park,1021
-52,Black-naped oriole,0,Spotted Dove---31 Prince George's Park,1021
-53,Rock pigeon,0,Spotted Dove---31 Prince George's Park,1021
-54,Yellow-vented bulbul,0,Spotted Dove---31 Prince George's Park,1021
-55,Javan myna,5,Spotted Dove---King Edward VII Hall,1047
-56,Olive-backed sunbird,3,Spotted Dove---King Edward VII Hall,1047
-57,Black-naped oriole,0,Spotted Dove---King Edward VII Hall,1047
-58,Rock pigeon,2,Spotted Dove---King Edward VII Hall,1047
-59,Yellow-vented bulbul,3,Spotted Dove---King Edward VII Hall,1047
-60,Javan myna,0,Spotted Dove---Kent Ridge Road,1123
-61,Olive-backed sunbird,1,Spotted Dove---Kent Ridge Road,1123
-62,Black-naped oriole,0,Spotted Dove---Kent Ridge Road,1123
-63,Rock pigeon,0,Spotted Dove---Kent Ridge Road,1123
-64,Yellow-vented bulbul,2,Spotted Dove---Kent Ridge Road,1123
-65,Javan myna,3,Spotted Dove---Ridge View Residential College,0933
-66,Olive-backed sunbird,0,Spotted Dove---Ridge View Residential College,0933
-67,Black-naped oriole,0,Spotted Dove---Ridge View Residential College,0933
-68,Rock pigeon,0,Spotted Dove---Ridge View Residential College,0933
-69,Yellow-vented bulbul,0,Spotted Dove---Ridge View Residential College,0933
-70,Javan myna,2,Spotted Dove---Behind ERC,1022
-71,Olive-backed sunbird,0,Spotted Dove---Behind ERC,1022
-72,Black-naped oriole,0,Spotted Dove---Behind ERC,1022
-73,Rock pigeon,0,Spotted Dove---Behind ERC,1022
-74,Yellow-vented bulbul,0,Spotted Dove---Behind ERC,1022
-75,Javan myna,2,Spotted Dove---Cinnamon College,1033
-76,Olive-backed sunbird,0,Spotted Dove---Cinnamon College,1033
-77,Black-naped oriole,0,Spotted Dove---Cinnamon College,1033
-78,Rock pigeon,0,Spotted Dove---Cinnamon College,1033
-79,Yellow-vented bulbul,2,Spotted Dove---Cinnamon College,1033
-80,Javan myna,11,Spotted Dove---Engineering Drive 2,1039
-81,Olive-backed sunbird,0,Spotted Dove---Engineering Drive 2,1039
-82,Black-naped oriole,0,Spotted Dove---Engineering Drive 2,1039
-83,Rock pigeon,1,Spotted Dove---Engineering Drive 2,1039
-84,Yellow-vented bulbul,0,Spotted Dove---Engineering Drive 2,1039
-85,Javan myna,0,Spotted Dove---CAPT,1045
-86,Olive-backed sunbird,0,Spotted Dove---CAPT,1045
-87,Black-naped oriole,0,Spotted Dove---CAPT,1045
-88,Rock pigeon,0,Spotted Dove---CAPT,1045
-89,Yellow-vented bulbul,2,Spotted Dove---CAPT,1045
-90,Javan myna,2,Spotted Dove---YNC (Field),1100
-91,Olive-backed sunbird,0,Spotted Dove---YNC (Field),1100
-92,Black-naped oriole,0,Spotted Dove---YNC (Field),1100
-93,Rock pigeon,0,Spotted Dove---YNC (Field),1100
-94,Yellow-vented bulbul,3,Spotted Dove---YNC (Field),1100
-95,Javan myna,0,Spotted Dove---Beside Venus,1110
-96,Olive-backed sunbird,0,Spotted Dove---Beside Venus,1110
-97,Black-naped oriole,2,Spotted Dove---Beside Venus,1110
-98,Rock pigeon,0,Spotted Dove---Beside Venus,1110
-99,Yellow-vented bulbul,0,Spotted Dove---Beside Venus,1110
-100,Javan myna,3,Spotted Dove---Computing Dr behind The Deck,1150
-101,Olive-backed sunbird,0,Spotted Dove---Computing Dr behind The Deck,1150
-102,Black-naped oriole,0,Spotted Dove---Computing Dr behind The Deck,1150
-103,Rock pigeon,0,Spotted Dove---Computing Dr behind The Deck,1150
-104,Yellow-vented bulbul,2,Spotted Dove---Computing Dr behind The Deck,1150
-105,Javan myna,2,Spotted Dove---Cross Section (Kent Ridge Dr meets Compting Dr),1200
-106,Olive-backed sunbird,2,Spotted Dove---Cross Section (Kent Ridge Dr meets Compting Dr),1200
-107,Black-naped oriole,0,Spotted Dove---Cross Section (Kent Ridge Dr meets Compting Dr),1200
-108,Rock pigeon,0,Spotted Dove---Cross Section (Kent Ridge Dr meets Compting Dr),1200
-109,Yellow-vented bulbul,1,Spotted Dove---Cross Section (Kent Ridge Dr meets Compting Dr),1200
-110,Javan myna,3,"Collared Kingfisher---NUS Medical Drive, across MD10",1016
-111,Olive-backed sunbird,0,"Collared Kingfisher---NUS Medical Drive, across MD10",1016
-112,Black-naped oriole,0,"Collared Kingfisher---NUS Medical Drive, across MD10",1016
-113,Rock pigeon,0,"Collared Kingfisher---NUS Medical Drive, across MD10",1016
-114,Yellow-vented bulbul,2,"Collared Kingfisher---NUS Medical Drive, across MD10",1016
-115,Javan myna,4,"Collared Kingfisher---Footpath along AYE, next to Carpark 10",1036
-116,Olive-backed sunbird,0,"Collared Kingfisher---Footpath along AYE, next to Carpark 10",1036
-117,Black-naped oriole,0,"Collared Kingfisher---Footpath along AYE, next to Carpark 10",1036
-118,Rock pigeon,0,"Collared Kingfisher---Footpath along AYE, next to Carpark 10",1036
-119,Yellow-vented bulbul,0,"Collared Kingfisher---Footpath along AYE, next to Carpark 10",1036
-120,Javan myna,2,"Collared Kingfisher---Along AYE, next to Carpark 10",1053
-121,Olive-backed sunbird,0,"Collared Kingfisher---Along AYE, next to Carpark 10",1053
-122,Black-naped oriole,2,"Collared Kingfisher---Along AYE, next to Carpark 10",1053
-123,Rock pigeon,0,"Collared Kingfisher---Along AYE, next to Carpark 10",1053
-124,Yellow-vented bulbul,0,"Collared Kingfisher---Along AYE, next to Carpark 10",1053
-125,Javan myna,2,Collared Kingfisher---Town Green,1118
-126,Olive-backed sunbird,0,Collared Kingfisher---Town Green,1118
-127,Black-naped oriole,0,Collared Kingfisher---Town Green,1118
-128,Rock pigeon,0,Collared Kingfisher---Town Green,1118
-129,Yellow-vented bulbul,0,Collared Kingfisher---Town Green,1118
-130,Javan myna,1,Collared Kingfisher---Between Yale-NUS Saga College and SRC,0802
-131,Olive-backed sunbird,0,Collared Kingfisher---Between Yale-NUS Saga College and SRC,0802
-132,Black-naped oriole,0,Collared Kingfisher---Between Yale-NUS Saga College and SRC,0802
-133,Rock pigeon,0,Collared Kingfisher---Between Yale-NUS Saga College and SRC,0802
-134,Yellow-vented bulbul,3,Collared Kingfisher---Between Yale-NUS Saga College and SRC,0802
-135,Javan myna,4,Collared Kingfisher---sheltered walkway between ERC and SRC,0814
-136,Olive-backed sunbird,0,Collared Kingfisher---sheltered walkway between ERC and SRC,0814
-137,Black-naped oriole,0,Collared Kingfisher---sheltered walkway between ERC and SRC,0814
-138,Rock pigeon,0,Collared Kingfisher---sheltered walkway between ERC and SRC,0814
-139,Yellow-vented bulbul,7,Collared Kingfisher---sheltered walkway between ERC and SRC,0814
-140,Javan myna,3,"Collared Kingfisher---UT Town Green, Tree cluster beside NTUC",0828
-141,Olive-backed sunbird,1,"Collared Kingfisher---UT Town Green, Tree cluster beside NTUC",0828
-142,Black-naped oriole,0,"Collared Kingfisher---UT Town Green, Tree cluster beside NTUC",0828
-143,Rock pigeon,0,"Collared Kingfisher---UT Town Green, Tree cluster beside NTUC",0828
-144,Yellow-vented bulbul,6,"Collared Kingfisher---UT Town Green, Tree cluster beside NTUC",0828
-145,Javan myna,6,Collared Kingfisher---Between the back of CREATE and UTResidences,0847
-146,Olive-backed sunbird,0,Collared Kingfisher---Between the back of CREATE and UTResidences,0847
-147,Black-naped oriole,0,Collared Kingfisher---Between the back of CREATE and UTResidences,0847
-148,Rock pigeon,0,Collared Kingfisher---Between the back of CREATE and UTResidences,0847
-149,Yellow-vented bulbul,1,Collared Kingfisher---Between the back of CREATE and UTResidences,0847
-150,Javan myna,0,"Banded Woodpecker ---Science Field,10m S of staircase near bus stop",0930
-151,Olive-backed sunbird,1,"Banded Woodpecker ---Science Field,10m S of staircase near bus stop",0930
-152,Black-naped oriole,0,"Banded Woodpecker ---Science Field,10m S of staircase near bus stop",0930
-153,Rock pigeon,2,"Banded Woodpecker ---Science Field,10m S of staircase near bus stop",0930
-154,Yellow-vented bulbul,0,"Banded Woodpecker ---Science Field,10m S of staircase near bus stop",0930
-155,Javan myna,0,"Banded Woodpecker ---Science Field, next to sheltered pathway",0946
-156,Olive-backed sunbird,2,"Banded Woodpecker ---Science Field, next to sheltered pathway",0946
-157,Black-naped oriole,0,"Banded Woodpecker ---Science Field, next to sheltered pathway",0946
-158,Rock pigeon,0,"Banded Woodpecker ---Science Field, next to sheltered pathway",0946
-159,Yellow-vented bulbul,0,"Banded Woodpecker ---Science Field, next to sheltered pathway",0946
-160,Javan myna,0,"Banded Woodpecker ---Prince George's Park, next to main road",1019
-161,Olive-backed sunbird,2,"Banded Woodpecker ---Prince George's Park, next to main road",1019
-162,Black-naped oriole,1,"Banded Woodpecker ---Prince George's Park, next to main road",1019
-163,Rock pigeon,4,"Banded Woodpecker ---Prince George's Park, next to main road",1019
-164,Yellow-vented bulbul,0,"Banded Woodpecker ---Prince George's Park, next to main road",1019
-165,Javan myna,1,"Banded Woodpecker ---Prince George's Park, B1, next to carpark",1044
-166,Olive-backed sunbird,1,"Banded Woodpecker ---Prince George's Park, B1, next to carpark",1044
-167,Black-naped oriole,1,"Banded Woodpecker ---Prince George's Park, B1, next to carpark",1044
-168,Rock pigeon,1,"Banded Woodpecker ---Prince George's Park, B1, next to carpark",1044
-169,Yellow-vented bulbul,0,"Banded Woodpecker ---Prince George's Park, B1, next to carpark",1044
-170,Javan myna,1,"Banded Woodpecker ---Engineering Drive 3, behind LT6",1138
-171,Olive-backed sunbird,1,"Banded Woodpecker ---Engineering Drive 3, behind LT6",1138
-172,Black-naped oriole,0,"Banded Woodpecker ---Engineering Drive 3, behind LT6",1138
-173,Rock pigeon,0,"Banded Woodpecker ---Engineering Drive 3, behind LT6",1138
-174,Yellow-vented bulbul,0,"Banded Woodpecker ---Engineering Drive 3, behind LT6",1138
-175,Javan myna,1,Banded Woodpecker ---Carpark outside Raffles Comm hall,1200
-176,Olive-backed sunbird,2,Banded Woodpecker ---Carpark outside Raffles Comm hall,1200
-177,Black-naped oriole,1,Banded Woodpecker ---Carpark outside Raffles Comm hall,1200
-178,Rock pigeon,0,Banded Woodpecker ---Carpark outside Raffles Comm hall,1200
-179,Yellow-vented bulbul,0,Banded Woodpecker ---Carpark outside Raffles Comm hall,1200
-180,Javan myna,0,Banded Woodpecker ---Carpark outside Engineering Auditorium,1217
-181,Olive-backed sunbird,5,Banded Woodpecker ---Carpark outside Engineering Auditorium,1217
-182,Black-naped oriole,0,Banded Woodpecker ---Carpark outside Engineering Auditorium,1217
-183,Rock pigeon,0,Banded Woodpecker ---Carpark outside Engineering Auditorium,1217
-184,Yellow-vented bulbul,0,Banded Woodpecker ---Carpark outside Engineering Auditorium,1217
-185,Javan myna,1,Collared Kingfisher---Carpark next to Engineering Auditorium,0927
-186,Olive-backed sunbird,0,Collared Kingfisher---Carpark next to Engineering Auditorium,0927
-187,Black-naped oriole,0,Collared Kingfisher---Carpark next to Engineering Auditorium,0927
-188,Rock pigeon,0,Collared Kingfisher---Carpark next to Engineering Auditorium,0927
-189,Yellow-vented bulbul,0,Collared Kingfisher---Carpark next to Engineering Auditorium,0927
-190,Javan myna,0,Collared Kingfisher---Grass patch beside Ventus,0950
-191,Olive-backed sunbird,2,Collared Kingfisher---Grass patch beside Ventus,0950
-192,Black-naped oriole,0,Collared Kingfisher---Grass patch beside Ventus,0950
-193,Rock pigeon,0,Collared Kingfisher---Grass patch beside Ventus,0950
-194,Yellow-vented bulbul,1,Collared Kingfisher---Grass patch beside Ventus,0950
-195,Javan myna,1,Collared Kingfisher---Walkway between Ventus and Kent Ridge Terminal,1005
-196,Olive-backed sunbird,2,Collared Kingfisher---Walkway between Ventus and Kent Ridge Terminal,1005
-197,Black-naped oriole,0,Collared Kingfisher---Walkway between Ventus and Kent Ridge Terminal,1005
-198,Rock pigeon,0,Collared Kingfisher---Walkway between Ventus and Kent Ridge Terminal,1005
-199,Yellow-vented bulbul,1,Collared Kingfisher---Walkway between Ventus and Kent Ridge Terminal,1005
-200,Javan myna,0,Collared Kingfisher---NUS Carpark 14,1020
-201,Olive-backed sunbird,1,Collared Kingfisher---NUS Carpark 14,1020
-202,Black-naped oriole,0,Collared Kingfisher---NUS Carpark 14,1020
-203,Rock pigeon,0,Collared Kingfisher---NUS Carpark 14,1020
-204,Yellow-vented bulbul,0,Collared Kingfisher---NUS Carpark 14,1020
-205,Javan myna,3,Collared Kingfisher---Grass patch betweem AS8 and AS2,1036
-206,Olive-backed sunbird,1,Collared Kingfisher---Grass patch betweem AS8 and AS2,1036
-207,Black-naped oriole,0,Collared Kingfisher---Grass patch betweem AS8 and AS2,1036
-208,Rock pigeon,0,Collared Kingfisher---Grass patch betweem AS8 and AS2,1036
-209,Yellow-vented bulbul,2,Collared Kingfisher---Grass patch betweem AS8 and AS2,1036
-210,Javan myna,9,Collared Kingfisher---NUS Carpark 11 behind BIZ2,1102
-211,Olive-backed sunbird,0,Collared Kingfisher---NUS Carpark 11 behind BIZ2,1102
-212,Black-naped oriole,0,Collared Kingfisher---NUS Carpark 11 behind BIZ2,1102
-213,Rock pigeon,0,Collared Kingfisher---NUS Carpark 11 behind BIZ2,1102
-214,Yellow-vented bulbul,1,Collared Kingfisher---NUS Carpark 11 behind BIZ2,1102
-215,Javan myna,2,Collared Kingfisher---NUS Carpark 11 next to Singapore Synchroton Light Source,1114
-216,Olive-backed sunbird,0,Collared Kingfisher---NUS Carpark 11 next to Singapore Synchroton Light Source,1114
-217,Black-naped oriole,1,Collared Kingfisher---NUS Carpark 11 next to Singapore Synchroton Light Source,1114
-218,Rock pigeon,0,Collared Kingfisher---NUS Carpark 11 next to Singapore Synchroton Light Source,1114
-219,Yellow-vented bulbul,1,Collared Kingfisher---NUS Carpark 11 next to Singapore Synchroton Light Source,1114
-220,Javan myna,1,Collared Kingfisher---Stairs to King Edward VII Hall,1139
-221,Olive-backed sunbird,0,Collared Kingfisher---Stairs to King Edward VII Hall,1139
-222,Black-naped oriole,0,Collared Kingfisher---Stairs to King Edward VII Hall,1139
-223,Rock pigeon,2,Collared Kingfisher---Stairs to King Edward VII Hall,1139
-224,Yellow-vented bulbul,0,Collared Kingfisher---Stairs to King Edward VII Hall,1139
-225,Javan myna,1,"Collared Kingfisher---Prince Georges' Park, overlooking basketball court",1154
-226,Olive-backed sunbird,4,"Collared Kingfisher---Prince Georges' Park, overlooking basketball court",1154
-227,Black-naped oriole,1,"Collared Kingfisher---Prince Georges' Park, overlooking basketball court",1154
-228,Rock pigeon,0,"Collared Kingfisher---Prince Georges' Park, overlooking basketball court",1154
-229,Yellow-vented bulbul,1,"Collared Kingfisher---Prince Georges' Park, overlooking basketball court",1154
-230,Javan myna,0,"Spotted Wood Owl---Synchrotron Light Source, Research Link",1031
-231,Olive-backed sunbird,2,"Spotted Wood Owl---Synchrotron Light Source, Research Link",1031
-232,Black-naped oriole,0,"Spotted Wood Owl---Synchrotron Light Source, Research Link",1031
-233,Rock pigeon,0,"Spotted Wood Owl---Synchrotron Light Source, Research Link",1031
-234,Yellow-vented bulbul,0,"Spotted Wood Owl---Synchrotron Light Source, Research Link",1031
-235,Javan myna,2,Spotted Wood Owl---NUS Enterprise,1052
-236,Olive-backed sunbird,1,Spotted Wood Owl---NUS Enterprise,1052
-237,Black-naped oriole,0,Spotted Wood Owl---NUS Enterprise,1052
-238,Rock pigeon,0,Spotted Wood Owl---NUS Enterprise,1052
-239,Yellow-vented bulbul,0,Spotted Wood Owl---NUS Enterprise,1052
-240,Javan myna,4,"Spotted Wood Owl---West of NUH, Medical Dr",1202
-241,Olive-backed sunbird,2,"Spotted Wood Owl---West of NUH, Medical Dr",1202
-242,Black-naped oriole,0,"Spotted Wood Owl---West of NUH, Medical Dr",1202
-243,Rock pigeon,0,"Spotted Wood Owl---West of NUH, Medical Dr",1202
-244,Yellow-vented bulbul,0,"Spotted Wood Owl---West of NUH, Medical Dr",1202
-245,Javan myna,1,Asian Koel---Utown bus stop (opp New Town Sec Sch),0940
-246,Olive-backed sunbird,0,Asian Koel---Utown bus stop (opp New Town Sec Sch),0940
-247,Black-naped oriole,0,Asian Koel---Utown bus stop (opp New Town Sec Sch),0940
-248,Rock pigeon,0,Asian Koel---Utown bus stop (opp New Town Sec Sch),0940
-249,Yellow-vented bulbul,0,Asian Koel---Utown bus stop (opp New Town Sec Sch),0940
-250,Javan myna,2,Asian Koel---YNC Grass Patch,0953
-251,Olive-backed sunbird,0,Asian Koel---YNC Grass Patch,0953
-252,Black-naped oriole,0,Asian Koel---YNC Grass Patch,0953
-253,Rock pigeon,0,Asian Koel---YNC Grass Patch,0953
-254,Yellow-vented bulbul,1,Asian Koel---YNC Grass Patch,0953
-255,Javan myna,0,Asian Koel---Steps outside RC4,1005
-256,Olive-backed sunbird,0,Asian Koel---Steps outside RC4,1005
-257,Black-naped oriole,0,Asian Koel---Steps outside RC4,1005
-258,Rock pigeon,0,Asian Koel---Steps outside RC4,1005
-259,Yellow-vented bulbul,4,Asian Koel---Steps outside RC4,1005
-260,Javan myna,2,"Asian Koel---Junction of ERC, YNC, Cinnamon",1045
-261,Olive-backed sunbird,0,"Asian Koel---Junction of ERC, YNC, Cinnamon",1045
-262,Black-naped oriole,0,"Asian Koel---Junction of ERC, YNC, Cinnamon",1045
-263,Rock pigeon,0,"Asian Koel---Junction of ERC, YNC, Cinnamon",1045
-264,Yellow-vented bulbul,7,"Asian Koel---Junction of ERC, YNC, Cinnamon",1045
-265,Javan myna,3,Asian Koel---ERC bike stand,1058
-266,Olive-backed sunbird,0,Asian Koel---ERC bike stand,1058
-267,Black-naped oriole,0,Asian Koel---ERC bike stand,1058
-268,Rock pigeon,0,Asian Koel---ERC bike stand,1058
-269,Yellow-vented bulbul,3,Asian Koel---ERC bike stand,1058
-270,Javan myna,0,Asian Koel---Slope between UTR and Tembusu,1110
-271,Olive-backed sunbird,0,Asian Koel---Slope between UTR and Tembusu,1110
-272,Black-naped oriole,0,Asian Koel---Slope between UTR and Tembusu,1110
-273,Rock pigeon,0,Asian Koel---Slope between UTR and Tembusu,1110
-274,Yellow-vented bulbul,2,Asian Koel---Slope between UTR and Tembusu,1110
-275,Javan myna,0,Asian Koel---Utown bus stop,1122
-276,Olive-backed sunbird,0,Asian Koel---Utown bus stop,1122
-277,Black-naped oriole,0,Asian Koel---Utown bus stop,1122
-278,Rock pigeon,0,Asian Koel---Utown bus stop,1122
-279,Yellow-vented bulbul,1,Asian Koel---Utown bus stop,1122
-280,Javan myna,7,"Asian Koel---King Edward VII Hall, Back of Block A, Near a Hill",0910
-281,Olive-backed sunbird,0,"Asian Koel---King Edward VII Hall, Back of Block A, Near a Hill",0910
-282,Black-naped oriole,1,"Asian Koel---King Edward VII Hall, Back of Block A, Near a Hill",0910
-283,Rock pigeon,0,"Asian Koel---King Edward VII Hall, Back of Block A, Near a Hill",0910
-284,Yellow-vented bulbul,1,"Asian Koel---King Edward VII Hall, Back of Block A, Near a Hill",0910
-285,Javan myna,1,"Asian Koel---King Edward VII Hall, Block E",0932
-286,Olive-backed sunbird,0,"Asian Koel---King Edward VII Hall, Block E",0932
-287,Black-naped oriole,0,"Asian Koel---King Edward VII Hall, Block E",0932
-288,Rock pigeon,0,"Asian Koel---King Edward VII Hall, Block E",0932
-289,Yellow-vented bulbul,0,"Asian Koel---King Edward VII Hall, Block E",0932
-290,Javan myna,2,Asian Koel---MD11,0956
-291,Olive-backed sunbird,0,Asian Koel---MD11,0956
-292,Black-naped oriole,0,Asian Koel---MD11,0956
-293,Rock pigeon,0,Asian Koel---MD11,0956
-294,Yellow-vented bulbul,0,Asian Koel---MD11,0956
-295,Javan myna,1,Asian Koel---MD1,1018
-296,Olive-backed sunbird,0,Asian Koel---MD1,1018
-297,Black-naped oriole,0,Asian Koel---MD1,1018
-298,Rock pigeon,0,Asian Koel---MD1,1018
-299,Yellow-vented bulbul,0,Asian Koel---MD1,1018
-300,Javan myna,9,Asian Koel---Science Field,1042
-301,Olive-backed sunbird,0,Asian Koel---Science Field,1042
-302,Black-naped oriole,0,Asian Koel---Science Field,1042
-303,Rock pigeon,0,Asian Koel---Science Field,1042
-304,Yellow-vented bulbul,0,Asian Koel---Science Field,1042
-305,Javan myna,0,Ashy Minivet---University Sports Centre Carpark,0853
-306,Olive-backed sunbird,0,Ashy Minivet---University Sports Centre Carpark,0853
-307,Black-naped oriole,1,Ashy Minivet---University Sports Centre Carpark,0853
-308,Rock pigeon,0,Ashy Minivet---University Sports Centre Carpark,0853
-309,Yellow-vented bulbul,0,Ashy Minivet---University Sports Centre Carpark,0853
-310,Javan myna,9,Ashy Minivet---Busstop (Opp University Health Centre; ID: 18321),0906
-311,Olive-backed sunbird,1,Ashy Minivet---Busstop (Opp University Health Centre; ID: 18321),0906
-312,Black-naped oriole,0,Ashy Minivet---Busstop (Opp University Health Centre; ID: 18321),0906
-313,Rock pigeon,0,Ashy Minivet---Busstop (Opp University Health Centre; ID: 18321),0906
-314,Yellow-vented bulbul,0,Ashy Minivet---Busstop (Opp University Health Centre; ID: 18321),0906
-315,Javan myna,1,Ashy Minivet---Grass Patch beside Basketball Courts,0922
-316,Olive-backed sunbird,2,Ashy Minivet---Grass Patch beside Basketball Courts,0922
-317,Black-naped oriole,0,Ashy Minivet---Grass Patch beside Basketball Courts,0922
-318,Rock pigeon,0,Ashy Minivet---Grass Patch beside Basketball Courts,0922
-319,Yellow-vented bulbul,1,Ashy Minivet---Grass Patch beside Basketball Courts,0922
-320,Javan myna,3,Ashy Minivet---Busstop (Opp University Hall; ID: 18319),0938
-321,Olive-backed sunbird,1,Ashy Minivet---Busstop (Opp University Hall; ID: 18319),0938
-322,Black-naped oriole,0,Ashy Minivet---Busstop (Opp University Hall; ID: 18319),0938
-323,Rock pigeon,0,Ashy Minivet---Busstop (Opp University Hall; ID: 18319),0938
-324,Yellow-vented bulbul,0,Ashy Minivet---Busstop (Opp University Hall; ID: 18319),0938
-325,Javan myna,0,Ashy Minivet---Beside bend along Science Drive 4,0951
-326,Olive-backed sunbird,2,Ashy Minivet---Beside bend along Science Drive 4,0951
-327,Black-naped oriole,1,Ashy Minivet---Beside bend along Science Drive 4,0951
-328,Rock pigeon,0,Ashy Minivet---Beside bend along Science Drive 4,0951
-329,Yellow-vented bulbul,0,Ashy Minivet---Beside bend along Science Drive 4,0951
-330,Javan myna,1,Ashy Minivet---Stone benches beside field,1005
-331,Olive-backed sunbird,1,Ashy Minivet---Stone benches beside field,1005
-332,Black-naped oriole,0,Ashy Minivet---Stone benches beside field,1005
-333,Rock pigeon,0,Ashy Minivet---Stone benches beside field,1005
-334,Yellow-vented bulbul,0,Ashy Minivet---Stone benches beside field,1005
-335,Javan myna,1,Ashy Minivet---Grass Patch opposite Kent Ridge MRT Station,1029
-336,Olive-backed sunbird,2,Ashy Minivet---Grass Patch opposite Kent Ridge MRT Station,1029
-337,Black-naped oriole,0,Ashy Minivet---Grass Patch opposite Kent Ridge MRT Station,1029
-338,Rock pigeon,0,Ashy Minivet---Grass Patch opposite Kent Ridge MRT Station,1029
-339,Yellow-vented bulbul,0,Ashy Minivet---Grass Patch opposite Kent Ridge MRT Station,1029
-340,Javan myna,4,Ashy Minivet---Drop-off point along Medical Drive,1059
-341,Olive-backed sunbird,1,Ashy Minivet---Drop-off point along Medical Drive,1059
-342,Black-naped oriole,1,Ashy Minivet---Drop-off point along Medical Drive,1059
-343,Rock pigeon,0,Ashy Minivet---Drop-off point along Medical Drive,1059
-344,Yellow-vented bulbul,0,Ashy Minivet---Drop-off point along Medical Drive,1059
-345,Javan myna,3,Ashy Minivet---Prince George's Park Residences,1128
-346,Olive-backed sunbird,0,Ashy Minivet---Prince George's Park Residences,1128
-347,Black-naped oriole,1,Ashy Minivet---Prince George's Park Residences,1128
-348,Rock pigeon,0,Ashy Minivet---Prince George's Park Residences,1128
-349,Yellow-vented bulbul,2,Ashy Minivet---Prince George's Park Residences,1128
-350,Javan myna,1,Ashy Minivet---Kent Ridge Road near Institute for Clinical Sciences,1110
-351,Olive-backed sunbird,0,Ashy Minivet---Kent Ridge Road near Institute for Clinical Sciences,1110
-352,Black-naped oriole,0,Ashy Minivet---Kent Ridge Road near Institute for Clinical Sciences,1110
-353,Rock pigeon,0,Ashy Minivet---Kent Ridge Road near Institute for Clinical Sciences,1110
-354,Yellow-vented bulbul,1,Ashy Minivet---Kent Ridge Road near Institute for Clinical Sciences,1110
-355,Javan myna,0,Banded Woodpecker ---Linkway between Ventus and Eusoff Hall,0758
-356,Olive-backed sunbird,3,Banded Woodpecker ---Linkway between Ventus and Eusoff Hall,0758
-357,Black-naped oriole,0,Banded Woodpecker ---Linkway between Ventus and Eusoff Hall,0758
-358,Rock pigeon,0,Banded Woodpecker ---Linkway between Ventus and Eusoff Hall,0758
-359,Yellow-vented bulbul,4,Banded Woodpecker ---Linkway between Ventus and Eusoff Hall,0758
-360,Javan myna,0,"Banded Woodpecker ---Road along AS5, facing Eusoff and Temasek Halls",0825
-361,Olive-backed sunbird,4,"Banded Woodpecker ---Road along AS5, facing Eusoff and Temasek Halls",0825
-362,Black-naped oriole,0,"Banded Woodpecker ---Road along AS5, facing Eusoff and Temasek Halls",0825
-363,Rock pigeon,0,"Banded Woodpecker ---Road along AS5, facing Eusoff and Temasek Halls",0825
-364,Yellow-vented bulbul,0,"Banded Woodpecker ---Road along AS5, facing Eusoff and Temasek Halls",0825
-365,Javan myna,3,Banded Woodpecker ---Driveway between the Deck and KR Guild House,0840
-366,Olive-backed sunbird,1,Banded Woodpecker ---Driveway between the Deck and KR Guild House,0840
-367,Black-naped oriole,0,Banded Woodpecker ---Driveway between the Deck and KR Guild House,0840
-368,Rock pigeon,0,Banded Woodpecker ---Driveway between the Deck and KR Guild House,0840
-369,Yellow-vented bulbul,1,Banded Woodpecker ---Driveway between the Deck and KR Guild House,0840
-370,Javan myna,2,"Banded Woodpecker ---Area behind SoC, between two buildings, next to a forest",0906
-371,Olive-backed sunbird,2,"Banded Woodpecker ---Area behind SoC, between two buildings, next to a forest",0906
-372,Black-naped oriole,1,"Banded Woodpecker ---Area behind SoC, between two buildings, next to a forest",0906
-373,Rock pigeon,0,"Banded Woodpecker ---Area behind SoC, between two buildings, next to a forest",0906
-374,Yellow-vented bulbul,2,"Banded Woodpecker ---Area behind SoC, between two buildings, next to a forest",0906
-375,Javan myna,0,"Banded Woodpecker ---CLB Annexe, outside Centre for Instructional Technology",0931
-376,Olive-backed sunbird,7,"Banded Woodpecker ---CLB Annexe, outside Centre for Instructional Technology",0931
-377,Black-naped oriole,0,"Banded Woodpecker ---CLB Annexe, outside Centre for Instructional Technology",0931
-378,Rock pigeon,0,"Banded Woodpecker ---CLB Annexe, outside Centre for Instructional Technology",0931
-379,Yellow-vented bulbul,3,"Banded Woodpecker ---CLB Annexe, outside Centre for Instructional Technology",0931
-380,Javan myna,0,"Banded Woodpecker ---Beside Clementi Road, area beside the Ebra crossing",0835
-381,Olive-backed sunbird,0,"Banded Woodpecker ---Beside Clementi Road, area beside the Ebra crossing",0835
-382,Black-naped oriole,0,"Banded Woodpecker ---Beside Clementi Road, area beside the Ebra crossing",0835
-383,Rock pigeon,0,"Banded Woodpecker ---Beside Clementi Road, area beside the Ebra crossing",0835
-384,Yellow-vented bulbul,1,"Banded Woodpecker ---Beside Clementi Road, area beside the Ebra crossing",0835
-385,Javan myna,8,Banded Woodpecker ---Area beside the parking machine bar.,0900
-386,Olive-backed sunbird,0,Banded Woodpecker ---Area beside the parking machine bar.,0900
-387,Black-naped oriole,0,Banded Woodpecker ---Area beside the parking machine bar.,0900
-388,Rock pigeon,0,Banded Woodpecker ---Area beside the parking machine bar.,0900
-389,Yellow-vented bulbul,5,Banded Woodpecker ---Area beside the parking machine bar.,0900
-390,Javan myna,1,Banded Woodpecker ---Outside U-town Starbucks,0915
-391,Olive-backed sunbird,0,Banded Woodpecker ---Outside U-town Starbucks,0915
-392,Black-naped oriole,0,Banded Woodpecker ---Outside U-town Starbucks,0915
-393,Rock pigeon,0,Banded Woodpecker ---Outside U-town Starbucks,0915
-394,Yellow-vented bulbul,1,Banded Woodpecker ---Outside U-town Starbucks,0915
-395,Javan myna,1,Banded Woodpecker ---Beside UTR,0937
-396,Olive-backed sunbird,0,Banded Woodpecker ---Beside UTR,0937
-397,Black-naped oriole,0,Banded Woodpecker ---Beside UTR,0937
-398,Rock pigeon,0,Banded Woodpecker ---Beside UTR,0937
-399,Yellow-vented bulbul,0,Banded Woodpecker ---Beside UTR,0937
-400,Javan myna,0,Banded Woodpecker ---Beside Tembusu college,0949
-401,Olive-backed sunbird,0,Banded Woodpecker ---Beside Tembusu college,0949
-402,Black-naped oriole,0,Banded Woodpecker ---Beside Tembusu college,0949
-403,Rock pigeon,0,Banded Woodpecker ---Beside Tembusu college,0949
-404,Yellow-vented bulbul,4,Banded Woodpecker ---Beside Tembusu college,0949
-405,Javan myna,3,"Spotted Wood Owl---In front of RC4, closest to the University Town bus stop",0817
-406,Olive-backed sunbird,1,"Spotted Wood Owl---In front of RC4, closest to the University Town bus stop",0817
-407,Black-naped oriole,0,"Spotted Wood Owl---In front of RC4, closest to the University Town bus stop",0817
-408,Rock pigeon,0,"Spotted Wood Owl---In front of RC4, closest to the University Town bus stop",0817
-409,Yellow-vented bulbul,1,"Spotted Wood Owl---In front of RC4, closest to the University Town bus stop",0817
-410,Javan myna,2,Spotted Wood Owl---In the middle of the Yale-NUS garden,0834
-411,Olive-backed sunbird,0,Spotted Wood Owl---In the middle of the Yale-NUS garden,0834
-412,Black-naped oriole,0,Spotted Wood Owl---In the middle of the Yale-NUS garden,0834
-413,Rock pigeon,0,Spotted Wood Owl---In the middle of the Yale-NUS garden,0834
-414,Yellow-vented bulbul,2,Spotted Wood Owl---In the middle of the Yale-NUS garden,0834
-415,Javan myna,3,Spotted Wood Owl---On the road opposite Yale-Nus Blk 28,0850
-416,Olive-backed sunbird,0,Spotted Wood Owl---On the road opposite Yale-Nus Blk 28,0850
-417,Black-naped oriole,0,Spotted Wood Owl---On the road opposite Yale-Nus Blk 28,0850
-418,Rock pigeon,0,Spotted Wood Owl---On the road opposite Yale-Nus Blk 28,0850
-419,Yellow-vented bulbul,0,Spotted Wood Owl---On the road opposite Yale-Nus Blk 28,0850
-420,Javan myna,7,Spotted Wood Owl---In the middle of Town Green,0914
-421,Olive-backed sunbird,0,Spotted Wood Owl---In the middle of Town Green,0914
-422,Black-naped oriole,0,Spotted Wood Owl---In the middle of Town Green,0914
-423,Rock pigeon,0,Spotted Wood Owl---In the middle of Town Green,0914
-424,Yellow-vented bulbul,0,Spotted Wood Owl---In the middle of Town Green,0914
-425,Javan myna,0,Spotted Wood Owl---36 College Avenue East next to North Tower of the UTown Residence,0936
-426,Olive-backed sunbird,0,Spotted Wood Owl---36 College Avenue East next to North Tower of the UTown Residence,0936
-427,Black-naped oriole,0,Spotted Wood Owl---36 College Avenue East next to North Tower of the UTown Residence,0936
-428,Rock pigeon,0,Spotted Wood Owl---36 College Avenue East next to North Tower of the UTown Residence,0936
-429,Yellow-vented bulbul,2,Spotted Wood Owl---36 College Avenue East next to North Tower of the UTown Residence,0936
-430,Javan myna,2,"Spotted Wood Owl---12 Science Drive 4, beside University Hall",1027
-431,Olive-backed sunbird,0,"Spotted Wood Owl---12 Science Drive 4, beside University Hall",1027
-432,Black-naped oriole,0,"Spotted Wood Owl---12 Science Drive 4, beside University Hall",1027
-433,Rock pigeon,0,"Spotted Wood Owl---12 Science Drive 4, beside University Hall",1027
-434,Yellow-vented bulbul,0,"Spotted Wood Owl---12 Science Drive 4, beside University Hall",1027
-435,Javan myna,2,Spotted Wood Owl---Between the middle of the track and field at FoS,1047
-436,Olive-backed sunbird,0,Spotted Wood Owl---Between the middle of the track and field at FoS,1047
-437,Black-naped oriole,0,Spotted Wood Owl---Between the middle of the track and field at FoS,1047
-438,Rock pigeon,0,Spotted Wood Owl---Between the middle of the track and field at FoS,1047
-439,Yellow-vented bulbul,0,Spotted Wood Owl---Between the middle of the track and field at FoS,1047
-440,Javan myna,4,"Spotted Wood Owl---11 Lower Kent Ridge Rd, CP10 Carpark near Faculty of Dentistry",1135
-441,Olive-backed sunbird,0,"Spotted Wood Owl---11 Lower Kent Ridge Rd, CP10 Carpark near Faculty of Dentistry",1135
-442,Black-naped oriole,0,"Spotted Wood Owl---11 Lower Kent Ridge Rd, CP10 Carpark near Faculty of Dentistry",1135
-443,Rock pigeon,0,"Spotted Wood Owl---11 Lower Kent Ridge Rd, CP10 Carpark near Faculty of Dentistry",1135
-444,Yellow-vented bulbul,1,"Spotted Wood Owl---11 Lower Kent Ridge Rd, CP10 Carpark near Faculty of Dentistry",1135
-445,Javan myna,2,"Spotted Wood Owl---27 Medical Dr, Department of Anatomy drop-off point",1201
-446,Olive-backed sunbird,0,"Spotted Wood Owl---27 Medical Dr, Department of Anatomy drop-off point",1201
-447,Black-naped oriole,0,"Spotted Wood Owl---27 Medical Dr, Department of Anatomy drop-off point",1201
-448,Rock pigeon,0,"Spotted Wood Owl---27 Medical Dr, Department of Anatomy drop-off point",1201
-449,Yellow-vented bulbul,0,"Spotted Wood Owl---27 Medical Dr, Department of Anatomy drop-off point",1201
-450,Javan myna,7,Spotted Wood Owl---In front of Singapore Wind Tunnel Facility (restricted area),1028
-451,Olive-backed sunbird,0,Spotted Wood Owl---In front of Singapore Wind Tunnel Facility (restricted area),1028
-452,Black-naped oriole,1,Spotted Wood Owl---In front of Singapore Wind Tunnel Facility (restricted area),1028
-453,Rock pigeon,0,Spotted Wood Owl---In front of Singapore Wind Tunnel Facility (restricted area),1028
-454,Yellow-vented bulbul,1,Spotted Wood Owl---In front of Singapore Wind Tunnel Facility (restricted area),1028
-455,Javan myna,1,Spotted Wood Owl---Engineering block,1104
-456,Olive-backed sunbird,2,Spotted Wood Owl---Engineering block,1104
-457,Black-naped oriole,0,Spotted Wood Owl---Engineering block,1104
-458,Rock pigeon,0,Spotted Wood Owl---Engineering block,1104
-459,Yellow-vented bulbul,0,Spotted Wood Owl---Engineering block,1104
-460,Javan myna,0,Spotted Wood Owl---College Link (behind College Link Road),1126
-461,Olive-backed sunbird,0,Spotted Wood Owl---College Link (behind College Link Road),1126
-462,Black-naped oriole,3,Spotted Wood Owl---College Link (behind College Link Road),1126
-463,Rock pigeon,3,Spotted Wood Owl---College Link (behind College Link Road),1126
-464,Yellow-vented bulbul,1,Spotted Wood Owl---College Link (behind College Link Road),1126
-465,Javan myna,0,Spotted Wood Owl---Besides University Cultural Centre (UCC),1050
-466,Olive-backed sunbird,3,Spotted Wood Owl---Besides University Cultural Centre (UCC),1050
-467,Black-naped oriole,0,Spotted Wood Owl---Besides University Cultural Centre (UCC),1050
-468,Rock pigeon,0,Spotted Wood Owl---Besides University Cultural Centre (UCC),1050
-469,Yellow-vented bulbul,0,Spotted Wood Owl---Besides University Cultural Centre (UCC),1050
-470,Javan myna,4,"Brahminy Kite---30ev, Behind SRC",1053
-471,Olive-backed sunbird,1,"Brahminy Kite---30ev, Behind SRC",1053
-472,Black-naped oriole,2,"Brahminy Kite---30ev, Behind SRC",1053
-473,Rock pigeon,0,"Brahminy Kite---30ev, Behind SRC",1053
-474,Yellow-vented bulbul,9,"Brahminy Kite---30ev, Behind SRC",1053
-475,Javan myna,1,Brahminy Kite---Beside Central Library Bus Stop,0903
-476,Olive-backed sunbird,2,Brahminy Kite---Beside Central Library Bus Stop,0903
-477,Black-naped oriole,0,Brahminy Kite---Beside Central Library Bus Stop,0903
-478,Rock pigeon,0,Brahminy Kite---Beside Central Library Bus Stop,0903
-479,Yellow-vented bulbul,2,Brahminy Kite---Beside Central Library Bus Stop,0903
-480,Javan myna,3,"Brahminy Kite---Research Link, Behind Central Library",0920
-481,Olive-backed sunbird,3,"Brahminy Kite---Research Link, Behind Central Library",0920
-482,Black-naped oriole,1,"Brahminy Kite---Research Link, Behind Central Library",0920
-483,Rock pigeon,0,"Brahminy Kite---Research Link, Behind Central Library",0920
-484,Yellow-vented bulbul,7,"Brahminy Kite---Research Link, Behind Central Library",0920
-485,Javan myna,2,"Brahminy Kite---In the middle of YIH and CLB bus stop, opposite Engineering E4",0939
-486,Olive-backed sunbird,2,"Brahminy Kite---In the middle of YIH and CLB bus stop, opposite Engineering E4",0939
-487,Black-naped oriole,0,"Brahminy Kite---In the middle of YIH and CLB bus stop, opposite Engineering E4",0939
-488,Rock pigeon,0,"Brahminy Kite---In the middle of YIH and CLB bus stop, opposite Engineering E4",0939
-489,Yellow-vented bulbul,2,"Brahminy Kite---In the middle of YIH and CLB bus stop, opposite Engineering E4",0939
-490,Javan myna,0,Brahminy Kite---Beside Create Building,1003
-491,Olive-backed sunbird,5,Brahminy Kite---Beside Create Building,1003
-492,Black-naped oriole,0,Brahminy Kite---Beside Create Building,1003
-493,Rock pigeon,0,Brahminy Kite---Beside Create Building,1003
-494,Yellow-vented bulbul,2,Brahminy Kite---Beside Create Building,1003
-495,Javan myna,3,Brahminy Kite---Beside starbucks,1020
-496,Olive-backed sunbird,2,Brahminy Kite---Beside starbucks,1020
-497,Black-naped oriole,0,Brahminy Kite---Beside starbucks,1020
-498,Rock pigeon,0,Brahminy Kite---Beside starbucks,1020
-499,Yellow-vented bulbul,8,Brahminy Kite---Beside starbucks,1020
-500,Javan myna,0,Brahminy Kite---Behind Tembusu,1037
-501,Olive-backed sunbird,0,Brahminy Kite---Behind Tembusu,1037
-502,Black-naped oriole,0,Brahminy Kite---Behind Tembusu,1037
-503,Rock pigeon,0,Brahminy Kite---Behind Tembusu,1037
-504,Yellow-vented bulbul,5,Brahminy Kite---Behind Tembusu,1037
-505,Javan myna,1,"Brahminy Kite---20m ev, Up slope to the FOS carpark beside University Hall",0807
-506,Olive-backed sunbird,3,"Brahminy Kite---20m ev, Up slope to the FOS carpark beside University Hall",0807
-507,Black-naped oriole,0,"Brahminy Kite---20m ev, Up slope to the FOS carpark beside University Hall",0807
-508,Rock pigeon,0,"Brahminy Kite---20m ev, Up slope to the FOS carpark beside University Hall",0807
-509,Yellow-vented bulbul,2,"Brahminy Kite---20m ev, Up slope to the FOS carpark beside University Hall",0807
-510,Javan myna,0,"Brahminy Kite---20m ev, On green field, beside running track",0821
-511,Olive-backed sunbird,1,"Brahminy Kite---20m ev, On green field, beside running track",0821
-512,Black-naped oriole,0,"Brahminy Kite---20m ev, On green field, beside running track",0821
-513,Rock pigeon,0,"Brahminy Kite---20m ev, On green field, beside running track",0821
-514,Yellow-vented bulbul,5,"Brahminy Kite---20m ev, On green field, beside running track",0821
-515,Javan myna,0,"Brahminy Kite---20m ev, On green field, beside running track and construction yard",0835
-516,Olive-backed sunbird,0,"Brahminy Kite---20m ev, On green field, beside running track and construction yard",0835
-517,Black-naped oriole,0,"Brahminy Kite---20m ev, On green field, beside running track and construction yard",0835
-518,Rock pigeon,0,"Brahminy Kite---20m ev, On green field, beside running track and construction yard",0835
-519,Yellow-vented bulbul,4,"Brahminy Kite---20m ev, On green field, beside running track and construction yard",0835
-520,Javan myna,3,"Brahminy Kite---20m ev, Next to S17, end of carpark, next to S17 bus stop",0900
-521,Olive-backed sunbird,0,"Brahminy Kite---20m ev, Next to S17, end of carpark, next to S17 bus stop",0900
-522,Black-naped oriole,0,"Brahminy Kite---20m ev, Next to S17, end of carpark, next to S17 bus stop",0900
-523,Rock pigeon,0,"Brahminy Kite---20m ev, Next to S17, end of carpark, next to S17 bus stop",0900
-524,Yellow-vented bulbul,0,"Brahminy Kite---20m ev, Next to S17, end of carpark, next to S17 bus stop",0900
-525,Javan myna,1,"Brahminy Kite---30m ev, MD02 Loading Bay, Ventation area. In between MD02 and Carpark",0935
-526,Olive-backed sunbird,0,"Brahminy Kite---30m ev, MD02 Loading Bay, Ventation area. In between MD02 and Carpark",0935
-527,Black-naped oriole,0,"Brahminy Kite---30m ev, MD02 Loading Bay, Ventation area. In between MD02 and Carpark",0935
-528,Rock pigeon,0,"Brahminy Kite---30m ev, MD02 Loading Bay, Ventation area. In between MD02 and Carpark",0935
-529,Yellow-vented bulbul,0,"Brahminy Kite---30m ev, MD02 Loading Bay, Ventation area. In between MD02 and Carpark",0935
-530,Javan myna,3,"Brahminy Kite---30ev, Utown Green",1014
-531,Olive-backed sunbird,0,"Brahminy Kite---30ev, Utown Green",1014
-532,Black-naped oriole,0,"Brahminy Kite---30ev, Utown Green",1014
-533,Rock pigeon,0,"Brahminy Kite---30ev, Utown Green",1014
-534,Yellow-vented bulbul,1,"Brahminy Kite---30ev, Utown Green",1014
-535,Javan myna,2,"Brahminy Kite---30ev, CAPT Dining Hall exit",1042
-536,Olive-backed sunbird,0,"Brahminy Kite---30ev, CAPT Dining Hall exit",1042
-537,Black-naped oriole,0,"Brahminy Kite---30ev, CAPT Dining Hall exit",1042
-538,Rock pigeon,0,"Brahminy Kite---30ev, CAPT Dining Hall exit",1042
-539,Yellow-vented bulbul,2,"Brahminy Kite---30ev, CAPT Dining Hall exit",1042
-540,Javan myna,5,"Brahminy Kite---Prince George's Park, 20m from Busstop",0905
-541,Olive-backed sunbird,0,"Brahminy Kite---Prince George's Park, 20m from Busstop",0905
-542,Black-naped oriole,5,"Brahminy Kite---Prince George's Park, 20m from Busstop",0905
-543,Rock pigeon,0,"Brahminy Kite---Prince George's Park, 20m from Busstop",0905
-544,Yellow-vented bulbul,0,"Brahminy Kite---Prince George's Park, 20m from Busstop",0905
-545,Javan myna,7,"Brahminy Kite---Prince George's Park, Main Road",0924
-546,Olive-backed sunbird,0,"Brahminy Kite---Prince George's Park, Main Road",0924
-547,Black-naped oriole,0,"Brahminy Kite---Prince George's Park, Main Road",0924
-548,Rock pigeon,0,"Brahminy Kite---Prince George's Park, Main Road",0924
-549,Yellow-vented bulbul,0,"Brahminy Kite---Prince George's Park, Main Road",0924
-550,Javan myna,3,"Brahminy Kite---Prince George's Park, At the bend",0940
-551,Olive-backed sunbird,0,"Brahminy Kite---Prince George's Park, At the bend",0940
-552,Black-naped oriole,0,"Brahminy Kite---Prince George's Park, At the bend",0940
-553,Rock pigeon,0,"Brahminy Kite---Prince George's Park, At the bend",0940
-554,Yellow-vented bulbul,0,"Brahminy Kite---Prince George's Park, At the bend",0940
-555,Javan myna,1,"Brahminy Kite---30 Heng Mui Keng Terrace, Besides Sheares Hall",1000
-556,Olive-backed sunbird,1,"Brahminy Kite---30 Heng Mui Keng Terrace, Besides Sheares Hall",1000
-557,Black-naped oriole,0,"Brahminy Kite---30 Heng Mui Keng Terrace, Besides Sheares Hall",1000
-558,Rock pigeon,0,"Brahminy Kite---30 Heng Mui Keng Terrace, Besides Sheares Hall",1000
-559,Yellow-vented bulbul,0,"Brahminy Kite---30 Heng Mui Keng Terrace, Besides Sheares Hall",1000
-560,Javan myna,0,"Brahminy Kite---College Link Rd, Roundabout Loop",1020
-561,Olive-backed sunbird,1,"Brahminy Kite---College Link Rd, Roundabout Loop",1020
-562,Black-naped oriole,2,"Brahminy Kite---College Link Rd, Roundabout Loop",1020
-563,Rock pigeon,0,"Brahminy Kite---College Link Rd, Roundabout Loop",1020
-564,Yellow-vented bulbul,1,"Brahminy Kite---College Link Rd, Roundabout Loop",1020
-565,Javan myna,1,"Brahminy Kite---36 College Ave E, Singapore 138600, Behind UTR",1040
-566,Olive-backed sunbird,0,"Brahminy Kite---36 College Ave E, Singapore 138600, Behind UTR",1040
-567,Black-naped oriole,0,"Brahminy Kite---36 College Ave E, Singapore 138600, Behind UTR",1040
-568,Rock pigeon,0,"Brahminy Kite---36 College Ave E, Singapore 138600, Behind UTR",1040
-569,Yellow-vented bulbul,4,"Brahminy Kite---36 College Ave E, Singapore 138600, Behind UTR",1040
-570,Javan myna,2,"Ashy Minivet---Left of bus stop University Town, ID 19059 College Avenue West",0811
-571,Olive-backed sunbird,1,"Ashy Minivet---Left of bus stop University Town, ID 19059 College Avenue West",0811
-572,Black-naped oriole,1,"Ashy Minivet---Left of bus stop University Town, ID 19059 College Avenue West",0811
-573,Rock pigeon,0,"Ashy Minivet---Left of bus stop University Town, ID 19059 College Avenue West",0811
-574,Yellow-vented bulbul,1,"Ashy Minivet---Left of bus stop University Town, ID 19059 College Avenue West",0811
-575,Javan myna,1,"Ashy Minivet---Right of bus stop Aft Dover Road, ID 17099, College Avenue West",0811
-576,Olive-backed sunbird,0,"Ashy Minivet---Right of bus stop Aft Dover Road, ID 17099, College Avenue West",0811
-577,Black-naped oriole,1,"Ashy Minivet---Right of bus stop Aft Dover Road, ID 17099, College Avenue West",0811
-578,Rock pigeon,0,"Ashy Minivet---Right of bus stop Aft Dover Road, ID 17099, College Avenue West",0811
-579,Yellow-vented bulbul,0,"Ashy Minivet---Right of bus stop Aft Dover Road, ID 17099, College Avenue West",0811
-580,Javan myna,2,Ashy Minivet---300m walk towards Clementi Road from Stephen Riady Center,0828
-581,Olive-backed sunbird,0,Ashy Minivet---300m walk towards Clementi Road from Stephen Riady Center,0828
-582,Black-naped oriole,1,Ashy Minivet---300m walk towards Clementi Road from Stephen Riady Center,0828
-583,Rock pigeon,2,Ashy Minivet---300m walk towards Clementi Road from Stephen Riady Center,0828
-584,Yellow-vented bulbul,0,Ashy Minivet---300m walk towards Clementi Road from Stephen Riady Center,0828
-585,Javan myna,1,Ashy Minivet---Outside Sapore's Italiano,0846
-586,Olive-backed sunbird,0,Ashy Minivet---Outside Sapore's Italiano,0846
-587,Black-naped oriole,0,Ashy Minivet---Outside Sapore's Italiano,0846
-588,Rock pigeon,0,Ashy Minivet---Outside Sapore's Italiano,0846
-589,Yellow-vented bulbul,0,Ashy Minivet---Outside Sapore's Italiano,0846
-590,Javan myna,6,Ashy Minivet---Edge of Town Green near Pizza Hut,0828
-591,Olive-backed sunbird,2,Ashy Minivet---Edge of Town Green near Pizza Hut,0828
-592,Black-naped oriole,0,Ashy Minivet---Edge of Town Green near Pizza Hut,0828
-593,Rock pigeon,0,Ashy Minivet---Edge of Town Green near Pizza Hut,0828
-594,Yellow-vented bulbul,1,Ashy Minivet---Edge of Town Green near Pizza Hut,0828
-595,Javan myna,3,Ashy Minivet---Road/Parking space behind Create Tower,0912
-596,Olive-backed sunbird,0,Ashy Minivet---Road/Parking space behind Create Tower,0912
-597,Black-naped oriole,0,Ashy Minivet---Road/Parking space behind Create Tower,0912
-598,Rock pigeon,0,Ashy Minivet---Road/Parking space behind Create Tower,0912
-599,Yellow-vented bulbul,0,Ashy Minivet---Road/Parking space behind Create Tower,0912
-600,Javan myna,4,"Ashy Minivet---30 College Ave E, Singapore 138599",0940
-601,Olive-backed sunbird,0,"Ashy Minivet---30 College Ave E, Singapore 138599",0940
-602,Black-naped oriole,0,"Ashy Minivet---30 College Ave E, Singapore 138599",0940
-603,Rock pigeon,0,"Ashy Minivet---30 College Ave E, Singapore 138599",0940
-604,Yellow-vented bulbul,3,"Ashy Minivet---30 College Ave E, Singapore 138599",0940
-605,Javan myna,1,Ashy Minivet---22 College Ave East,0940
-606,Olive-backed sunbird,0,Ashy Minivet---22 College Ave East,0940
-607,Black-naped oriole,0,Ashy Minivet---22 College Ave East,0940
-608,Rock pigeon,0,Ashy Minivet---22 College Ave East,0940
-609,Yellow-vented bulbul,3,Ashy Minivet---22 College Ave East,0940
-610,Javan myna,2,"Ashy Minivet---18 College Ave E, Singapore 138593",1001
-611,Olive-backed sunbird,0,"Ashy Minivet---18 College Ave E, Singapore 138593",1001
-612,Black-naped oriole,1,"Ashy Minivet---18 College Ave E, Singapore 138593",1001
-613,Rock pigeon,0,"Ashy Minivet---18 College Ave E, Singapore 138593",1001
-614,Yellow-vented bulbul,2,"Ashy Minivet---18 College Ave E, Singapore 138593",1001
-615,Javan myna,4,Ashy Minivet---Cinnamon College Driveway along College Ave E,1012
-616,Olive-backed sunbird,0,Ashy Minivet---Cinnamon College Driveway along College Ave E,1012
-617,Black-naped oriole,0,Ashy Minivet---Cinnamon College Driveway along College Ave E,1012
-618,Rock pigeon,0,Ashy Minivet---Cinnamon College Driveway along College Ave E,1012
-619,Yellow-vented bulbul,3,Ashy Minivet---Cinnamon College Driveway along College Ave E,1012
-620,Javan myna,5,Coppersmith Barbet---28 College Ave West (near Yale-NUS),0750
-621,Olive-backed sunbird,1,Coppersmith Barbet---28 College Ave West (near Yale-NUS),0750
-622,Black-naped oriole,1,Coppersmith Barbet---28 College Ave West (near Yale-NUS),0750
-623,Rock pigeon,0,Coppersmith Barbet---28 College Ave West (near Yale-NUS),0750
-624,Yellow-vented bulbul,0,Coppersmith Barbet---28 College Ave West (near Yale-NUS),0750
-625,Javan myna,1,Coppersmith Barbet---6 College Ave E (near RC4),0806
-626,Olive-backed sunbird,0,Coppersmith Barbet---6 College Ave E (near RC4),0806
-627,Black-naped oriole,0,Coppersmith Barbet---6 College Ave E (near RC4),0806
-628,Rock pigeon,2,Coppersmith Barbet---6 College Ave E (near RC4),0806
-629,Yellow-vented bulbul,2,Coppersmith Barbet---6 College Ave E (near RC4),0806
-630,Javan myna,0,Coppersmith Barbet---8 College Ave E (near CAPT),0822
-631,Olive-backed sunbird,0,Coppersmith Barbet---8 College Ave E (near CAPT),0822
-632,Black-naped oriole,2,Coppersmith Barbet---8 College Ave E (near CAPT),0822
-633,Rock pigeon,0,Coppersmith Barbet---8 College Ave E (near CAPT),0822
-634,Yellow-vented bulbul,1,Coppersmith Barbet---8 College Ave E (near CAPT),0822
-635,Javan myna,3,Coppersmith Barbet---26 College Ave E (near Cinnamon College),0837
-636,Olive-backed sunbird,1,Coppersmith Barbet---26 College Ave E (near Cinnamon College),0837
-637,Black-naped oriole,1,Coppersmith Barbet---26 College Ave E (near Cinnamon College),0837
-638,Rock pigeon,5,Coppersmith Barbet---26 College Ave E (near Cinnamon College),0837
-639,Yellow-vented bulbul,2,Coppersmith Barbet---26 College Ave E (near Cinnamon College),0837
-640,Javan myna,5,Coppersmith Barbet---36 College Ave E (near UTown Residence),0900
-641,Olive-backed sunbird,1,Coppersmith Barbet---36 College Ave E (near UTown Residence),0900
-642,Black-naped oriole,1,Coppersmith Barbet---36 College Ave E (near UTown Residence),0900
-643,Rock pigeon,1,Coppersmith Barbet---36 College Ave E (near UTown Residence),0900
-644,Yellow-vented bulbul,4,Coppersmith Barbet---36 College Ave E (near UTown Residence),0900
-645,Javan myna,5,Coppersmith Barbet---College Link Rd (near Hwang's),0921
-646,Olive-backed sunbird,1,Coppersmith Barbet---College Link Rd (near Hwang's),0921
-647,Black-naped oriole,0,Coppersmith Barbet---College Link Rd (near Hwang's),0921
-648,Rock pigeon,0,Coppersmith Barbet---College Link Rd (near Hwang's),0921
-649,Yellow-vented bulbul,3,Coppersmith Barbet---College Link Rd (near Hwang's),0921
-650,Javan myna,9,"Coppersmith Barbet---CREATE Tower, 1 Create Way (near Town Green)",0935
-651,Olive-backed sunbird,1,"Coppersmith Barbet---CREATE Tower, 1 Create Way (near Town Green)",0935
-652,Black-naped oriole,0,"Coppersmith Barbet---CREATE Tower, 1 Create Way (near Town Green)",0935
-653,Rock pigeon,0,"Coppersmith Barbet---CREATE Tower, 1 Create Way (near Town Green)",0935
-654,Yellow-vented bulbul,3,"Coppersmith Barbet---CREATE Tower, 1 Create Way (near Town Green)",0935
-655,Javan myna,5,Coppersmith Barbet---AYE (near the wind tunnel facility),1005
-656,Olive-backed sunbird,1,Coppersmith Barbet---AYE (near the wind tunnel facility),1005
-657,Black-naped oriole,1,Coppersmith Barbet---AYE (near the wind tunnel facility),1005
-658,Rock pigeon,0,Coppersmith Barbet---AYE (near the wind tunnel facility),1005
-659,Yellow-vented bulbul,3,Coppersmith Barbet---AYE (near the wind tunnel facility),1005
-660,Javan myna,4,Coppersmith Barbet---8 Sports Drive 1 (near NUS Sports Hall),0745
-661,Olive-backed sunbird,0,Coppersmith Barbet---8 Sports Drive 1 (near NUS Sports Hall),0745
-662,Black-naped oriole,0,Coppersmith Barbet---8 Sports Drive 1 (near NUS Sports Hall),0745
-663,Rock pigeon,0,Coppersmith Barbet---8 Sports Drive 1 (near NUS Sports Hall),0745
-664,Yellow-vented bulbul,0,Coppersmith Barbet---8 Sports Drive 1 (near NUS Sports Hall),0745
-665,Javan myna,0,Coppersmith Barbet---20 Lower Kent Ridge Rd (near YIH),0800
-666,Olive-backed sunbird,2,Coppersmith Barbet---20 Lower Kent Ridge Rd (near YIH),0800
-667,Black-naped oriole,0,Coppersmith Barbet---20 Lower Kent Ridge Rd (near YIH),0800
-668,Rock pigeon,0,Coppersmith Barbet---20 Lower Kent Ridge Rd (near YIH),0800
-669,Yellow-vented bulbul,0,Coppersmith Barbet---20 Lower Kent Ridge Rd (near YIH),0800
-670,Javan myna,1,"Coppersmith Barbet---NUS Field, near AYE",0825
-671,Olive-backed sunbird,4,"Coppersmith Barbet---NUS Field, near AYE",0825
-672,Black-naped oriole,0,"Coppersmith Barbet---NUS Field, near AYE",0825
-673,Rock pigeon,1,"Coppersmith Barbet---NUS Field, near AYE",0825
-674,Yellow-vented bulbul,1,"Coppersmith Barbet---NUS Field, near AYE",0825
-675,Javan myna,2,"Coppersmith Barbet---Lower Kent Ridge Road, LT33 (Carpark behind LT33)",0845
-676,Olive-backed sunbird,2,"Coppersmith Barbet---Lower Kent Ridge Road, LT33 (Carpark behind LT33)",0845
-677,Black-naped oriole,0,"Coppersmith Barbet---Lower Kent Ridge Road, LT33 (Carpark behind LT33)",0845
-678,Rock pigeon,0,"Coppersmith Barbet---Lower Kent Ridge Road, LT33 (Carpark behind LT33)",0845
-679,Yellow-vented bulbul,0,"Coppersmith Barbet---Lower Kent Ridge Road, LT33 (Carpark behind LT33)",0845
-680,Javan myna,1,Coppersmith Barbet---1 Science Drive,0900
-681,Olive-backed sunbird,1,Coppersmith Barbet---1 Science Drive,0900
-682,Black-naped oriole,0,Coppersmith Barbet---1 Science Drive,0900
-683,Rock pigeon,2,Coppersmith Barbet---1 Science Drive,0900
-684,Yellow-vented bulbul,0,Coppersmith Barbet---1 Science Drive,0900
-685,Javan myna,2,Coppersmith Barbet---Prince George's Park Residences,0930
-686,Olive-backed sunbird,3,Coppersmith Barbet---Prince George's Park Residences,0930
-687,Black-naped oriole,0,Coppersmith Barbet---Prince George's Park Residences,0930
-688,Rock pigeon,1,Coppersmith Barbet---Prince George's Park Residences,0930
-689,Yellow-vented bulbul,0,Coppersmith Barbet---Prince George's Park Residences,0930
-690,Javan myna,1,"Coppersmith Barbet---Engineering Drive 1, T-Lab (Carpark)",0740
-691,Olive-backed sunbird,2,"Coppersmith Barbet---Engineering Drive 1, T-Lab (Carpark)",0740
-692,Black-naped oriole,1,"Coppersmith Barbet---Engineering Drive 1, T-Lab (Carpark)",0740
-693,Rock pigeon,0,"Coppersmith Barbet---Engineering Drive 1, T-Lab (Carpark)",0740
-694,Yellow-vented bulbul,3,"Coppersmith Barbet---Engineering Drive 1, T-Lab (Carpark)",0740
-695,Javan myna,7,"Coppersmith Barbet---Engineering Drive 4, Techno Edge",0810
-696,Olive-backed sunbird,0,"Coppersmith Barbet---Engineering Drive 4, Techno Edge",0810
-697,Black-naped oriole,3,"Coppersmith Barbet---Engineering Drive 4, Techno Edge",0810
-698,Rock pigeon,5,"Coppersmith Barbet---Engineering Drive 4, Techno Edge",0810
-699,Yellow-vented bulbul,2,"Coppersmith Barbet---Engineering Drive 4, Techno Edge",0810
-700,Javan myna,3,"Coppersmith Barbet---10 Architecture Drive, Center For English Language Communication",0825
-701,Olive-backed sunbird,2,"Coppersmith Barbet---10 Architecture Drive, Center For English Language Communication",0825
-702,Black-naped oriole,2,"Coppersmith Barbet---10 Architecture Drive, Center For English Language Communication",0825
-703,Rock pigeon,2,"Coppersmith Barbet---10 Architecture Drive, Center For English Language Communication",0825
-704,Yellow-vented bulbul,3,"Coppersmith Barbet---10 Architecture Drive, Center For English Language Communication",0825
-705,Javan myna,1,"Coppersmith Barbet---15 Kent Ridge Road, Centre for Development of Teaching and Learning",0844
-706,Olive-backed sunbird,4,"Coppersmith Barbet---15 Kent Ridge Road, Centre for Development of Teaching and Learning",0844
-707,Black-naped oriole,1,"Coppersmith Barbet---15 Kent Ridge Road, Centre for Development of Teaching and Learning",0844
-708,Rock pigeon,5,"Coppersmith Barbet---15 Kent Ridge Road, Centre for Development of Teaching and Learning",0844
-709,Yellow-vented bulbul,2,"Coppersmith Barbet---15 Kent Ridge Road, Centre for Development of Teaching and Learning",0844
-710,Javan myna,7,Coppersmith Barbet---Ridge View Residential College,0908
-711,Olive-backed sunbird,0,Coppersmith Barbet---Ridge View Residential College,0908
-712,Black-naped oriole,1,Coppersmith Barbet---Ridge View Residential College,0908
-713,Rock pigeon,2,Coppersmith Barbet---Ridge View Residential College,0908
-714,Yellow-vented bulbul,4,Coppersmith Barbet---Ridge View Residential College,0908
-715,Javan myna,0,Coppersmith Barbet---14A Prince George's Park,0935
-716,Olive-backed sunbird,1,Coppersmith Barbet---14A Prince George's Park,0935
-717,Black-naped oriole,3,Coppersmith Barbet---14A Prince George's Park,0935
-718,Rock pigeon,0,Coppersmith Barbet---14A Prince George's Park,0935
-719,Yellow-vented bulbul,6,Coppersmith Barbet---14A Prince George's Park,0935
-720,Javan myna,4,Pacific Swallow---9 Engineering Dr 1,1042
-721,Olive-backed sunbird,1,Pacific Swallow---9 Engineering Dr 1,1042
-722,Black-naped oriole,0,Pacific Swallow---9 Engineering Dr 1,1042
-723,Rock pigeon,0,Pacific Swallow---9 Engineering Dr 1,1042
-724,Yellow-vented bulbul,0,Pacific Swallow---9 Engineering Dr 1,1042
-725,Javan myna,0,"Pacific Swallow---Kent Ridge Dr, Opposite Kent Ridge Guild House",1118
-726,Olive-backed sunbird,0,"Pacific Swallow---Kent Ridge Dr, Opposite Kent Ridge Guild House",1118
-727,Black-naped oriole,1,"Pacific Swallow---Kent Ridge Dr, Opposite Kent Ridge Guild House",1118
-728,Rock pigeon,0,"Pacific Swallow---Kent Ridge Dr, Opposite Kent Ridge Guild House",1118
-729,Yellow-vented bulbul,0,"Pacific Swallow---Kent Ridge Dr, Opposite Kent Ridge Guild House",1118
-730,Javan myna,4,"Pacific Swallow---Kent Ridge Dr, in front of Shaw Foundation Alumni House",1130
-731,Olive-backed sunbird,3,"Pacific Swallow---Kent Ridge Dr, in front of Shaw Foundation Alumni House",1130
-732,Black-naped oriole,0,"Pacific Swallow---Kent Ridge Dr, in front of Shaw Foundation Alumni House",1130
-733,Rock pigeon,1,"Pacific Swallow---Kent Ridge Dr, in front of Shaw Foundation Alumni House",1130
-734,Yellow-vented bulbul,0,"Pacific Swallow---Kent Ridge Dr, in front of Shaw Foundation Alumni House",1130
-735,Javan myna,5,"Pacific Swallow---Prince George's Park, Opposite Residences",1225
-736,Olive-backed sunbird,0,"Pacific Swallow---Prince George's Park, Opposite Residences",1225
-737,Black-naped oriole,0,"Pacific Swallow---Prince George's Park, Opposite Residences",1225
-738,Rock pigeon,1,"Pacific Swallow---Prince George's Park, Opposite Residences",1225
-739,Yellow-vented bulbul,0,"Pacific Swallow---Prince George's Park, Opposite Residences",1225
-740,Javan myna,1,"Pacific Swallow---Lower Kent Ridge Road, after roundabout",1241
-741,Olive-backed sunbird,0,"Pacific Swallow---Lower Kent Ridge Road, after roundabout",1241
-742,Black-naped oriole,0,"Pacific Swallow---Lower Kent Ridge Road, after roundabout",1241
-743,Rock pigeon,0,"Pacific Swallow---Lower Kent Ridge Road, after roundabout",1241
-744,Yellow-vented bulbul,1,"Pacific Swallow---Lower Kent Ridge Road, after roundabout",1241
-745,Javan myna,3,"Pacific Swallow---Lower Kent Ridge Road, opposite LT28",1254
-746,Olive-backed sunbird,0,"Pacific Swallow---Lower Kent Ridge Road, opposite LT28",1254
-747,Black-naped oriole,0,"Pacific Swallow---Lower Kent Ridge Road, opposite LT28",1254
-748,Rock pigeon,3,"Pacific Swallow---Lower Kent Ridge Road, opposite LT28",1254
-749,Yellow-vented bulbul,0,"Pacific Swallow---Lower Kent Ridge Road, opposite LT28",1254
-750,Javan myna,2,"Pacific Swallow---Lower Kent Ridge Road, opposite University Hall",1430
-751,Olive-backed sunbird,3,"Pacific Swallow---Lower Kent Ridge Road, opposite University Hall",1430
-752,Black-naped oriole,0,"Pacific Swallow---Lower Kent Ridge Road, opposite University Hall",1430
-753,Rock pigeon,0,"Pacific Swallow---Lower Kent Ridge Road, opposite University Hall",1430
-754,Yellow-vented bulbul,1,"Pacific Swallow---Lower Kent Ridge Road, opposite University Hall",1430
-755,Javan myna,1,"Pacific Swallow---Lower Kent Ridge Road, field @ track",1441
-756,Olive-backed sunbird,0,"Pacific Swallow---Lower Kent Ridge Road, field @ track",1441
-757,Black-naped oriole,0,"Pacific Swallow---Lower Kent Ridge Road, field @ track",1441
-758,Rock pigeon,0,"Pacific Swallow---Lower Kent Ridge Road, field @ track",1441
-759,Yellow-vented bulbul,0,"Pacific Swallow---Lower Kent Ridge Road, field @ track",1441
-760,Javan myna,1,"Pacific Swallow---Lower Kent Ridge Road, USC opposite 7-11",1500
-761,Olive-backed sunbird,0,"Pacific Swallow---Lower Kent Ridge Road, USC opposite 7-11",1500
-762,Black-naped oriole,0,"Pacific Swallow---Lower Kent Ridge Road, USC opposite 7-11",1500
-763,Rock pigeon,0,"Pacific Swallow---Lower Kent Ridge Road, USC opposite 7-11",1500
-764,Yellow-vented bulbul,0,"Pacific Swallow---Lower Kent Ridge Road, USC opposite 7-11",1500
-765,Javan myna,2,"Pacific Swallow---In between ERC, YNC and Cinnamon",0805
-766,Olive-backed sunbird,0,"Pacific Swallow---In between ERC, YNC and Cinnamon",0805
-767,Black-naped oriole,0,"Pacific Swallow---In between ERC, YNC and Cinnamon",0805
-768,Rock pigeon,0,"Pacific Swallow---In between ERC, YNC and Cinnamon",0805
-769,Yellow-vented bulbul,5,"Pacific Swallow---In between ERC, YNC and Cinnamon",0805
-770,Javan myna,2,Pacific Swallow---Right outside of Cinnamon College,0818
-771,Olive-backed sunbird,0,Pacific Swallow---Right outside of Cinnamon College,0818
-772,Black-naped oriole,1,Pacific Swallow---Right outside of Cinnamon College,0818
-773,Rock pigeon,0,Pacific Swallow---Right outside of Cinnamon College,0818
-774,Yellow-vented bulbul,4,Pacific Swallow---Right outside of Cinnamon College,0818
-775,Javan myna,3,Pacific Swallow---Yale NUS College,0842
-776,Olive-backed sunbird,1,Pacific Swallow---Yale NUS College,0842
-777,Black-naped oriole,0,Pacific Swallow---Yale NUS College,0842
-778,Rock pigeon,0,Pacific Swallow---Yale NUS College,0842
-779,Yellow-vented bulbul,2,Pacific Swallow---Yale NUS College,0842
-780,Javan myna,4,"Pacific Swallow---Utown Green, Places with steps after pizza hut",0901
-781,Olive-backed sunbird,0,"Pacific Swallow---Utown Green, Places with steps after pizza hut",0901
-782,Black-naped oriole,0,"Pacific Swallow---Utown Green, Places with steps after pizza hut",0901
-783,Rock pigeon,0,"Pacific Swallow---Utown Green, Places with steps after pizza hut",0901
-784,Yellow-vented bulbul,4,"Pacific Swallow---Utown Green, Places with steps after pizza hut",0901
-785,Javan myna,5,"Pacific Swallow---CREATE Tower, before turning away from Utown Green",0913
-786,Olive-backed sunbird,0,"Pacific Swallow---CREATE Tower, before turning away from Utown Green",0913
-787,Black-naped oriole,0,"Pacific Swallow---CREATE Tower, before turning away from Utown Green",0913
-788,Rock pigeon,0,"Pacific Swallow---CREATE Tower, before turning away from Utown Green",0913
-789,Yellow-vented bulbul,2,"Pacific Swallow---CREATE Tower, before turning away from Utown Green",0913
-790,Javan myna,5,Pacific Swallow---Road along the back of Utown Residence and the few resturants,0917
-791,Olive-backed sunbird,0,Pacific Swallow---Road along the back of Utown Residence and the few resturants,0917
-792,Black-naped oriole,0,Pacific Swallow---Road along the back of Utown Residence and the few resturants,0917
-793,Rock pigeon,2,Pacific Swallow---Road along the back of Utown Residence and the few resturants,0917
-794,Yellow-vented bulbul,2,Pacific Swallow---Road along the back of Utown Residence and the few resturants,0917
-795,Javan myna,5,"Pacific Swallow---Up the steps of RC4, zebra crossing area",0938
-796,Olive-backed sunbird,0,"Pacific Swallow---Up the steps of RC4, zebra crossing area",0938
-797,Black-naped oriole,0,"Pacific Swallow---Up the steps of RC4, zebra crossing area",0938
-798,Rock pigeon,0,"Pacific Swallow---Up the steps of RC4, zebra crossing area",0938
-799,Yellow-vented bulbul,2,"Pacific Swallow---Up the steps of RC4, zebra crossing area",0938
-800,Javan myna,0,"Crimson Sunbird---Opposite Kent Ridge residences, zebra crossing area, east of the University Cultural Centre",0906
-801,Olive-backed sunbird,6,"Crimson Sunbird---Opposite Kent Ridge residences, zebra crossing area, east of the University Cultural Centre",0906
-802,Black-naped oriole,1,"Crimson Sunbird---Opposite Kent Ridge residences, zebra crossing area, east of the University Cultural Centre",0906
-803,Rock pigeon,0,"Crimson Sunbird---Opposite Kent Ridge residences, zebra crossing area, east of the University Cultural Centre",0906
-804,Yellow-vented bulbul,1,"Crimson Sunbird---Opposite Kent Ridge residences, zebra crossing area, east of the University Cultural Centre",0906
-805,Javan myna,8,Crimson Sunbird---Near rubbish bins and construction work/lab drilling at SDE and the back of Engine,0935
-806,Olive-backed sunbird,1,Crimson Sunbird---Near rubbish bins and construction work/lab drilling at SDE and the back of Engine,0935
-807,Black-naped oriole,1,Crimson Sunbird---Near rubbish bins and construction work/lab drilling at SDE and the back of Engine,0935
-808,Rock pigeon,4,Crimson Sunbird---Near rubbish bins and construction work/lab drilling at SDE and the back of Engine,0935
-809,Yellow-vented bulbul,0,Crimson Sunbird---Near rubbish bins and construction work/lab drilling at SDE and the back of Engine,0935
-810,Javan myna,2,"Crimson Sunbird---Outside of CAPT Building, Utown",0845
-811,Olive-backed sunbird,1,"Crimson Sunbird---Outside of CAPT Building, Utown",0845
-812,Black-naped oriole,0,"Crimson Sunbird---Outside of CAPT Building, Utown",0845
-813,Rock pigeon,0,"Crimson Sunbird---Outside of CAPT Building, Utown",0845
-814,Yellow-vented bulbul,3,"Crimson Sunbird---Outside of CAPT Building, Utown",0845
-815,Javan myna,0,Crimson Sunbird---Field in front of Yale-NUS facing Dover Road,0905
-816,Olive-backed sunbird,0,Crimson Sunbird---Field in front of Yale-NUS facing Dover Road,0905
-817,Black-naped oriole,0,Crimson Sunbird---Field in front of Yale-NUS facing Dover Road,0905
-818,Rock pigeon,0,Crimson Sunbird---Field in front of Yale-NUS facing Dover Road,0905
-819,Yellow-vented bulbul,3,Crimson Sunbird---Field in front of Yale-NUS facing Dover Road,0905
-820,Javan myna,5,Crimson Sunbird---Area between CREATE and UTR along College Ave East,0932
-821,Olive-backed sunbird,0,Crimson Sunbird---Area between CREATE and UTR along College Ave East,0932
-822,Black-naped oriole,0,Crimson Sunbird---Area between CREATE and UTR along College Ave East,0932
-823,Rock pigeon,0,Crimson Sunbird---Area between CREATE and UTR along College Ave East,0932
-824,Yellow-vented bulbul,3,Crimson Sunbird---Area between CREATE and UTR along College Ave East,0932
-825,Javan myna,2,Crimson Sunbird---College Link Roundabout outside CREATE,0945
-826,Olive-backed sunbird,1,Crimson Sunbird---College Link Roundabout outside CREATE,0945
-827,Black-naped oriole,0,Crimson Sunbird---College Link Roundabout outside CREATE,0945
-828,Rock pigeon,0,Crimson Sunbird---College Link Roundabout outside CREATE,0945
-829,Yellow-vented bulbul,1,Crimson Sunbird---College Link Roundabout outside CREATE,0945
-830,Javan myna,2,"Crimson Sunbird---Utown Town Green, between SRC and CREATE",1000
-831,Olive-backed sunbird,0,"Crimson Sunbird---Utown Town Green, between SRC and CREATE",1000
-832,Black-naped oriole,0,"Crimson Sunbird---Utown Town Green, between SRC and CREATE",1000
-833,Rock pigeon,0,"Crimson Sunbird---Utown Town Green, between SRC and CREATE",1000
-834,Yellow-vented bulbul,0,"Crimson Sunbird---Utown Town Green, between SRC and CREATE",1000
-835,Javan myna,2,"Crimson Sunbird---Green area between ERC and Tembusu, UTown",1013
-836,Olive-backed sunbird,0,"Crimson Sunbird---Green area between ERC and Tembusu, UTown",1013
-837,Black-naped oriole,0,"Crimson Sunbird---Green area between ERC and Tembusu, UTown",1013
-838,Rock pigeon,0,"Crimson Sunbird---Green area between ERC and Tembusu, UTown",1013
-839,Yellow-vented bulbul,2,"Crimson Sunbird---Green area between ERC and Tembusu, UTown",1013
-840,Javan myna,0,Crimson Sunbird---Engineering Drive 3 outside E4A Building,1110
-841,Olive-backed sunbird,0,Crimson Sunbird---Engineering Drive 3 outside E4A Building,1110
-842,Black-naped oriole,0,Crimson Sunbird---Engineering Drive 3 outside E4A Building,1110
-843,Rock pigeon,3,Crimson Sunbird---Engineering Drive 3 outside E4A Building,1110
-844,Yellow-vented bulbul,0,Crimson Sunbird---Engineering Drive 3 outside E4A Building,1110
-845,Javan myna,6,"Crimson Sunbird---Near the roadside of Tea Party, south of University Sports Centre",0919
-846,Olive-backed sunbird,0,"Crimson Sunbird---Near the roadside of Tea Party, south of University Sports Centre",0919
-847,Black-naped oriole,0,"Crimson Sunbird---Near the roadside of Tea Party, south of University Sports Centre",0919
-848,Rock pigeon,1,"Crimson Sunbird---Near the roadside of Tea Party, south of University Sports Centre",0919
-849,Yellow-vented bulbul,4,"Crimson Sunbird---Near the roadside of Tea Party, south of University Sports Centre",0919
-850,Javan myna,4,"Crimson Sunbird---Outside RVRC, near the opp UHC bustop and stage",0936
-851,Olive-backed sunbird,10,"Crimson Sunbird---Outside RVRC, near the opp UHC bustop and stage",0936
-852,Black-naped oriole,0,"Crimson Sunbird---Outside RVRC, near the opp UHC bustop and stage",0936
-853,Rock pigeon,0,"Crimson Sunbird---Outside RVRC, near the opp UHC bustop and stage",0936
-854,Yellow-vented bulbul,3,"Crimson Sunbird---Outside RVRC, near the opp UHC bustop and stage",0936
-855,Javan myna,0,Crimson Sunbird---Near softball field,1007
-856,Olive-backed sunbird,2,Crimson Sunbird---Near softball field,1007
-857,Black-naped oriole,0,Crimson Sunbird---Near softball field,1007
-858,Rock pigeon,0,Crimson Sunbird---Near softball field,1007
-859,Yellow-vented bulbul,3,Crimson Sunbird---Near softball field,1007
-860,Javan myna,1,"Crimson Sunbird---Near football field, near roadside (AYE) and construction, opp University Hall",1021
-861,Olive-backed sunbird,0,"Crimson Sunbird---Near football field, near roadside (AYE) and construction, opp University Hall",1021
-862,Black-naped oriole,0,"Crimson Sunbird---Near football field, near roadside (AYE) and construction, opp University Hall",1021
-863,Rock pigeon,0,"Crimson Sunbird---Near football field, near roadside (AYE) and construction, opp University Hall",1021
-864,Yellow-vented bulbul,0,"Crimson Sunbird---Near football field, near roadside (AYE) and construction, opp University Hall",1021
-865,Javan myna,1,Crimson Sunbird---Between S12 and S13,1048
-866,Olive-backed sunbird,0,Crimson Sunbird---Between S12 and S13,1048
-867,Black-naped oriole,0,Crimson Sunbird---Between S12 and S13,1048
-868,Rock pigeon,2,Crimson Sunbird---Between S12 and S13,1048
-869,Yellow-vented bulbul,0,Crimson Sunbird---Between S12 and S13,1048
-870,Javan myna,0,Crimson Sunbird---Behind opposite Kent Ridge MRT bus stop,1121
-871,Olive-backed sunbird,0,Crimson Sunbird---Behind opposite Kent Ridge MRT bus stop,1121
-872,Black-naped oriole,0,Crimson Sunbird---Behind opposite Kent Ridge MRT bus stop,1121
-873,Rock pigeon,1,Crimson Sunbird---Behind opposite Kent Ridge MRT bus stop,1121
-874,Yellow-vented bulbul,3,Crimson Sunbird---Behind opposite Kent Ridge MRT bus stop,1121
-875,Javan myna,0,Crimson Sunbird---Opposite Shaw Foundation Building,1500
-876,Olive-backed sunbird,1,Crimson Sunbird---Opposite Shaw Foundation Building,1500
-877,Black-naped oriole,1,Crimson Sunbird---Opposite Shaw Foundation Building,1500
-878,Rock pigeon,0,Crimson Sunbird---Opposite Shaw Foundation Building,1500
-879,Yellow-vented bulbul,1,Crimson Sunbird---Opposite Shaw Foundation Building,1500
-880,Javan myna,1,"Crimson Sunbird---Along Business Link, near Heng Mui Keng Terrace turning",1520
-881,Olive-backed sunbird,0,"Crimson Sunbird---Along Business Link, near Heng Mui Keng Terrace turning",1520
-882,Black-naped oriole,0,"Crimson Sunbird---Along Business Link, near Heng Mui Keng Terrace turning",1520
-883,Rock pigeon,0,"Crimson Sunbird---Along Business Link, near Heng Mui Keng Terrace turning",1520
-884,Yellow-vented bulbul,0,"Crimson Sunbird---Along Business Link, near Heng Mui Keng Terrace turning",1520
-885,Javan myna,1,Crimson Sunbird---Prince George's Park,1545
-886,Olive-backed sunbird,0,Crimson Sunbird---Prince George's Park,1545
-887,Black-naped oriole,0,Crimson Sunbird---Prince George's Park,1545
-888,Rock pigeon,0,Crimson Sunbird---Prince George's Park,1545
-889,Yellow-vented bulbul,0,Crimson Sunbird---Prince George's Park,1545
-890,Javan myna,0,Spotted Wood Owl---Behind South Tower,0934
-891,Olive-backed sunbird,0,Spotted Wood Owl---Behind South Tower,0934
-892,Black-naped oriole,0,Spotted Wood Owl---Behind South Tower,0934
-893,Rock pigeon,0,Spotted Wood Owl---Behind South Tower,0934
-894,Yellow-vented bulbul,8,Spotted Wood Owl---Behind South Tower,0934
+,Bird Species,Count,Density,Location,Time Period
+0,Black-naped oriole,2,10.185916357881302,Asian Koel---8 Kent Ridge Drive (Just outside Ventus),0932
+1,Olive-backed sunbird,1,5.092958178940651,Asian Koel---8 Kent Ridge Drive (Just outside Ventus),0932
+2,Yellow-vented bulbul,0,0.0,Asian Koel---8 Kent Ridge Drive (Just outside Ventus),0932
+3,Javan myna,0,0.0,Asian Koel---8 Kent Ridge Drive (Just outside Ventus),0932
+4,Rock pigeon,0,0.0,Asian Koel---8 Kent Ridge Drive (Just outside Ventus),0932
+5,Black-naped oriole,0,0.0,Asian Koel---11 Arts Link (Outside AS5 facing CELC),1005
+6,Olive-backed sunbird,1,5.092958178940651,Asian Koel---11 Arts Link (Outside AS5 facing CELC),1005
+7,Yellow-vented bulbul,0,0.0,Asian Koel---11 Arts Link (Outside AS5 facing CELC),1005
+8,Javan myna,0,0.0,Asian Koel---11 Arts Link (Outside AS5 facing CELC),1005
+9,Rock pigeon,0,0.0,Asian Koel---11 Arts Link (Outside AS5 facing CELC),1005
+10,Black-naped oriole,1,5.092958178940651,"Asian Koel---15 Kent Ridge Drive (Opp Hon Sui Sen Drive, facing Motchar Riady Building)",1035
+11,Olive-backed sunbird,1,5.092958178940651,"Asian Koel---15 Kent Ridge Drive (Opp Hon Sui Sen Drive, facing Motchar Riady Building)",1035
+12,Yellow-vented bulbul,3,15.278874536821952,"Asian Koel---15 Kent Ridge Drive (Opp Hon Sui Sen Drive, facing Motchar Riady Building)",1035
+13,Javan myna,0,0.0,"Asian Koel---15 Kent Ridge Drive (Opp Hon Sui Sen Drive, facing Motchar Riady Building)",1035
+14,Rock pigeon,0,0.0,"Asian Koel---15 Kent Ridge Drive (Opp Hon Sui Sen Drive, facing Motchar Riady Building)",1035
+15,Black-naped oriole,0,0.0,Asian Koel---3 Research Link (End of D1 Bus terminal),1055
+16,Olive-backed sunbird,2,10.185916357881302,Asian Koel---3 Research Link (End of D1 Bus terminal),1055
+17,Yellow-vented bulbul,5,25.464790894703256,Asian Koel---3 Research Link (End of D1 Bus terminal),1055
+18,Javan myna,3,15.278874536821952,Asian Koel---3 Research Link (End of D1 Bus terminal),1055
+19,Rock pigeon,22,112.04507993669432,Asian Koel---3 Research Link (End of D1 Bus terminal),1055
+20,Black-naped oriole,0,0.0,Spotted Dove---NUS Medical Drive near NUS Graduate School for Intergrative Sciences and Engineering,0925
+21,Olive-backed sunbird,2,10.185916357881302,Spotted Dove---NUS Medical Drive near NUS Graduate School for Intergrative Sciences and Engineering,0925
+22,Yellow-vented bulbul,1,5.092958178940651,Spotted Dove---NUS Medical Drive near NUS Graduate School for Intergrative Sciences and Engineering,0925
+23,Javan myna,7,35.65070725258456,Spotted Dove---NUS Medical Drive near NUS Graduate School for Intergrative Sciences and Engineering,0925
+24,Rock pigeon,2,10.185916357881302,Spotted Dove---NUS Medical Drive near NUS Graduate School for Intergrative Sciences and Engineering,0925
+25,Black-naped oriole,0,0.0,Spotted Dove---LKCNM,0925
+26,Olive-backed sunbird,0,0.0,Spotted Dove---LKCNM,0925
+27,Yellow-vented bulbul,1,5.092958178940651,Spotted Dove---LKCNM,0925
+28,Javan myna,0,0.0,Spotted Dove---LKCNM,0925
+29,Rock pigeon,0,0.0,Spotted Dove---LKCNM,0925
+30,Black-naped oriole,0,0.0,Spotted Dove---Town Green (Between Fine Food and Food Clique),0944
+31,Olive-backed sunbird,0,0.0,Spotted Dove---Town Green (Between Fine Food and Food Clique),0944
+32,Yellow-vented bulbul,2,10.185916357881302,Spotted Dove---Town Green (Between Fine Food and Food Clique),0944
+33,Javan myna,1,5.092958178940651,Spotted Dove---Town Green (Between Fine Food and Food Clique),0944
+34,Rock pigeon,0,0.0,Spotted Dove---Town Green (Between Fine Food and Food Clique),0944
+35,Black-naped oriole,0,0.0,"Spotted Dove---11 Lower Kent Ridge Road,",0949
+36,Olive-backed sunbird,10,50.92958178940651,"Spotted Dove---11 Lower Kent Ridge Road,",0949
+37,Yellow-vented bulbul,0,0.0,"Spotted Dove---11 Lower Kent Ridge Road,",0949
+38,Javan myna,4,20.371832715762604,"Spotted Dove---11 Lower Kent Ridge Road,",0949
+39,Rock pigeon,0,0.0,"Spotted Dove---11 Lower Kent Ridge Road,",0949
+40,Black-naped oriole,0,0.0,Spotted Dove---Town Green (Near UTR),1000
+41,Olive-backed sunbird,0,0.0,Spotted Dove---Town Green (Near UTR),1000
+42,Yellow-vented bulbul,1,5.092958178940651,Spotted Dove---Town Green (Near UTR),1000
+43,Javan myna,6,30.557749073643905,Spotted Dove---Town Green (Near UTR),1000
+44,Rock pigeon,0,0.0,Spotted Dove---Town Green (Near UTR),1000
+45,Black-naped oriole,0,0.0,Spotted Dove---Town Green (Near Starbucks),1011
+46,Olive-backed sunbird,0,0.0,Spotted Dove---Town Green (Near Starbucks),1011
+47,Yellow-vented bulbul,1,5.092958178940651,Spotted Dove---Town Green (Near Starbucks),1011
+48,Javan myna,2,10.185916357881302,Spotted Dove---Town Green (Near Starbucks),1011
+49,Rock pigeon,0,0.0,Spotted Dove---Town Green (Near Starbucks),1011
+50,Black-naped oriole,0,0.0,Spotted Dove---31 Prince George's Park,1021
+51,Olive-backed sunbird,4,20.371832715762604,Spotted Dove---31 Prince George's Park,1021
+52,Yellow-vented bulbul,0,0.0,Spotted Dove---31 Prince George's Park,1021
+53,Javan myna,0,0.0,Spotted Dove---31 Prince George's Park,1021
+54,Rock pigeon,0,0.0,Spotted Dove---31 Prince George's Park,1021
+55,Black-naped oriole,0,0.0,Spotted Dove---King Edward VII Hall,1047
+56,Olive-backed sunbird,3,15.278874536821952,Spotted Dove---King Edward VII Hall,1047
+57,Yellow-vented bulbul,3,15.278874536821952,Spotted Dove---King Edward VII Hall,1047
+58,Javan myna,5,25.464790894703256,Spotted Dove---King Edward VII Hall,1047
+59,Rock pigeon,2,10.185916357881302,Spotted Dove---King Edward VII Hall,1047
+60,Black-naped oriole,0,0.0,Spotted Dove---Kent Ridge Road,1123
+61,Olive-backed sunbird,1,5.092958178940651,Spotted Dove---Kent Ridge Road,1123
+62,Yellow-vented bulbul,2,10.185916357881302,Spotted Dove---Kent Ridge Road,1123
+63,Javan myna,0,0.0,Spotted Dove---Kent Ridge Road,1123
+64,Rock pigeon,0,0.0,Spotted Dove---Kent Ridge Road,1123
+65,Black-naped oriole,0,0.0,Spotted Dove---Ridge View Residential College,0933
+66,Olive-backed sunbird,0,0.0,Spotted Dove---Ridge View Residential College,0933
+67,Yellow-vented bulbul,0,0.0,Spotted Dove---Ridge View Residential College,0933
+68,Javan myna,3,15.278874536821952,Spotted Dove---Ridge View Residential College,0933
+69,Rock pigeon,0,0.0,Spotted Dove---Ridge View Residential College,0933
+70,Black-naped oriole,0,0.0,Spotted Dove---Behind ERC,1022
+71,Olive-backed sunbird,0,0.0,Spotted Dove---Behind ERC,1022
+72,Yellow-vented bulbul,0,0.0,Spotted Dove---Behind ERC,1022
+73,Javan myna,2,10.185916357881302,Spotted Dove---Behind ERC,1022
+74,Rock pigeon,0,0.0,Spotted Dove---Behind ERC,1022
+75,Black-naped oriole,0,0.0,Spotted Dove---Cinnamon College,1033
+76,Olive-backed sunbird,0,0.0,Spotted Dove---Cinnamon College,1033
+77,Yellow-vented bulbul,2,10.185916357881302,Spotted Dove---Cinnamon College,1033
+78,Javan myna,2,10.185916357881302,Spotted Dove---Cinnamon College,1033
+79,Rock pigeon,0,0.0,Spotted Dove---Cinnamon College,1033
+80,Black-naped oriole,0,0.0,Spotted Dove---Engineering Drive 2,1039
+81,Olive-backed sunbird,0,0.0,Spotted Dove---Engineering Drive 2,1039
+82,Yellow-vented bulbul,0,0.0,Spotted Dove---Engineering Drive 2,1039
+83,Javan myna,11,56.02253996834716,Spotted Dove---Engineering Drive 2,1039
+84,Rock pigeon,1,5.092958178940651,Spotted Dove---Engineering Drive 2,1039
+85,Black-naped oriole,0,0.0,Spotted Dove---CAPT,1045
+86,Olive-backed sunbird,0,0.0,Spotted Dove---CAPT,1045
+87,Yellow-vented bulbul,2,10.185916357881302,Spotted Dove---CAPT,1045
+88,Javan myna,0,0.0,Spotted Dove---CAPT,1045
+89,Rock pigeon,0,0.0,Spotted Dove---CAPT,1045
+90,Black-naped oriole,0,0.0,Spotted Dove---YNC (Field),1100
+91,Olive-backed sunbird,0,0.0,Spotted Dove---YNC (Field),1100
+92,Yellow-vented bulbul,3,15.278874536821952,Spotted Dove---YNC (Field),1100
+93,Javan myna,2,10.185916357881302,Spotted Dove---YNC (Field),1100
+94,Rock pigeon,0,0.0,Spotted Dove---YNC (Field),1100
+95,Black-naped oriole,2,10.185916357881302,Spotted Dove---Beside Venus,1110
+96,Olive-backed sunbird,0,0.0,Spotted Dove---Beside Venus,1110
+97,Yellow-vented bulbul,0,0.0,Spotted Dove---Beside Venus,1110
+98,Javan myna,0,0.0,Spotted Dove---Beside Venus,1110
+99,Rock pigeon,0,0.0,Spotted Dove---Beside Venus,1110
+100,Black-naped oriole,0,0.0,Spotted Dove---Computing Dr behind The Deck,1150
+101,Olive-backed sunbird,0,0.0,Spotted Dove---Computing Dr behind The Deck,1150
+102,Yellow-vented bulbul,2,10.185916357881302,Spotted Dove---Computing Dr behind The Deck,1150
+103,Javan myna,3,15.278874536821952,Spotted Dove---Computing Dr behind The Deck,1150
+104,Rock pigeon,0,0.0,Spotted Dove---Computing Dr behind The Deck,1150
+105,Black-naped oriole,0,0.0,Spotted Dove---Cross Section (Kent Ridge Dr meets Compting Dr),1200
+106,Olive-backed sunbird,2,10.185916357881302,Spotted Dove---Cross Section (Kent Ridge Dr meets Compting Dr),1200
+107,Yellow-vented bulbul,1,5.092958178940651,Spotted Dove---Cross Section (Kent Ridge Dr meets Compting Dr),1200
+108,Javan myna,2,10.185916357881302,Spotted Dove---Cross Section (Kent Ridge Dr meets Compting Dr),1200
+109,Rock pigeon,0,0.0,Spotted Dove---Cross Section (Kent Ridge Dr meets Compting Dr),1200
+110,Black-naped oriole,0,0.0,"Collared Kingfisher---NUS Medical Drive, across MD10",1016
+111,Olive-backed sunbird,0,0.0,"Collared Kingfisher---NUS Medical Drive, across MD10",1016
+112,Yellow-vented bulbul,2,10.185916357881302,"Collared Kingfisher---NUS Medical Drive, across MD10",1016
+113,Javan myna,3,15.278874536821952,"Collared Kingfisher---NUS Medical Drive, across MD10",1016
+114,Rock pigeon,0,0.0,"Collared Kingfisher---NUS Medical Drive, across MD10",1016
+115,Black-naped oriole,0,0.0,"Collared Kingfisher---Footpath along AYE, next to Carpark 10",1036
+116,Olive-backed sunbird,0,0.0,"Collared Kingfisher---Footpath along AYE, next to Carpark 10",1036
+117,Yellow-vented bulbul,0,0.0,"Collared Kingfisher---Footpath along AYE, next to Carpark 10",1036
+118,Javan myna,4,20.371832715762604,"Collared Kingfisher---Footpath along AYE, next to Carpark 10",1036
+119,Rock pigeon,0,0.0,"Collared Kingfisher---Footpath along AYE, next to Carpark 10",1036
+120,Black-naped oriole,2,10.185916357881302,"Collared Kingfisher---Along AYE, next to Carpark 10",1053
+121,Olive-backed sunbird,0,0.0,"Collared Kingfisher---Along AYE, next to Carpark 10",1053
+122,Yellow-vented bulbul,0,0.0,"Collared Kingfisher---Along AYE, next to Carpark 10",1053
+123,Javan myna,2,10.185916357881302,"Collared Kingfisher---Along AYE, next to Carpark 10",1053
+124,Rock pigeon,0,0.0,"Collared Kingfisher---Along AYE, next to Carpark 10",1053
+125,Black-naped oriole,0,0.0,Collared Kingfisher---Town Green,1118
+126,Olive-backed sunbird,0,0.0,Collared Kingfisher---Town Green,1118
+127,Yellow-vented bulbul,0,0.0,Collared Kingfisher---Town Green,1118
+128,Javan myna,2,10.185916357881302,Collared Kingfisher---Town Green,1118
+129,Rock pigeon,0,0.0,Collared Kingfisher---Town Green,1118
+130,Black-naped oriole,0,0.0,Collared Kingfisher---Between Yale-NUS Saga College and SRC,0802
+131,Olive-backed sunbird,0,0.0,Collared Kingfisher---Between Yale-NUS Saga College and SRC,0802
+132,Yellow-vented bulbul,3,15.278874536821952,Collared Kingfisher---Between Yale-NUS Saga College and SRC,0802
+133,Javan myna,1,5.092958178940651,Collared Kingfisher---Between Yale-NUS Saga College and SRC,0802
+134,Rock pigeon,0,0.0,Collared Kingfisher---Between Yale-NUS Saga College and SRC,0802
+135,Black-naped oriole,0,0.0,Collared Kingfisher---sheltered walkway between ERC and SRC,0814
+136,Olive-backed sunbird,0,0.0,Collared Kingfisher---sheltered walkway between ERC and SRC,0814
+137,Yellow-vented bulbul,7,35.65070725258456,Collared Kingfisher---sheltered walkway between ERC and SRC,0814
+138,Javan myna,4,20.371832715762604,Collared Kingfisher---sheltered walkway between ERC and SRC,0814
+139,Rock pigeon,0,0.0,Collared Kingfisher---sheltered walkway between ERC and SRC,0814
+140,Black-naped oriole,0,0.0,"Collared Kingfisher---UT Town Green, Tree cluster beside NTUC",0828
+141,Olive-backed sunbird,1,5.092958178940651,"Collared Kingfisher---UT Town Green, Tree cluster beside NTUC",0828
+142,Yellow-vented bulbul,6,30.557749073643905,"Collared Kingfisher---UT Town Green, Tree cluster beside NTUC",0828
+143,Javan myna,3,15.278874536821952,"Collared Kingfisher---UT Town Green, Tree cluster beside NTUC",0828
+144,Rock pigeon,0,0.0,"Collared Kingfisher---UT Town Green, Tree cluster beside NTUC",0828
+145,Black-naped oriole,0,0.0,Collared Kingfisher---Between the back of CREATE and UTResidences,0847
+146,Olive-backed sunbird,0,0.0,Collared Kingfisher---Between the back of CREATE and UTResidences,0847
+147,Yellow-vented bulbul,1,5.092958178940651,Collared Kingfisher---Between the back of CREATE and UTResidences,0847
+148,Javan myna,6,30.557749073643905,Collared Kingfisher---Between the back of CREATE and UTResidences,0847
+149,Rock pigeon,0,0.0,Collared Kingfisher---Between the back of CREATE and UTResidences,0847
+150,Black-naped oriole,0,0.0,"Banded Woodpecker ---Science Field,10m S of staircase near bus stop",0930
+151,Olive-backed sunbird,1,5.092958178940651,"Banded Woodpecker ---Science Field,10m S of staircase near bus stop",0930
+152,Yellow-vented bulbul,0,0.0,"Banded Woodpecker ---Science Field,10m S of staircase near bus stop",0930
+153,Javan myna,0,0.0,"Banded Woodpecker ---Science Field,10m S of staircase near bus stop",0930
+154,Rock pigeon,2,10.185916357881302,"Banded Woodpecker ---Science Field,10m S of staircase near bus stop",0930
+155,Black-naped oriole,0,0.0,"Banded Woodpecker ---Science Field, next to sheltered pathway",0946
+156,Olive-backed sunbird,2,10.185916357881302,"Banded Woodpecker ---Science Field, next to sheltered pathway",0946
+157,Yellow-vented bulbul,0,0.0,"Banded Woodpecker ---Science Field, next to sheltered pathway",0946
+158,Javan myna,0,0.0,"Banded Woodpecker ---Science Field, next to sheltered pathway",0946
+159,Rock pigeon,0,0.0,"Banded Woodpecker ---Science Field, next to sheltered pathway",0946
+160,Black-naped oriole,1,5.092958178940651,"Banded Woodpecker ---Prince George's Park, next to main road",1019
+161,Olive-backed sunbird,2,10.185916357881302,"Banded Woodpecker ---Prince George's Park, next to main road",1019
+162,Yellow-vented bulbul,0,0.0,"Banded Woodpecker ---Prince George's Park, next to main road",1019
+163,Javan myna,0,0.0,"Banded Woodpecker ---Prince George's Park, next to main road",1019
+164,Rock pigeon,4,20.371832715762604,"Banded Woodpecker ---Prince George's Park, next to main road",1019
+165,Black-naped oriole,1,5.092958178940651,"Banded Woodpecker ---Prince George's Park, B1, next to carpark",1044
+166,Olive-backed sunbird,1,5.092958178940651,"Banded Woodpecker ---Prince George's Park, B1, next to carpark",1044
+167,Yellow-vented bulbul,0,0.0,"Banded Woodpecker ---Prince George's Park, B1, next to carpark",1044
+168,Javan myna,1,5.092958178940651,"Banded Woodpecker ---Prince George's Park, B1, next to carpark",1044
+169,Rock pigeon,1,5.092958178940651,"Banded Woodpecker ---Prince George's Park, B1, next to carpark",1044
+170,Black-naped oriole,0,0.0,"Banded Woodpecker ---Engineering Drive 3, behind LT6",1138
+171,Olive-backed sunbird,1,5.092958178940651,"Banded Woodpecker ---Engineering Drive 3, behind LT6",1138
+172,Yellow-vented bulbul,0,0.0,"Banded Woodpecker ---Engineering Drive 3, behind LT6",1138
+173,Javan myna,1,5.092958178940651,"Banded Woodpecker ---Engineering Drive 3, behind LT6",1138
+174,Rock pigeon,0,0.0,"Banded Woodpecker ---Engineering Drive 3, behind LT6",1138
+175,Black-naped oriole,1,5.092958178940651,Banded Woodpecker ---Carpark outside Raffles Comm hall,1200
+176,Olive-backed sunbird,2,10.185916357881302,Banded Woodpecker ---Carpark outside Raffles Comm hall,1200
+177,Yellow-vented bulbul,0,0.0,Banded Woodpecker ---Carpark outside Raffles Comm hall,1200
+178,Javan myna,1,5.092958178940651,Banded Woodpecker ---Carpark outside Raffles Comm hall,1200
+179,Rock pigeon,0,0.0,Banded Woodpecker ---Carpark outside Raffles Comm hall,1200
+180,Black-naped oriole,0,0.0,Banded Woodpecker ---Carpark outside Engineering Auditorium,1217
+181,Olive-backed sunbird,5,25.464790894703256,Banded Woodpecker ---Carpark outside Engineering Auditorium,1217
+182,Yellow-vented bulbul,0,0.0,Banded Woodpecker ---Carpark outside Engineering Auditorium,1217
+183,Javan myna,0,0.0,Banded Woodpecker ---Carpark outside Engineering Auditorium,1217
+184,Rock pigeon,0,0.0,Banded Woodpecker ---Carpark outside Engineering Auditorium,1217
+185,Black-naped oriole,0,0.0,Collared Kingfisher---Carpark next to Engineering Auditorium,0927
+186,Olive-backed sunbird,0,0.0,Collared Kingfisher---Carpark next to Engineering Auditorium,0927
+187,Yellow-vented bulbul,0,0.0,Collared Kingfisher---Carpark next to Engineering Auditorium,0927
+188,Javan myna,1,5.092958178940651,Collared Kingfisher---Carpark next to Engineering Auditorium,0927
+189,Rock pigeon,0,0.0,Collared Kingfisher---Carpark next to Engineering Auditorium,0927
+190,Black-naped oriole,0,0.0,Collared Kingfisher---Grass patch beside Ventus,0950
+191,Olive-backed sunbird,2,10.185916357881302,Collared Kingfisher---Grass patch beside Ventus,0950
+192,Yellow-vented bulbul,1,5.092958178940651,Collared Kingfisher---Grass patch beside Ventus,0950
+193,Javan myna,0,0.0,Collared Kingfisher---Grass patch beside Ventus,0950
+194,Rock pigeon,0,0.0,Collared Kingfisher---Grass patch beside Ventus,0950
+195,Black-naped oriole,0,0.0,Collared Kingfisher---Walkway between Ventus and Kent Ridge Terminal,1005
+196,Olive-backed sunbird,2,10.185916357881302,Collared Kingfisher---Walkway between Ventus and Kent Ridge Terminal,1005
+197,Yellow-vented bulbul,1,5.092958178940651,Collared Kingfisher---Walkway between Ventus and Kent Ridge Terminal,1005
+198,Javan myna,1,5.092958178940651,Collared Kingfisher---Walkway between Ventus and Kent Ridge Terminal,1005
+199,Rock pigeon,0,0.0,Collared Kingfisher---Walkway between Ventus and Kent Ridge Terminal,1005
+200,Black-naped oriole,0,0.0,Collared Kingfisher---NUS Carpark 14,1020
+201,Olive-backed sunbird,1,5.092958178940651,Collared Kingfisher---NUS Carpark 14,1020
+202,Yellow-vented bulbul,0,0.0,Collared Kingfisher---NUS Carpark 14,1020
+203,Javan myna,0,0.0,Collared Kingfisher---NUS Carpark 14,1020
+204,Rock pigeon,0,0.0,Collared Kingfisher---NUS Carpark 14,1020
+205,Black-naped oriole,0,0.0,Collared Kingfisher---Grass patch betweem AS8 and AS2,1036
+206,Olive-backed sunbird,1,5.092958178940651,Collared Kingfisher---Grass patch betweem AS8 and AS2,1036
+207,Yellow-vented bulbul,2,10.185916357881302,Collared Kingfisher---Grass patch betweem AS8 and AS2,1036
+208,Javan myna,3,15.278874536821952,Collared Kingfisher---Grass patch betweem AS8 and AS2,1036
+209,Rock pigeon,0,0.0,Collared Kingfisher---Grass patch betweem AS8 and AS2,1036
+210,Black-naped oriole,0,0.0,Collared Kingfisher---NUS Carpark 11 behind BIZ2,1102
+211,Olive-backed sunbird,0,0.0,Collared Kingfisher---NUS Carpark 11 behind BIZ2,1102
+212,Yellow-vented bulbul,1,5.092958178940651,Collared Kingfisher---NUS Carpark 11 behind BIZ2,1102
+213,Javan myna,9,45.83662361046586,Collared Kingfisher---NUS Carpark 11 behind BIZ2,1102
+214,Rock pigeon,0,0.0,Collared Kingfisher---NUS Carpark 11 behind BIZ2,1102
+215,Black-naped oriole,1,5.092958178940651,Collared Kingfisher---NUS Carpark 11 next to Singapore Synchroton Light Source,1114
+216,Olive-backed sunbird,0,0.0,Collared Kingfisher---NUS Carpark 11 next to Singapore Synchroton Light Source,1114
+217,Yellow-vented bulbul,1,5.092958178940651,Collared Kingfisher---NUS Carpark 11 next to Singapore Synchroton Light Source,1114
+218,Javan myna,2,10.185916357881302,Collared Kingfisher---NUS Carpark 11 next to Singapore Synchroton Light Source,1114
+219,Rock pigeon,0,0.0,Collared Kingfisher---NUS Carpark 11 next to Singapore Synchroton Light Source,1114
+220,Black-naped oriole,0,0.0,Collared Kingfisher---Stairs to King Edward VII Hall,1139
+221,Olive-backed sunbird,0,0.0,Collared Kingfisher---Stairs to King Edward VII Hall,1139
+222,Yellow-vented bulbul,0,0.0,Collared Kingfisher---Stairs to King Edward VII Hall,1139
+223,Javan myna,1,5.092958178940651,Collared Kingfisher---Stairs to King Edward VII Hall,1139
+224,Rock pigeon,2,10.185916357881302,Collared Kingfisher---Stairs to King Edward VII Hall,1139
+225,Black-naped oriole,1,5.092958178940651,"Collared Kingfisher---Prince Georges' Park, overlooking basketball court",1154
+226,Olive-backed sunbird,4,20.371832715762604,"Collared Kingfisher---Prince Georges' Park, overlooking basketball court",1154
+227,Yellow-vented bulbul,1,5.092958178940651,"Collared Kingfisher---Prince Georges' Park, overlooking basketball court",1154
+228,Javan myna,1,5.092958178940651,"Collared Kingfisher---Prince Georges' Park, overlooking basketball court",1154
+229,Rock pigeon,0,0.0,"Collared Kingfisher---Prince Georges' Park, overlooking basketball court",1154
+230,Black-naped oriole,0,0.0,"Spotted Wood Owl---Synchrotron Light Source, Research Link",1031
+231,Olive-backed sunbird,2,10.185916357881302,"Spotted Wood Owl---Synchrotron Light Source, Research Link",1031
+232,Yellow-vented bulbul,0,0.0,"Spotted Wood Owl---Synchrotron Light Source, Research Link",1031
+233,Javan myna,0,0.0,"Spotted Wood Owl---Synchrotron Light Source, Research Link",1031
+234,Rock pigeon,0,0.0,"Spotted Wood Owl---Synchrotron Light Source, Research Link",1031
+235,Black-naped oriole,0,0.0,Spotted Wood Owl---NUS Enterprise,1052
+236,Olive-backed sunbird,1,5.092958178940651,Spotted Wood Owl---NUS Enterprise,1052
+237,Yellow-vented bulbul,0,0.0,Spotted Wood Owl---NUS Enterprise,1052
+238,Javan myna,2,10.185916357881302,Spotted Wood Owl---NUS Enterprise,1052
+239,Rock pigeon,0,0.0,Spotted Wood Owl---NUS Enterprise,1052
+240,Black-naped oriole,0,0.0,"Spotted Wood Owl---West of NUH, Medical Dr",1202
+241,Olive-backed sunbird,2,10.185916357881302,"Spotted Wood Owl---West of NUH, Medical Dr",1202
+242,Yellow-vented bulbul,0,0.0,"Spotted Wood Owl---West of NUH, Medical Dr",1202
+243,Javan myna,4,20.371832715762604,"Spotted Wood Owl---West of NUH, Medical Dr",1202
+244,Rock pigeon,0,0.0,"Spotted Wood Owl---West of NUH, Medical Dr",1202
+245,Black-naped oriole,0,0.0,Asian Koel---Utown bus stop (opp New Town Sec Sch),0940
+246,Olive-backed sunbird,0,0.0,Asian Koel---Utown bus stop (opp New Town Sec Sch),0940
+247,Yellow-vented bulbul,0,0.0,Asian Koel---Utown bus stop (opp New Town Sec Sch),0940
+248,Javan myna,1,5.092958178940651,Asian Koel---Utown bus stop (opp New Town Sec Sch),0940
+249,Rock pigeon,0,0.0,Asian Koel---Utown bus stop (opp New Town Sec Sch),0940
+250,Black-naped oriole,0,0.0,Asian Koel---YNC Grass Patch,0953
+251,Olive-backed sunbird,0,0.0,Asian Koel---YNC Grass Patch,0953
+252,Yellow-vented bulbul,1,5.092958178940651,Asian Koel---YNC Grass Patch,0953
+253,Javan myna,2,10.185916357881302,Asian Koel---YNC Grass Patch,0953
+254,Rock pigeon,0,0.0,Asian Koel---YNC Grass Patch,0953
+255,Black-naped oriole,0,0.0,Asian Koel---Steps outside RC4,1005
+256,Olive-backed sunbird,0,0.0,Asian Koel---Steps outside RC4,1005
+257,Yellow-vented bulbul,4,20.371832715762604,Asian Koel---Steps outside RC4,1005
+258,Javan myna,0,0.0,Asian Koel---Steps outside RC4,1005
+259,Rock pigeon,0,0.0,Asian Koel---Steps outside RC4,1005
+260,Black-naped oriole,0,0.0,"Asian Koel---Junction of ERC, YNC, Cinnamon",1045
+261,Olive-backed sunbird,0,0.0,"Asian Koel---Junction of ERC, YNC, Cinnamon",1045
+262,Yellow-vented bulbul,7,35.65070725258456,"Asian Koel---Junction of ERC, YNC, Cinnamon",1045
+263,Javan myna,2,10.185916357881302,"Asian Koel---Junction of ERC, YNC, Cinnamon",1045
+264,Rock pigeon,0,0.0,"Asian Koel---Junction of ERC, YNC, Cinnamon",1045
+265,Black-naped oriole,0,0.0,Asian Koel---ERC bike stand,1058
+266,Olive-backed sunbird,0,0.0,Asian Koel---ERC bike stand,1058
+267,Yellow-vented bulbul,3,15.278874536821952,Asian Koel---ERC bike stand,1058
+268,Javan myna,3,15.278874536821952,Asian Koel---ERC bike stand,1058
+269,Rock pigeon,0,0.0,Asian Koel---ERC bike stand,1058
+270,Black-naped oriole,0,0.0,Asian Koel---Slope between UTR and Tembusu,1110
+271,Olive-backed sunbird,0,0.0,Asian Koel---Slope between UTR and Tembusu,1110
+272,Yellow-vented bulbul,2,10.185916357881302,Asian Koel---Slope between UTR and Tembusu,1110
+273,Javan myna,0,0.0,Asian Koel---Slope between UTR and Tembusu,1110
+274,Rock pigeon,0,0.0,Asian Koel---Slope between UTR and Tembusu,1110
+275,Black-naped oriole,0,0.0,Asian Koel---Utown bus stop,1122
+276,Olive-backed sunbird,0,0.0,Asian Koel---Utown bus stop,1122
+277,Yellow-vented bulbul,1,5.092958178940651,Asian Koel---Utown bus stop,1122
+278,Javan myna,0,0.0,Asian Koel---Utown bus stop,1122
+279,Rock pigeon,0,0.0,Asian Koel---Utown bus stop,1122
+280,Black-naped oriole,1,5.092958178940651,"Asian Koel---King Edward VII Hall, Back of Block A, Near a Hill",0910
+281,Olive-backed sunbird,0,0.0,"Asian Koel---King Edward VII Hall, Back of Block A, Near a Hill",0910
+282,Yellow-vented bulbul,1,5.092958178940651,"Asian Koel---King Edward VII Hall, Back of Block A, Near a Hill",0910
+283,Javan myna,7,35.65070725258456,"Asian Koel---King Edward VII Hall, Back of Block A, Near a Hill",0910
+284,Rock pigeon,0,0.0,"Asian Koel---King Edward VII Hall, Back of Block A, Near a Hill",0910
+285,Black-naped oriole,0,0.0,"Asian Koel---King Edward VII Hall, Block E",0932
+286,Olive-backed sunbird,0,0.0,"Asian Koel---King Edward VII Hall, Block E",0932
+287,Yellow-vented bulbul,0,0.0,"Asian Koel---King Edward VII Hall, Block E",0932
+288,Javan myna,1,5.092958178940651,"Asian Koel---King Edward VII Hall, Block E",0932
+289,Rock pigeon,0,0.0,"Asian Koel---King Edward VII Hall, Block E",0932
+290,Black-naped oriole,0,0.0,Asian Koel---MD11,0956
+291,Olive-backed sunbird,0,0.0,Asian Koel---MD11,0956
+292,Yellow-vented bulbul,0,0.0,Asian Koel---MD11,0956
+293,Javan myna,2,10.185916357881302,Asian Koel---MD11,0956
+294,Rock pigeon,0,0.0,Asian Koel---MD11,0956
+295,Black-naped oriole,0,0.0,Asian Koel---MD1,1018
+296,Olive-backed sunbird,0,0.0,Asian Koel---MD1,1018
+297,Yellow-vented bulbul,0,0.0,Asian Koel---MD1,1018
+298,Javan myna,1,5.092958178940651,Asian Koel---MD1,1018
+299,Rock pigeon,0,0.0,Asian Koel---MD1,1018
+300,Black-naped oriole,0,0.0,Asian Koel---Science Field,1042
+301,Olive-backed sunbird,0,0.0,Asian Koel---Science Field,1042
+302,Yellow-vented bulbul,0,0.0,Asian Koel---Science Field,1042
+303,Javan myna,9,45.83662361046586,Asian Koel---Science Field,1042
+304,Rock pigeon,0,0.0,Asian Koel---Science Field,1042
+305,Black-naped oriole,1,5.092958178940651,Ashy Minivet---University Sports Centre Carpark,0853
+306,Olive-backed sunbird,0,0.0,Ashy Minivet---University Sports Centre Carpark,0853
+307,Yellow-vented bulbul,0,0.0,Ashy Minivet---University Sports Centre Carpark,0853
+308,Javan myna,0,0.0,Ashy Minivet---University Sports Centre Carpark,0853
+309,Rock pigeon,0,0.0,Ashy Minivet---University Sports Centre Carpark,0853
+310,Black-naped oriole,0,0.0,Ashy Minivet---Busstop (Opp University Health Centre; ID: 18321),0906
+311,Olive-backed sunbird,1,5.092958178940651,Ashy Minivet---Busstop (Opp University Health Centre; ID: 18321),0906
+312,Yellow-vented bulbul,0,0.0,Ashy Minivet---Busstop (Opp University Health Centre; ID: 18321),0906
+313,Javan myna,9,45.83662361046586,Ashy Minivet---Busstop (Opp University Health Centre; ID: 18321),0906
+314,Rock pigeon,0,0.0,Ashy Minivet---Busstop (Opp University Health Centre; ID: 18321),0906
+315,Black-naped oriole,0,0.0,Ashy Minivet---Grass Patch beside Basketball Courts,0922
+316,Olive-backed sunbird,2,10.185916357881302,Ashy Minivet---Grass Patch beside Basketball Courts,0922
+317,Yellow-vented bulbul,1,5.092958178940651,Ashy Minivet---Grass Patch beside Basketball Courts,0922
+318,Javan myna,1,5.092958178940651,Ashy Minivet---Grass Patch beside Basketball Courts,0922
+319,Rock pigeon,0,0.0,Ashy Minivet---Grass Patch beside Basketball Courts,0922
+320,Black-naped oriole,0,0.0,Ashy Minivet---Busstop (Opp University Hall; ID: 18319),0938
+321,Olive-backed sunbird,1,5.092958178940651,Ashy Minivet---Busstop (Opp University Hall; ID: 18319),0938
+322,Yellow-vented bulbul,0,0.0,Ashy Minivet---Busstop (Opp University Hall; ID: 18319),0938
+323,Javan myna,3,15.278874536821952,Ashy Minivet---Busstop (Opp University Hall; ID: 18319),0938
+324,Rock pigeon,0,0.0,Ashy Minivet---Busstop (Opp University Hall; ID: 18319),0938
+325,Black-naped oriole,1,5.092958178940651,Ashy Minivet---Beside bend along Science Drive 4,0951
+326,Olive-backed sunbird,2,10.185916357881302,Ashy Minivet---Beside bend along Science Drive 4,0951
+327,Yellow-vented bulbul,0,0.0,Ashy Minivet---Beside bend along Science Drive 4,0951
+328,Javan myna,0,0.0,Ashy Minivet---Beside bend along Science Drive 4,0951
+329,Rock pigeon,0,0.0,Ashy Minivet---Beside bend along Science Drive 4,0951
+330,Black-naped oriole,0,0.0,Ashy Minivet---Stone benches beside field,1005
+331,Olive-backed sunbird,1,5.092958178940651,Ashy Minivet---Stone benches beside field,1005
+332,Yellow-vented bulbul,0,0.0,Ashy Minivet---Stone benches beside field,1005
+333,Javan myna,1,5.092958178940651,Ashy Minivet---Stone benches beside field,1005
+334,Rock pigeon,0,0.0,Ashy Minivet---Stone benches beside field,1005
+335,Black-naped oriole,0,0.0,Ashy Minivet---Grass Patch opposite Kent Ridge MRT Station,1029
+336,Olive-backed sunbird,2,10.185916357881302,Ashy Minivet---Grass Patch opposite Kent Ridge MRT Station,1029
+337,Yellow-vented bulbul,0,0.0,Ashy Minivet---Grass Patch opposite Kent Ridge MRT Station,1029
+338,Javan myna,1,5.092958178940651,Ashy Minivet---Grass Patch opposite Kent Ridge MRT Station,1029
+339,Rock pigeon,0,0.0,Ashy Minivet---Grass Patch opposite Kent Ridge MRT Station,1029
+340,Black-naped oriole,1,5.092958178940651,Ashy Minivet---Drop-off point along Medical Drive,1059
+341,Olive-backed sunbird,1,5.092958178940651,Ashy Minivet---Drop-off point along Medical Drive,1059
+342,Yellow-vented bulbul,0,0.0,Ashy Minivet---Drop-off point along Medical Drive,1059
+343,Javan myna,4,20.371832715762604,Ashy Minivet---Drop-off point along Medical Drive,1059
+344,Rock pigeon,0,0.0,Ashy Minivet---Drop-off point along Medical Drive,1059
+345,Black-naped oriole,1,5.092958178940651,Ashy Minivet---Prince George's Park Residences,1128
+346,Olive-backed sunbird,0,0.0,Ashy Minivet---Prince George's Park Residences,1128
+347,Yellow-vented bulbul,2,10.185916357881302,Ashy Minivet---Prince George's Park Residences,1128
+348,Javan myna,3,15.278874536821952,Ashy Minivet---Prince George's Park Residences,1128
+349,Rock pigeon,0,0.0,Ashy Minivet---Prince George's Park Residences,1128
+350,Black-naped oriole,0,0.0,Ashy Minivet---Kent Ridge Road near Institute for Clinical Sciences,1110
+351,Olive-backed sunbird,0,0.0,Ashy Minivet---Kent Ridge Road near Institute for Clinical Sciences,1110
+352,Yellow-vented bulbul,1,5.092958178940651,Ashy Minivet---Kent Ridge Road near Institute for Clinical Sciences,1110
+353,Javan myna,1,5.092958178940651,Ashy Minivet---Kent Ridge Road near Institute for Clinical Sciences,1110
+354,Rock pigeon,0,0.0,Ashy Minivet---Kent Ridge Road near Institute for Clinical Sciences,1110
+355,Black-naped oriole,0,0.0,Banded Woodpecker ---Linkway between Ventus and Eusoff Hall,0758
+356,Olive-backed sunbird,3,15.278874536821952,Banded Woodpecker ---Linkway between Ventus and Eusoff Hall,0758
+357,Yellow-vented bulbul,4,20.371832715762604,Banded Woodpecker ---Linkway between Ventus and Eusoff Hall,0758
+358,Javan myna,0,0.0,Banded Woodpecker ---Linkway between Ventus and Eusoff Hall,0758
+359,Rock pigeon,0,0.0,Banded Woodpecker ---Linkway between Ventus and Eusoff Hall,0758
+360,Black-naped oriole,0,0.0,"Banded Woodpecker ---Road along AS5, facing Eusoff and Temasek Halls",0825
+361,Olive-backed sunbird,4,20.371832715762604,"Banded Woodpecker ---Road along AS5, facing Eusoff and Temasek Halls",0825
+362,Yellow-vented bulbul,0,0.0,"Banded Woodpecker ---Road along AS5, facing Eusoff and Temasek Halls",0825
+363,Javan myna,0,0.0,"Banded Woodpecker ---Road along AS5, facing Eusoff and Temasek Halls",0825
+364,Rock pigeon,0,0.0,"Banded Woodpecker ---Road along AS5, facing Eusoff and Temasek Halls",0825
+365,Black-naped oriole,0,0.0,Banded Woodpecker ---Driveway between the Deck and KR Guild House,0840
+366,Olive-backed sunbird,1,5.092958178940651,Banded Woodpecker ---Driveway between the Deck and KR Guild House,0840
+367,Yellow-vented bulbul,1,5.092958178940651,Banded Woodpecker ---Driveway between the Deck and KR Guild House,0840
+368,Javan myna,3,15.278874536821952,Banded Woodpecker ---Driveway between the Deck and KR Guild House,0840
+369,Rock pigeon,0,0.0,Banded Woodpecker ---Driveway between the Deck and KR Guild House,0840
+370,Black-naped oriole,1,5.092958178940651,"Banded Woodpecker ---Area behind SoC, between two buildings, next to a forest",0906
+371,Olive-backed sunbird,2,10.185916357881302,"Banded Woodpecker ---Area behind SoC, between two buildings, next to a forest",0906
+372,Yellow-vented bulbul,2,10.185916357881302,"Banded Woodpecker ---Area behind SoC, between two buildings, next to a forest",0906
+373,Javan myna,2,10.185916357881302,"Banded Woodpecker ---Area behind SoC, between two buildings, next to a forest",0906
+374,Rock pigeon,0,0.0,"Banded Woodpecker ---Area behind SoC, between two buildings, next to a forest",0906
+375,Black-naped oriole,0,0.0,"Banded Woodpecker ---CLB Annexe, outside Centre for Instructional Technology",0931
+376,Olive-backed sunbird,7,35.65070725258456,"Banded Woodpecker ---CLB Annexe, outside Centre for Instructional Technology",0931
+377,Yellow-vented bulbul,3,15.278874536821952,"Banded Woodpecker ---CLB Annexe, outside Centre for Instructional Technology",0931
+378,Javan myna,0,0.0,"Banded Woodpecker ---CLB Annexe, outside Centre for Instructional Technology",0931
+379,Rock pigeon,0,0.0,"Banded Woodpecker ---CLB Annexe, outside Centre for Instructional Technology",0931
+380,Black-naped oriole,0,0.0,"Banded Woodpecker ---Beside Clementi Road, area beside the Ebra crossing",0835
+381,Olive-backed sunbird,0,0.0,"Banded Woodpecker ---Beside Clementi Road, area beside the Ebra crossing",0835
+382,Yellow-vented bulbul,1,5.092958178940651,"Banded Woodpecker ---Beside Clementi Road, area beside the Ebra crossing",0835
+383,Javan myna,0,0.0,"Banded Woodpecker ---Beside Clementi Road, area beside the Ebra crossing",0835
+384,Rock pigeon,0,0.0,"Banded Woodpecker ---Beside Clementi Road, area beside the Ebra crossing",0835
+385,Black-naped oriole,0,0.0,Banded Woodpecker ---Area beside the parking machine bar.,0900
+386,Olive-backed sunbird,0,0.0,Banded Woodpecker ---Area beside the parking machine bar.,0900
+387,Yellow-vented bulbul,5,25.464790894703256,Banded Woodpecker ---Area beside the parking machine bar.,0900
+388,Javan myna,8,40.74366543152521,Banded Woodpecker ---Area beside the parking machine bar.,0900
+389,Rock pigeon,0,0.0,Banded Woodpecker ---Area beside the parking machine bar.,0900
+390,Black-naped oriole,0,0.0,Banded Woodpecker ---Outside U-town Starbucks,0915
+391,Olive-backed sunbird,0,0.0,Banded Woodpecker ---Outside U-town Starbucks,0915
+392,Yellow-vented bulbul,1,5.092958178940651,Banded Woodpecker ---Outside U-town Starbucks,0915
+393,Javan myna,1,5.092958178940651,Banded Woodpecker ---Outside U-town Starbucks,0915
+394,Rock pigeon,0,0.0,Banded Woodpecker ---Outside U-town Starbucks,0915
+395,Black-naped oriole,0,0.0,Banded Woodpecker ---Beside UTR,0937
+396,Olive-backed sunbird,0,0.0,Banded Woodpecker ---Beside UTR,0937
+397,Yellow-vented bulbul,0,0.0,Banded Woodpecker ---Beside UTR,0937
+398,Javan myna,1,5.092958178940651,Banded Woodpecker ---Beside UTR,0937
+399,Rock pigeon,0,0.0,Banded Woodpecker ---Beside UTR,0937
+400,Black-naped oriole,0,0.0,Banded Woodpecker ---Beside Tembusu college,0949
+401,Olive-backed sunbird,0,0.0,Banded Woodpecker ---Beside Tembusu college,0949
+402,Yellow-vented bulbul,4,20.371832715762604,Banded Woodpecker ---Beside Tembusu college,0949
+403,Javan myna,0,0.0,Banded Woodpecker ---Beside Tembusu college,0949
+404,Rock pigeon,0,0.0,Banded Woodpecker ---Beside Tembusu college,0949
+405,Black-naped oriole,0,0.0,"Spotted Wood Owl---In front of RC4, closest to the University Town bus stop",0817
+406,Olive-backed sunbird,1,5.092958178940651,"Spotted Wood Owl---In front of RC4, closest to the University Town bus stop",0817
+407,Yellow-vented bulbul,1,5.092958178940651,"Spotted Wood Owl---In front of RC4, closest to the University Town bus stop",0817
+408,Javan myna,3,15.278874536821952,"Spotted Wood Owl---In front of RC4, closest to the University Town bus stop",0817
+409,Rock pigeon,0,0.0,"Spotted Wood Owl---In front of RC4, closest to the University Town bus stop",0817
+410,Black-naped oriole,0,0.0,Spotted Wood Owl---In the middle of the Yale-NUS garden,0834
+411,Olive-backed sunbird,0,0.0,Spotted Wood Owl---In the middle of the Yale-NUS garden,0834
+412,Yellow-vented bulbul,2,10.185916357881302,Spotted Wood Owl---In the middle of the Yale-NUS garden,0834
+413,Javan myna,2,10.185916357881302,Spotted Wood Owl---In the middle of the Yale-NUS garden,0834
+414,Rock pigeon,0,0.0,Spotted Wood Owl---In the middle of the Yale-NUS garden,0834
+415,Black-naped oriole,0,0.0,Spotted Wood Owl---On the road opposite Yale-Nus Blk 28,0850
+416,Olive-backed sunbird,0,0.0,Spotted Wood Owl---On the road opposite Yale-Nus Blk 28,0850
+417,Yellow-vented bulbul,0,0.0,Spotted Wood Owl---On the road opposite Yale-Nus Blk 28,0850
+418,Javan myna,3,15.278874536821952,Spotted Wood Owl---On the road opposite Yale-Nus Blk 28,0850
+419,Rock pigeon,0,0.0,Spotted Wood Owl---On the road opposite Yale-Nus Blk 28,0850
+420,Black-naped oriole,0,0.0,Spotted Wood Owl---In the middle of Town Green,0914
+421,Olive-backed sunbird,0,0.0,Spotted Wood Owl---In the middle of Town Green,0914
+422,Yellow-vented bulbul,0,0.0,Spotted Wood Owl---In the middle of Town Green,0914
+423,Javan myna,7,35.65070725258456,Spotted Wood Owl---In the middle of Town Green,0914
+424,Rock pigeon,0,0.0,Spotted Wood Owl---In the middle of Town Green,0914
+425,Black-naped oriole,0,0.0,Spotted Wood Owl---36 College Avenue East next to North Tower of the UTown Residence,0936
+426,Olive-backed sunbird,0,0.0,Spotted Wood Owl---36 College Avenue East next to North Tower of the UTown Residence,0936
+427,Yellow-vented bulbul,2,10.185916357881302,Spotted Wood Owl---36 College Avenue East next to North Tower of the UTown Residence,0936
+428,Javan myna,0,0.0,Spotted Wood Owl---36 College Avenue East next to North Tower of the UTown Residence,0936
+429,Rock pigeon,0,0.0,Spotted Wood Owl---36 College Avenue East next to North Tower of the UTown Residence,0936
+430,Black-naped oriole,0,0.0,"Spotted Wood Owl---12 Science Drive 4, beside University Hall",1027
+431,Olive-backed sunbird,0,0.0,"Spotted Wood Owl---12 Science Drive 4, beside University Hall",1027
+432,Yellow-vented bulbul,0,0.0,"Spotted Wood Owl---12 Science Drive 4, beside University Hall",1027
+433,Javan myna,2,10.185916357881302,"Spotted Wood Owl---12 Science Drive 4, beside University Hall",1027
+434,Rock pigeon,0,0.0,"Spotted Wood Owl---12 Science Drive 4, beside University Hall",1027
+435,Black-naped oriole,0,0.0,Spotted Wood Owl---Between the middle of the track and field at FoS,1047
+436,Olive-backed sunbird,0,0.0,Spotted Wood Owl---Between the middle of the track and field at FoS,1047
+437,Yellow-vented bulbul,0,0.0,Spotted Wood Owl---Between the middle of the track and field at FoS,1047
+438,Javan myna,2,10.185916357881302,Spotted Wood Owl---Between the middle of the track and field at FoS,1047
+439,Rock pigeon,0,0.0,Spotted Wood Owl---Between the middle of the track and field at FoS,1047
+440,Black-naped oriole,0,0.0,"Spotted Wood Owl---11 Lower Kent Ridge Rd, CP10 Carpark near Faculty of Dentistry",1135
+441,Olive-backed sunbird,0,0.0,"Spotted Wood Owl---11 Lower Kent Ridge Rd, CP10 Carpark near Faculty of Dentistry",1135
+442,Yellow-vented bulbul,1,5.092958178940651,"Spotted Wood Owl---11 Lower Kent Ridge Rd, CP10 Carpark near Faculty of Dentistry",1135
+443,Javan myna,4,20.371832715762604,"Spotted Wood Owl---11 Lower Kent Ridge Rd, CP10 Carpark near Faculty of Dentistry",1135
+444,Rock pigeon,0,0.0,"Spotted Wood Owl---11 Lower Kent Ridge Rd, CP10 Carpark near Faculty of Dentistry",1135
+445,Black-naped oriole,0,0.0,"Spotted Wood Owl---27 Medical Dr, Department of Anatomy drop-off point",1201
+446,Olive-backed sunbird,0,0.0,"Spotted Wood Owl---27 Medical Dr, Department of Anatomy drop-off point",1201
+447,Yellow-vented bulbul,0,0.0,"Spotted Wood Owl---27 Medical Dr, Department of Anatomy drop-off point",1201
+448,Javan myna,2,10.185916357881302,"Spotted Wood Owl---27 Medical Dr, Department of Anatomy drop-off point",1201
+449,Rock pigeon,0,0.0,"Spotted Wood Owl---27 Medical Dr, Department of Anatomy drop-off point",1201
+450,Black-naped oriole,1,5.092958178940651,Spotted Wood Owl---In front of Singapore Wind Tunnel Facility (restricted area),1028
+451,Olive-backed sunbird,0,0.0,Spotted Wood Owl---In front of Singapore Wind Tunnel Facility (restricted area),1028
+452,Yellow-vented bulbul,1,5.092958178940651,Spotted Wood Owl---In front of Singapore Wind Tunnel Facility (restricted area),1028
+453,Javan myna,7,35.65070725258456,Spotted Wood Owl---In front of Singapore Wind Tunnel Facility (restricted area),1028
+454,Rock pigeon,0,0.0,Spotted Wood Owl---In front of Singapore Wind Tunnel Facility (restricted area),1028
+455,Black-naped oriole,0,0.0,Spotted Wood Owl---Engineering block,1104
+456,Olive-backed sunbird,2,10.185916357881302,Spotted Wood Owl---Engineering block,1104
+457,Yellow-vented bulbul,0,0.0,Spotted Wood Owl---Engineering block,1104
+458,Javan myna,1,5.092958178940651,Spotted Wood Owl---Engineering block,1104
+459,Rock pigeon,0,0.0,Spotted Wood Owl---Engineering block,1104
+460,Black-naped oriole,3,15.278874536821952,Spotted Wood Owl---College Link (behind College Link Road),1126
+461,Olive-backed sunbird,0,0.0,Spotted Wood Owl---College Link (behind College Link Road),1126
+462,Yellow-vented bulbul,1,5.092958178940651,Spotted Wood Owl---College Link (behind College Link Road),1126
+463,Javan myna,0,0.0,Spotted Wood Owl---College Link (behind College Link Road),1126
+464,Rock pigeon,3,15.278874536821952,Spotted Wood Owl---College Link (behind College Link Road),1126
+465,Black-naped oriole,0,0.0,Spotted Wood Owl---Besides University Cultural Centre (UCC),1050
+466,Olive-backed sunbird,3,15.278874536821952,Spotted Wood Owl---Besides University Cultural Centre (UCC),1050
+467,Yellow-vented bulbul,0,0.0,Spotted Wood Owl---Besides University Cultural Centre (UCC),1050
+468,Javan myna,0,0.0,Spotted Wood Owl---Besides University Cultural Centre (UCC),1050
+469,Rock pigeon,0,0.0,Spotted Wood Owl---Besides University Cultural Centre (UCC),1050
+470,Black-naped oriole,2,10.185916357881302,"Brahminy Kite---30ev, Behind SRC",1053
+471,Olive-backed sunbird,1,5.092958178940651,"Brahminy Kite---30ev, Behind SRC",1053
+472,Yellow-vented bulbul,9,45.83662361046586,"Brahminy Kite---30ev, Behind SRC",1053
+473,Javan myna,4,20.371832715762604,"Brahminy Kite---30ev, Behind SRC",1053
+474,Rock pigeon,0,0.0,"Brahminy Kite---30ev, Behind SRC",1053
+475,Black-naped oriole,0,0.0,Brahminy Kite---Beside Central Library Bus Stop,0903
+476,Olive-backed sunbird,2,10.185916357881302,Brahminy Kite---Beside Central Library Bus Stop,0903
+477,Yellow-vented bulbul,2,10.185916357881302,Brahminy Kite---Beside Central Library Bus Stop,0903
+478,Javan myna,1,5.092958178940651,Brahminy Kite---Beside Central Library Bus Stop,0903
+479,Rock pigeon,0,0.0,Brahminy Kite---Beside Central Library Bus Stop,0903
+480,Black-naped oriole,1,5.092958178940651,"Brahminy Kite---Research Link, Behind Central Library",0920
+481,Olive-backed sunbird,3,15.278874536821952,"Brahminy Kite---Research Link, Behind Central Library",0920
+482,Yellow-vented bulbul,7,35.65070725258456,"Brahminy Kite---Research Link, Behind Central Library",0920
+483,Javan myna,3,15.278874536821952,"Brahminy Kite---Research Link, Behind Central Library",0920
+484,Rock pigeon,0,0.0,"Brahminy Kite---Research Link, Behind Central Library",0920
+485,Black-naped oriole,0,0.0,"Brahminy Kite---In the middle of YIH and CLB bus stop, opposite Engineering E4",0939
+486,Olive-backed sunbird,2,10.185916357881302,"Brahminy Kite---In the middle of YIH and CLB bus stop, opposite Engineering E4",0939
+487,Yellow-vented bulbul,2,10.185916357881302,"Brahminy Kite---In the middle of YIH and CLB bus stop, opposite Engineering E4",0939
+488,Javan myna,2,10.185916357881302,"Brahminy Kite---In the middle of YIH and CLB bus stop, opposite Engineering E4",0939
+489,Rock pigeon,0,0.0,"Brahminy Kite---In the middle of YIH and CLB bus stop, opposite Engineering E4",0939
+490,Black-naped oriole,0,0.0,Brahminy Kite---Beside Create Building,1003
+491,Olive-backed sunbird,5,25.464790894703256,Brahminy Kite---Beside Create Building,1003
+492,Yellow-vented bulbul,2,10.185916357881302,Brahminy Kite---Beside Create Building,1003
+493,Javan myna,0,0.0,Brahminy Kite---Beside Create Building,1003
+494,Rock pigeon,0,0.0,Brahminy Kite---Beside Create Building,1003
+495,Black-naped oriole,0,0.0,Brahminy Kite---Beside starbucks,1020
+496,Olive-backed sunbird,2,10.185916357881302,Brahminy Kite---Beside starbucks,1020
+497,Yellow-vented bulbul,8,40.74366543152521,Brahminy Kite---Beside starbucks,1020
+498,Javan myna,3,15.278874536821952,Brahminy Kite---Beside starbucks,1020
+499,Rock pigeon,0,0.0,Brahminy Kite---Beside starbucks,1020
+500,Black-naped oriole,0,0.0,Brahminy Kite---Behind Tembusu,1037
+501,Olive-backed sunbird,0,0.0,Brahminy Kite---Behind Tembusu,1037
+502,Yellow-vented bulbul,5,25.464790894703256,Brahminy Kite---Behind Tembusu,1037
+503,Javan myna,0,0.0,Brahminy Kite---Behind Tembusu,1037
+504,Rock pigeon,0,0.0,Brahminy Kite---Behind Tembusu,1037
+505,Black-naped oriole,0,0.0,"Brahminy Kite---20m ev, Up slope to the FOS carpark beside University Hall",0807
+506,Olive-backed sunbird,3,15.278874536821952,"Brahminy Kite---20m ev, Up slope to the FOS carpark beside University Hall",0807
+507,Yellow-vented bulbul,2,10.185916357881302,"Brahminy Kite---20m ev, Up slope to the FOS carpark beside University Hall",0807
+508,Javan myna,1,5.092958178940651,"Brahminy Kite---20m ev, Up slope to the FOS carpark beside University Hall",0807
+509,Rock pigeon,0,0.0,"Brahminy Kite---20m ev, Up slope to the FOS carpark beside University Hall",0807
+510,Black-naped oriole,0,0.0,"Brahminy Kite---20m ev, On green field, beside running track",0821
+511,Olive-backed sunbird,1,5.092958178940651,"Brahminy Kite---20m ev, On green field, beside running track",0821
+512,Yellow-vented bulbul,5,25.464790894703256,"Brahminy Kite---20m ev, On green field, beside running track",0821
+513,Javan myna,0,0.0,"Brahminy Kite---20m ev, On green field, beside running track",0821
+514,Rock pigeon,0,0.0,"Brahminy Kite---20m ev, On green field, beside running track",0821
+515,Black-naped oriole,0,0.0,"Brahminy Kite---20m ev, On green field, beside running track and construction yard",0835
+516,Olive-backed sunbird,0,0.0,"Brahminy Kite---20m ev, On green field, beside running track and construction yard",0835
+517,Yellow-vented bulbul,4,20.371832715762604,"Brahminy Kite---20m ev, On green field, beside running track and construction yard",0835
+518,Javan myna,0,0.0,"Brahminy Kite---20m ev, On green field, beside running track and construction yard",0835
+519,Rock pigeon,0,0.0,"Brahminy Kite---20m ev, On green field, beside running track and construction yard",0835
+520,Black-naped oriole,0,0.0,"Brahminy Kite---20m ev, Next to S17, end of carpark, next to S17 bus stop",0900
+521,Olive-backed sunbird,0,0.0,"Brahminy Kite---20m ev, Next to S17, end of carpark, next to S17 bus stop",0900
+522,Yellow-vented bulbul,0,0.0,"Brahminy Kite---20m ev, Next to S17, end of carpark, next to S17 bus stop",0900
+523,Javan myna,3,15.278874536821952,"Brahminy Kite---20m ev, Next to S17, end of carpark, next to S17 bus stop",0900
+524,Rock pigeon,0,0.0,"Brahminy Kite---20m ev, Next to S17, end of carpark, next to S17 bus stop",0900
+525,Black-naped oriole,0,0.0,"Brahminy Kite---30m ev, MD02 Loading Bay, Ventation area. In between MD02 and Carpark",0935
+526,Olive-backed sunbird,0,0.0,"Brahminy Kite---30m ev, MD02 Loading Bay, Ventation area. In between MD02 and Carpark",0935
+527,Yellow-vented bulbul,0,0.0,"Brahminy Kite---30m ev, MD02 Loading Bay, Ventation area. In between MD02 and Carpark",0935
+528,Javan myna,1,5.092958178940651,"Brahminy Kite---30m ev, MD02 Loading Bay, Ventation area. In between MD02 and Carpark",0935
+529,Rock pigeon,0,0.0,"Brahminy Kite---30m ev, MD02 Loading Bay, Ventation area. In between MD02 and Carpark",0935
+530,Black-naped oriole,0,0.0,"Brahminy Kite---30ev, Utown Green",1014
+531,Olive-backed sunbird,0,0.0,"Brahminy Kite---30ev, Utown Green",1014
+532,Yellow-vented bulbul,1,5.092958178940651,"Brahminy Kite---30ev, Utown Green",1014
+533,Javan myna,3,15.278874536821952,"Brahminy Kite---30ev, Utown Green",1014
+534,Rock pigeon,0,0.0,"Brahminy Kite---30ev, Utown Green",1014
+535,Black-naped oriole,0,0.0,"Brahminy Kite---30ev, CAPT Dining Hall exit",1042
+536,Olive-backed sunbird,0,0.0,"Brahminy Kite---30ev, CAPT Dining Hall exit",1042
+537,Yellow-vented bulbul,2,10.185916357881302,"Brahminy Kite---30ev, CAPT Dining Hall exit",1042
+538,Javan myna,2,10.185916357881302,"Brahminy Kite---30ev, CAPT Dining Hall exit",1042
+539,Rock pigeon,0,0.0,"Brahminy Kite---30ev, CAPT Dining Hall exit",1042
+540,Black-naped oriole,5,25.464790894703256,"Brahminy Kite---Prince George's Park, 20m from Busstop",0905
+541,Olive-backed sunbird,0,0.0,"Brahminy Kite---Prince George's Park, 20m from Busstop",0905
+542,Yellow-vented bulbul,0,0.0,"Brahminy Kite---Prince George's Park, 20m from Busstop",0905
+543,Javan myna,5,25.464790894703256,"Brahminy Kite---Prince George's Park, 20m from Busstop",0905
+544,Rock pigeon,0,0.0,"Brahminy Kite---Prince George's Park, 20m from Busstop",0905
+545,Black-naped oriole,0,0.0,"Brahminy Kite---Prince George's Park, Main Road",0924
+546,Olive-backed sunbird,0,0.0,"Brahminy Kite---Prince George's Park, Main Road",0924
+547,Yellow-vented bulbul,0,0.0,"Brahminy Kite---Prince George's Park, Main Road",0924
+548,Javan myna,7,35.65070725258456,"Brahminy Kite---Prince George's Park, Main Road",0924
+549,Rock pigeon,0,0.0,"Brahminy Kite---Prince George's Park, Main Road",0924
+550,Black-naped oriole,0,0.0,"Brahminy Kite---Prince George's Park, At the bend",0940
+551,Olive-backed sunbird,0,0.0,"Brahminy Kite---Prince George's Park, At the bend",0940
+552,Yellow-vented bulbul,0,0.0,"Brahminy Kite---Prince George's Park, At the bend",0940
+553,Javan myna,3,15.278874536821952,"Brahminy Kite---Prince George's Park, At the bend",0940
+554,Rock pigeon,0,0.0,"Brahminy Kite---Prince George's Park, At the bend",0940
+555,Black-naped oriole,0,0.0,"Brahminy Kite---30 Heng Mui Keng Terrace, Besides Sheares Hall",1000
+556,Olive-backed sunbird,1,5.092958178940651,"Brahminy Kite---30 Heng Mui Keng Terrace, Besides Sheares Hall",1000
+557,Yellow-vented bulbul,0,0.0,"Brahminy Kite---30 Heng Mui Keng Terrace, Besides Sheares Hall",1000
+558,Javan myna,1,5.092958178940651,"Brahminy Kite---30 Heng Mui Keng Terrace, Besides Sheares Hall",1000
+559,Rock pigeon,0,0.0,"Brahminy Kite---30 Heng Mui Keng Terrace, Besides Sheares Hall",1000
+560,Black-naped oriole,2,10.185916357881302,"Brahminy Kite---College Link Rd, Roundabout Loop",1020
+561,Olive-backed sunbird,1,5.092958178940651,"Brahminy Kite---College Link Rd, Roundabout Loop",1020
+562,Yellow-vented bulbul,1,5.092958178940651,"Brahminy Kite---College Link Rd, Roundabout Loop",1020
+563,Javan myna,0,0.0,"Brahminy Kite---College Link Rd, Roundabout Loop",1020
+564,Rock pigeon,0,0.0,"Brahminy Kite---College Link Rd, Roundabout Loop",1020
+565,Black-naped oriole,0,0.0,"Brahminy Kite---36 College Ave E, Singapore 138600, Behind UTR",1040
+566,Olive-backed sunbird,0,0.0,"Brahminy Kite---36 College Ave E, Singapore 138600, Behind UTR",1040
+567,Yellow-vented bulbul,4,20.371832715762604,"Brahminy Kite---36 College Ave E, Singapore 138600, Behind UTR",1040
+568,Javan myna,1,5.092958178940651,"Brahminy Kite---36 College Ave E, Singapore 138600, Behind UTR",1040
+569,Rock pigeon,0,0.0,"Brahminy Kite---36 College Ave E, Singapore 138600, Behind UTR",1040
+570,Black-naped oriole,1,5.092958178940651,"Ashy Minivet---Left of bus stop University Town, ID 19059 College Avenue West",0811
+571,Olive-backed sunbird,1,5.092958178940651,"Ashy Minivet---Left of bus stop University Town, ID 19059 College Avenue West",0811
+572,Yellow-vented bulbul,1,5.092958178940651,"Ashy Minivet---Left of bus stop University Town, ID 19059 College Avenue West",0811
+573,Javan myna,2,10.185916357881302,"Ashy Minivet---Left of bus stop University Town, ID 19059 College Avenue West",0811
+574,Rock pigeon,0,0.0,"Ashy Minivet---Left of bus stop University Town, ID 19059 College Avenue West",0811
+575,Black-naped oriole,1,5.092958178940651,"Ashy Minivet---Right of bus stop Aft Dover Road, ID 17099, College Avenue West",0811
+576,Olive-backed sunbird,0,0.0,"Ashy Minivet---Right of bus stop Aft Dover Road, ID 17099, College Avenue West",0811
+577,Yellow-vented bulbul,0,0.0,"Ashy Minivet---Right of bus stop Aft Dover Road, ID 17099, College Avenue West",0811
+578,Javan myna,1,5.092958178940651,"Ashy Minivet---Right of bus stop Aft Dover Road, ID 17099, College Avenue West",0811
+579,Rock pigeon,0,0.0,"Ashy Minivet---Right of bus stop Aft Dover Road, ID 17099, College Avenue West",0811
+580,Black-naped oriole,1,5.092958178940651,Ashy Minivet---300m walk towards Clementi Road from Stephen Riady Center,0828
+581,Olive-backed sunbird,0,0.0,Ashy Minivet---300m walk towards Clementi Road from Stephen Riady Center,0828
+582,Yellow-vented bulbul,0,0.0,Ashy Minivet---300m walk towards Clementi Road from Stephen Riady Center,0828
+583,Javan myna,2,10.185916357881302,Ashy Minivet---300m walk towards Clementi Road from Stephen Riady Center,0828
+584,Rock pigeon,2,10.185916357881302,Ashy Minivet---300m walk towards Clementi Road from Stephen Riady Center,0828
+585,Black-naped oriole,0,0.0,Ashy Minivet---Outside Sapore's Italiano,0846
+586,Olive-backed sunbird,0,0.0,Ashy Minivet---Outside Sapore's Italiano,0846
+587,Yellow-vented bulbul,0,0.0,Ashy Minivet---Outside Sapore's Italiano,0846
+588,Javan myna,1,5.092958178940651,Ashy Minivet---Outside Sapore's Italiano,0846
+589,Rock pigeon,0,0.0,Ashy Minivet---Outside Sapore's Italiano,0846
+590,Black-naped oriole,0,0.0,Ashy Minivet---Edge of Town Green near Pizza Hut,0828
+591,Olive-backed sunbird,2,10.185916357881302,Ashy Minivet---Edge of Town Green near Pizza Hut,0828
+592,Yellow-vented bulbul,1,5.092958178940651,Ashy Minivet---Edge of Town Green near Pizza Hut,0828
+593,Javan myna,6,30.557749073643905,Ashy Minivet---Edge of Town Green near Pizza Hut,0828
+594,Rock pigeon,0,0.0,Ashy Minivet---Edge of Town Green near Pizza Hut,0828
+595,Black-naped oriole,0,0.0,Ashy Minivet---Road/Parking space behind Create Tower,0912
+596,Olive-backed sunbird,0,0.0,Ashy Minivet---Road/Parking space behind Create Tower,0912
+597,Yellow-vented bulbul,0,0.0,Ashy Minivet---Road/Parking space behind Create Tower,0912
+598,Javan myna,3,15.278874536821952,Ashy Minivet---Road/Parking space behind Create Tower,0912
+599,Rock pigeon,0,0.0,Ashy Minivet---Road/Parking space behind Create Tower,0912
+600,Black-naped oriole,0,0.0,"Ashy Minivet---30 College Ave E, Singapore 138599",0940
+601,Olive-backed sunbird,0,0.0,"Ashy Minivet---30 College Ave E, Singapore 138599",0940
+602,Yellow-vented bulbul,3,15.278874536821952,"Ashy Minivet---30 College Ave E, Singapore 138599",0940
+603,Javan myna,4,20.371832715762604,"Ashy Minivet---30 College Ave E, Singapore 138599",0940
+604,Rock pigeon,0,0.0,"Ashy Minivet---30 College Ave E, Singapore 138599",0940
+605,Black-naped oriole,0,0.0,Ashy Minivet---22 College Ave East,0940
+606,Olive-backed sunbird,0,0.0,Ashy Minivet---22 College Ave East,0940
+607,Yellow-vented bulbul,3,15.278874536821952,Ashy Minivet---22 College Ave East,0940
+608,Javan myna,1,5.092958178940651,Ashy Minivet---22 College Ave East,0940
+609,Rock pigeon,0,0.0,Ashy Minivet---22 College Ave East,0940
+610,Black-naped oriole,1,5.092958178940651,"Ashy Minivet---18 College Ave E, Singapore 138593",1001
+611,Olive-backed sunbird,0,0.0,"Ashy Minivet---18 College Ave E, Singapore 138593",1001
+612,Yellow-vented bulbul,2,10.185916357881302,"Ashy Minivet---18 College Ave E, Singapore 138593",1001
+613,Javan myna,2,10.185916357881302,"Ashy Minivet---18 College Ave E, Singapore 138593",1001
+614,Rock pigeon,0,0.0,"Ashy Minivet---18 College Ave E, Singapore 138593",1001
+615,Black-naped oriole,0,0.0,Ashy Minivet---Cinnamon College Driveway along College Ave E,1012
+616,Olive-backed sunbird,0,0.0,Ashy Minivet---Cinnamon College Driveway along College Ave E,1012
+617,Yellow-vented bulbul,3,15.278874536821952,Ashy Minivet---Cinnamon College Driveway along College Ave E,1012
+618,Javan myna,4,20.371832715762604,Ashy Minivet---Cinnamon College Driveway along College Ave E,1012
+619,Rock pigeon,0,0.0,Ashy Minivet---Cinnamon College Driveway along College Ave E,1012
+620,Black-naped oriole,1,5.092958178940651,Coppersmith Barbet---28 College Ave West (near Yale-NUS),0750
+621,Olive-backed sunbird,1,5.092958178940651,Coppersmith Barbet---28 College Ave West (near Yale-NUS),0750
+622,Yellow-vented bulbul,0,0.0,Coppersmith Barbet---28 College Ave West (near Yale-NUS),0750
+623,Javan myna,5,25.464790894703256,Coppersmith Barbet---28 College Ave West (near Yale-NUS),0750
+624,Rock pigeon,0,0.0,Coppersmith Barbet---28 College Ave West (near Yale-NUS),0750
+625,Black-naped oriole,0,0.0,Coppersmith Barbet---6 College Ave E (near RC4),0806
+626,Olive-backed sunbird,0,0.0,Coppersmith Barbet---6 College Ave E (near RC4),0806
+627,Yellow-vented bulbul,2,10.185916357881302,Coppersmith Barbet---6 College Ave E (near RC4),0806
+628,Javan myna,1,5.092958178940651,Coppersmith Barbet---6 College Ave E (near RC4),0806
+629,Rock pigeon,2,10.185916357881302,Coppersmith Barbet---6 College Ave E (near RC4),0806
+630,Black-naped oriole,2,10.185916357881302,Coppersmith Barbet---8 College Ave E (near CAPT),0822
+631,Olive-backed sunbird,0,0.0,Coppersmith Barbet---8 College Ave E (near CAPT),0822
+632,Yellow-vented bulbul,1,5.092958178940651,Coppersmith Barbet---8 College Ave E (near CAPT),0822
+633,Javan myna,0,0.0,Coppersmith Barbet---8 College Ave E (near CAPT),0822
+634,Rock pigeon,0,0.0,Coppersmith Barbet---8 College Ave E (near CAPT),0822
+635,Black-naped oriole,1,5.092958178940651,Coppersmith Barbet---26 College Ave E (near Cinnamon College),0837
+636,Olive-backed sunbird,1,5.092958178940651,Coppersmith Barbet---26 College Ave E (near Cinnamon College),0837
+637,Yellow-vented bulbul,2,10.185916357881302,Coppersmith Barbet---26 College Ave E (near Cinnamon College),0837
+638,Javan myna,3,15.278874536821952,Coppersmith Barbet---26 College Ave E (near Cinnamon College),0837
+639,Rock pigeon,5,25.464790894703256,Coppersmith Barbet---26 College Ave E (near Cinnamon College),0837
+640,Black-naped oriole,1,5.092958178940651,Coppersmith Barbet---36 College Ave E (near UTown Residence),0900
+641,Olive-backed sunbird,1,5.092958178940651,Coppersmith Barbet---36 College Ave E (near UTown Residence),0900
+642,Yellow-vented bulbul,4,20.371832715762604,Coppersmith Barbet---36 College Ave E (near UTown Residence),0900
+643,Javan myna,5,25.464790894703256,Coppersmith Barbet---36 College Ave E (near UTown Residence),0900
+644,Rock pigeon,1,5.092958178940651,Coppersmith Barbet---36 College Ave E (near UTown Residence),0900
+645,Black-naped oriole,0,0.0,Coppersmith Barbet---College Link Rd (near Hwang's),0921
+646,Olive-backed sunbird,1,5.092958178940651,Coppersmith Barbet---College Link Rd (near Hwang's),0921
+647,Yellow-vented bulbul,3,15.278874536821952,Coppersmith Barbet---College Link Rd (near Hwang's),0921
+648,Javan myna,5,25.464790894703256,Coppersmith Barbet---College Link Rd (near Hwang's),0921
+649,Rock pigeon,0,0.0,Coppersmith Barbet---College Link Rd (near Hwang's),0921
+650,Black-naped oriole,0,0.0,"Coppersmith Barbet---CREATE Tower, 1 Create Way (near Town Green)",0935
+651,Olive-backed sunbird,1,5.092958178940651,"Coppersmith Barbet---CREATE Tower, 1 Create Way (near Town Green)",0935
+652,Yellow-vented bulbul,3,15.278874536821952,"Coppersmith Barbet---CREATE Tower, 1 Create Way (near Town Green)",0935
+653,Javan myna,9,45.83662361046586,"Coppersmith Barbet---CREATE Tower, 1 Create Way (near Town Green)",0935
+654,Rock pigeon,0,0.0,"Coppersmith Barbet---CREATE Tower, 1 Create Way (near Town Green)",0935
+655,Black-naped oriole,1,5.092958178940651,Coppersmith Barbet---AYE (near the wind tunnel facility),1005
+656,Olive-backed sunbird,1,5.092958178940651,Coppersmith Barbet---AYE (near the wind tunnel facility),1005
+657,Yellow-vented bulbul,3,15.278874536821952,Coppersmith Barbet---AYE (near the wind tunnel facility),1005
+658,Javan myna,5,25.464790894703256,Coppersmith Barbet---AYE (near the wind tunnel facility),1005
+659,Rock pigeon,0,0.0,Coppersmith Barbet---AYE (near the wind tunnel facility),1005
+660,Black-naped oriole,0,0.0,Coppersmith Barbet---8 Sports Drive 1 (near NUS Sports Hall),0745
+661,Olive-backed sunbird,0,0.0,Coppersmith Barbet---8 Sports Drive 1 (near NUS Sports Hall),0745
+662,Yellow-vented bulbul,0,0.0,Coppersmith Barbet---8 Sports Drive 1 (near NUS Sports Hall),0745
+663,Javan myna,4,20.371832715762604,Coppersmith Barbet---8 Sports Drive 1 (near NUS Sports Hall),0745
+664,Rock pigeon,0,0.0,Coppersmith Barbet---8 Sports Drive 1 (near NUS Sports Hall),0745
+665,Black-naped oriole,0,0.0,Coppersmith Barbet---20 Lower Kent Ridge Rd (near YIH),0800
+666,Olive-backed sunbird,2,10.185916357881302,Coppersmith Barbet---20 Lower Kent Ridge Rd (near YIH),0800
+667,Yellow-vented bulbul,0,0.0,Coppersmith Barbet---20 Lower Kent Ridge Rd (near YIH),0800
+668,Javan myna,0,0.0,Coppersmith Barbet---20 Lower Kent Ridge Rd (near YIH),0800
+669,Rock pigeon,0,0.0,Coppersmith Barbet---20 Lower Kent Ridge Rd (near YIH),0800
+670,Black-naped oriole,0,0.0,"Coppersmith Barbet---NUS Field, near AYE",0825
+671,Olive-backed sunbird,4,20.371832715762604,"Coppersmith Barbet---NUS Field, near AYE",0825
+672,Yellow-vented bulbul,1,5.092958178940651,"Coppersmith Barbet---NUS Field, near AYE",0825
+673,Javan myna,1,5.092958178940651,"Coppersmith Barbet---NUS Field, near AYE",0825
+674,Rock pigeon,1,5.092958178940651,"Coppersmith Barbet---NUS Field, near AYE",0825
+675,Black-naped oriole,0,0.0,"Coppersmith Barbet---Lower Kent Ridge Road, LT33 (Carpark behind LT33)",0845
+676,Olive-backed sunbird,2,10.185916357881302,"Coppersmith Barbet---Lower Kent Ridge Road, LT33 (Carpark behind LT33)",0845
+677,Yellow-vented bulbul,0,0.0,"Coppersmith Barbet---Lower Kent Ridge Road, LT33 (Carpark behind LT33)",0845
+678,Javan myna,2,10.185916357881302,"Coppersmith Barbet---Lower Kent Ridge Road, LT33 (Carpark behind LT33)",0845
+679,Rock pigeon,0,0.0,"Coppersmith Barbet---Lower Kent Ridge Road, LT33 (Carpark behind LT33)",0845
+680,Black-naped oriole,0,0.0,Coppersmith Barbet---1 Science Drive,0900
+681,Olive-backed sunbird,1,5.092958178940651,Coppersmith Barbet---1 Science Drive,0900
+682,Yellow-vented bulbul,0,0.0,Coppersmith Barbet---1 Science Drive,0900
+683,Javan myna,1,5.092958178940651,Coppersmith Barbet---1 Science Drive,0900
+684,Rock pigeon,2,10.185916357881302,Coppersmith Barbet---1 Science Drive,0900
+685,Black-naped oriole,0,0.0,Coppersmith Barbet---Prince George's Park Residences,0930
+686,Olive-backed sunbird,3,15.278874536821952,Coppersmith Barbet---Prince George's Park Residences,0930
+687,Yellow-vented bulbul,0,0.0,Coppersmith Barbet---Prince George's Park Residences,0930
+688,Javan myna,2,10.185916357881302,Coppersmith Barbet---Prince George's Park Residences,0930
+689,Rock pigeon,1,5.092958178940651,Coppersmith Barbet---Prince George's Park Residences,0930
+690,Black-naped oriole,1,5.092958178940651,"Coppersmith Barbet---Engineering Drive 1, T-Lab (Carpark)",0740
+691,Olive-backed sunbird,2,10.185916357881302,"Coppersmith Barbet---Engineering Drive 1, T-Lab (Carpark)",0740
+692,Yellow-vented bulbul,3,15.278874536821952,"Coppersmith Barbet---Engineering Drive 1, T-Lab (Carpark)",0740
+693,Javan myna,1,5.092958178940651,"Coppersmith Barbet---Engineering Drive 1, T-Lab (Carpark)",0740
+694,Rock pigeon,0,0.0,"Coppersmith Barbet---Engineering Drive 1, T-Lab (Carpark)",0740
+695,Black-naped oriole,3,15.278874536821952,"Coppersmith Barbet---Engineering Drive 4, Techno Edge",0810
+696,Olive-backed sunbird,0,0.0,"Coppersmith Barbet---Engineering Drive 4, Techno Edge",0810
+697,Yellow-vented bulbul,2,10.185916357881302,"Coppersmith Barbet---Engineering Drive 4, Techno Edge",0810
+698,Javan myna,7,35.65070725258456,"Coppersmith Barbet---Engineering Drive 4, Techno Edge",0810
+699,Rock pigeon,5,25.464790894703256,"Coppersmith Barbet---Engineering Drive 4, Techno Edge",0810
+700,Black-naped oriole,2,10.185916357881302,"Coppersmith Barbet---10 Architecture Drive, Center For English Language Communication",0825
+701,Olive-backed sunbird,2,10.185916357881302,"Coppersmith Barbet---10 Architecture Drive, Center For English Language Communication",0825
+702,Yellow-vented bulbul,3,15.278874536821952,"Coppersmith Barbet---10 Architecture Drive, Center For English Language Communication",0825
+703,Javan myna,3,15.278874536821952,"Coppersmith Barbet---10 Architecture Drive, Center For English Language Communication",0825
+704,Rock pigeon,2,10.185916357881302,"Coppersmith Barbet---10 Architecture Drive, Center For English Language Communication",0825
+705,Black-naped oriole,1,5.092958178940651,"Coppersmith Barbet---15 Kent Ridge Road, Centre for Development of Teaching and Learning",0844
+706,Olive-backed sunbird,4,20.371832715762604,"Coppersmith Barbet---15 Kent Ridge Road, Centre for Development of Teaching and Learning",0844
+707,Yellow-vented bulbul,2,10.185916357881302,"Coppersmith Barbet---15 Kent Ridge Road, Centre for Development of Teaching and Learning",0844
+708,Javan myna,1,5.092958178940651,"Coppersmith Barbet---15 Kent Ridge Road, Centre for Development of Teaching and Learning",0844
+709,Rock pigeon,5,25.464790894703256,"Coppersmith Barbet---15 Kent Ridge Road, Centre for Development of Teaching and Learning",0844
+710,Black-naped oriole,1,5.092958178940651,Coppersmith Barbet---Ridge View Residential College,0908
+711,Olive-backed sunbird,0,0.0,Coppersmith Barbet---Ridge View Residential College,0908
+712,Yellow-vented bulbul,4,20.371832715762604,Coppersmith Barbet---Ridge View Residential College,0908
+713,Javan myna,7,35.65070725258456,Coppersmith Barbet---Ridge View Residential College,0908
+714,Rock pigeon,2,10.185916357881302,Coppersmith Barbet---Ridge View Residential College,0908
+715,Black-naped oriole,3,15.278874536821952,Coppersmith Barbet---14A Prince George's Park,0935
+716,Olive-backed sunbird,1,5.092958178940651,Coppersmith Barbet---14A Prince George's Park,0935
+717,Yellow-vented bulbul,6,30.557749073643905,Coppersmith Barbet---14A Prince George's Park,0935
+718,Javan myna,0,0.0,Coppersmith Barbet---14A Prince George's Park,0935
+719,Rock pigeon,0,0.0,Coppersmith Barbet---14A Prince George's Park,0935
+720,Black-naped oriole,0,0.0,Pacific Swallow---9 Engineering Dr 1,1042
+721,Olive-backed sunbird,1,5.092958178940651,Pacific Swallow---9 Engineering Dr 1,1042
+722,Yellow-vented bulbul,0,0.0,Pacific Swallow---9 Engineering Dr 1,1042
+723,Javan myna,4,20.371832715762604,Pacific Swallow---9 Engineering Dr 1,1042
+724,Rock pigeon,0,0.0,Pacific Swallow---9 Engineering Dr 1,1042
+725,Black-naped oriole,1,5.092958178940651,"Pacific Swallow---Kent Ridge Dr, Opposite Kent Ridge Guild House",1118
+726,Olive-backed sunbird,0,0.0,"Pacific Swallow---Kent Ridge Dr, Opposite Kent Ridge Guild House",1118
+727,Yellow-vented bulbul,0,0.0,"Pacific Swallow---Kent Ridge Dr, Opposite Kent Ridge Guild House",1118
+728,Javan myna,0,0.0,"Pacific Swallow---Kent Ridge Dr, Opposite Kent Ridge Guild House",1118
+729,Rock pigeon,0,0.0,"Pacific Swallow---Kent Ridge Dr, Opposite Kent Ridge Guild House",1118
+730,Black-naped oriole,0,0.0,"Pacific Swallow---Kent Ridge Dr, in front of Shaw Foundation Alumni House",1130
+731,Olive-backed sunbird,3,15.278874536821952,"Pacific Swallow---Kent Ridge Dr, in front of Shaw Foundation Alumni House",1130
+732,Yellow-vented bulbul,0,0.0,"Pacific Swallow---Kent Ridge Dr, in front of Shaw Foundation Alumni House",1130
+733,Javan myna,4,20.371832715762604,"Pacific Swallow---Kent Ridge Dr, in front of Shaw Foundation Alumni House",1130
+734,Rock pigeon,1,5.092958178940651,"Pacific Swallow---Kent Ridge Dr, in front of Shaw Foundation Alumni House",1130
+735,Black-naped oriole,0,0.0,"Pacific Swallow---Prince George's Park, Opposite Residences",1225
+736,Olive-backed sunbird,0,0.0,"Pacific Swallow---Prince George's Park, Opposite Residences",1225
+737,Yellow-vented bulbul,0,0.0,"Pacific Swallow---Prince George's Park, Opposite Residences",1225
+738,Javan myna,5,25.464790894703256,"Pacific Swallow---Prince George's Park, Opposite Residences",1225
+739,Rock pigeon,1,5.092958178940651,"Pacific Swallow---Prince George's Park, Opposite Residences",1225
+740,Black-naped oriole,0,0.0,"Pacific Swallow---Lower Kent Ridge Road, after roundabout",1241
+741,Olive-backed sunbird,0,0.0,"Pacific Swallow---Lower Kent Ridge Road, after roundabout",1241
+742,Yellow-vented bulbul,1,5.092958178940651,"Pacific Swallow---Lower Kent Ridge Road, after roundabout",1241
+743,Javan myna,1,5.092958178940651,"Pacific Swallow---Lower Kent Ridge Road, after roundabout",1241
+744,Rock pigeon,0,0.0,"Pacific Swallow---Lower Kent Ridge Road, after roundabout",1241
+745,Black-naped oriole,0,0.0,"Pacific Swallow---Lower Kent Ridge Road, opposite LT28",1254
+746,Olive-backed sunbird,0,0.0,"Pacific Swallow---Lower Kent Ridge Road, opposite LT28",1254
+747,Yellow-vented bulbul,0,0.0,"Pacific Swallow---Lower Kent Ridge Road, opposite LT28",1254
+748,Javan myna,3,15.278874536821952,"Pacific Swallow---Lower Kent Ridge Road, opposite LT28",1254
+749,Rock pigeon,3,15.278874536821952,"Pacific Swallow---Lower Kent Ridge Road, opposite LT28",1254
+750,Black-naped oriole,0,0.0,"Pacific Swallow---Lower Kent Ridge Road, opposite University Hall",1430
+751,Olive-backed sunbird,3,15.278874536821952,"Pacific Swallow---Lower Kent Ridge Road, opposite University Hall",1430
+752,Yellow-vented bulbul,1,5.092958178940651,"Pacific Swallow---Lower Kent Ridge Road, opposite University Hall",1430
+753,Javan myna,2,10.185916357881302,"Pacific Swallow---Lower Kent Ridge Road, opposite University Hall",1430
+754,Rock pigeon,0,0.0,"Pacific Swallow---Lower Kent Ridge Road, opposite University Hall",1430
+755,Black-naped oriole,0,0.0,"Pacific Swallow---Lower Kent Ridge Road, field @ track",1441
+756,Olive-backed sunbird,0,0.0,"Pacific Swallow---Lower Kent Ridge Road, field @ track",1441
+757,Yellow-vented bulbul,0,0.0,"Pacific Swallow---Lower Kent Ridge Road, field @ track",1441
+758,Javan myna,1,5.092958178940651,"Pacific Swallow---Lower Kent Ridge Road, field @ track",1441
+759,Rock pigeon,0,0.0,"Pacific Swallow---Lower Kent Ridge Road, field @ track",1441
+760,Black-naped oriole,0,0.0,"Pacific Swallow---Lower Kent Ridge Road, USC opposite 7-11",1500
+761,Olive-backed sunbird,0,0.0,"Pacific Swallow---Lower Kent Ridge Road, USC opposite 7-11",1500
+762,Yellow-vented bulbul,0,0.0,"Pacific Swallow---Lower Kent Ridge Road, USC opposite 7-11",1500
+763,Javan myna,1,5.092958178940651,"Pacific Swallow---Lower Kent Ridge Road, USC opposite 7-11",1500
+764,Rock pigeon,0,0.0,"Pacific Swallow---Lower Kent Ridge Road, USC opposite 7-11",1500
+765,Black-naped oriole,0,0.0,"Pacific Swallow---In between ERC, YNC and Cinnamon",0805
+766,Olive-backed sunbird,0,0.0,"Pacific Swallow---In between ERC, YNC and Cinnamon",0805
+767,Yellow-vented bulbul,5,25.464790894703256,"Pacific Swallow---In between ERC, YNC and Cinnamon",0805
+768,Javan myna,2,10.185916357881302,"Pacific Swallow---In between ERC, YNC and Cinnamon",0805
+769,Rock pigeon,0,0.0,"Pacific Swallow---In between ERC, YNC and Cinnamon",0805
+770,Black-naped oriole,1,5.092958178940651,Pacific Swallow---Right outside of Cinnamon College,0818
+771,Olive-backed sunbird,0,0.0,Pacific Swallow---Right outside of Cinnamon College,0818
+772,Yellow-vented bulbul,4,20.371832715762604,Pacific Swallow---Right outside of Cinnamon College,0818
+773,Javan myna,2,10.185916357881302,Pacific Swallow---Right outside of Cinnamon College,0818
+774,Rock pigeon,0,0.0,Pacific Swallow---Right outside of Cinnamon College,0818
+775,Black-naped oriole,0,0.0,Pacific Swallow---Yale NUS College,0842
+776,Olive-backed sunbird,1,5.092958178940651,Pacific Swallow---Yale NUS College,0842
+777,Yellow-vented bulbul,2,10.185916357881302,Pacific Swallow---Yale NUS College,0842
+778,Javan myna,3,15.278874536821952,Pacific Swallow---Yale NUS College,0842
+779,Rock pigeon,0,0.0,Pacific Swallow---Yale NUS College,0842
+780,Black-naped oriole,0,0.0,"Pacific Swallow---Utown Green, Places with steps after pizza hut",0901
+781,Olive-backed sunbird,0,0.0,"Pacific Swallow---Utown Green, Places with steps after pizza hut",0901
+782,Yellow-vented bulbul,4,20.371832715762604,"Pacific Swallow---Utown Green, Places with steps after pizza hut",0901
+783,Javan myna,4,20.371832715762604,"Pacific Swallow---Utown Green, Places with steps after pizza hut",0901
+784,Rock pigeon,0,0.0,"Pacific Swallow---Utown Green, Places with steps after pizza hut",0901
+785,Black-naped oriole,0,0.0,"Pacific Swallow---CREATE Tower, before turning away from Utown Green",0913
+786,Olive-backed sunbird,0,0.0,"Pacific Swallow---CREATE Tower, before turning away from Utown Green",0913
+787,Yellow-vented bulbul,2,10.185916357881302,"Pacific Swallow---CREATE Tower, before turning away from Utown Green",0913
+788,Javan myna,5,25.464790894703256,"Pacific Swallow---CREATE Tower, before turning away from Utown Green",0913
+789,Rock pigeon,0,0.0,"Pacific Swallow---CREATE Tower, before turning away from Utown Green",0913
+790,Black-naped oriole,0,0.0,Pacific Swallow---Road along the back of Utown Residence and the few resturants,0917
+791,Olive-backed sunbird,0,0.0,Pacific Swallow---Road along the back of Utown Residence and the few resturants,0917
+792,Yellow-vented bulbul,2,10.185916357881302,Pacific Swallow---Road along the back of Utown Residence and the few resturants,0917
+793,Javan myna,5,25.464790894703256,Pacific Swallow---Road along the back of Utown Residence and the few resturants,0917
+794,Rock pigeon,2,10.185916357881302,Pacific Swallow---Road along the back of Utown Residence and the few resturants,0917
+795,Black-naped oriole,0,0.0,"Pacific Swallow---Up the steps of RC4, zebra crossing area",0938
+796,Olive-backed sunbird,0,0.0,"Pacific Swallow---Up the steps of RC4, zebra crossing area",0938
+797,Yellow-vented bulbul,2,10.185916357881302,"Pacific Swallow---Up the steps of RC4, zebra crossing area",0938
+798,Javan myna,5,25.464790894703256,"Pacific Swallow---Up the steps of RC4, zebra crossing area",0938
+799,Rock pigeon,0,0.0,"Pacific Swallow---Up the steps of RC4, zebra crossing area",0938
+800,Black-naped oriole,1,5.092958178940651,"Crimson Sunbird---Opposite Kent Ridge residences, zebra crossing area, east of the University Cultural Centre",0906
+801,Olive-backed sunbird,6,30.557749073643905,"Crimson Sunbird---Opposite Kent Ridge residences, zebra crossing area, east of the University Cultural Centre",0906
+802,Yellow-vented bulbul,1,5.092958178940651,"Crimson Sunbird---Opposite Kent Ridge residences, zebra crossing area, east of the University Cultural Centre",0906
+803,Javan myna,0,0.0,"Crimson Sunbird---Opposite Kent Ridge residences, zebra crossing area, east of the University Cultural Centre",0906
+804,Rock pigeon,0,0.0,"Crimson Sunbird---Opposite Kent Ridge residences, zebra crossing area, east of the University Cultural Centre",0906
+805,Black-naped oriole,1,5.092958178940651,Crimson Sunbird---Near rubbish bins and construction work/lab drilling at SDE and the back of Engine,0935
+806,Olive-backed sunbird,1,5.092958178940651,Crimson Sunbird---Near rubbish bins and construction work/lab drilling at SDE and the back of Engine,0935
+807,Yellow-vented bulbul,0,0.0,Crimson Sunbird---Near rubbish bins and construction work/lab drilling at SDE and the back of Engine,0935
+808,Javan myna,8,40.74366543152521,Crimson Sunbird---Near rubbish bins and construction work/lab drilling at SDE and the back of Engine,0935
+809,Rock pigeon,4,20.371832715762604,Crimson Sunbird---Near rubbish bins and construction work/lab drilling at SDE and the back of Engine,0935
+810,Black-naped oriole,0,0.0,"Crimson Sunbird---Outside of CAPT Building, Utown",0845
+811,Olive-backed sunbird,1,5.092958178940651,"Crimson Sunbird---Outside of CAPT Building, Utown",0845
+812,Yellow-vented bulbul,3,15.278874536821952,"Crimson Sunbird---Outside of CAPT Building, Utown",0845
+813,Javan myna,2,10.185916357881302,"Crimson Sunbird---Outside of CAPT Building, Utown",0845
+814,Rock pigeon,0,0.0,"Crimson Sunbird---Outside of CAPT Building, Utown",0845
+815,Black-naped oriole,0,0.0,Crimson Sunbird---Field in front of Yale-NUS facing Dover Road,0905
+816,Olive-backed sunbird,0,0.0,Crimson Sunbird---Field in front of Yale-NUS facing Dover Road,0905
+817,Yellow-vented bulbul,3,15.278874536821952,Crimson Sunbird---Field in front of Yale-NUS facing Dover Road,0905
+818,Javan myna,0,0.0,Crimson Sunbird---Field in front of Yale-NUS facing Dover Road,0905
+819,Rock pigeon,0,0.0,Crimson Sunbird---Field in front of Yale-NUS facing Dover Road,0905
+820,Black-naped oriole,0,0.0,Crimson Sunbird---Area between CREATE and UTR along College Ave East,0932
+821,Olive-backed sunbird,0,0.0,Crimson Sunbird---Area between CREATE and UTR along College Ave East,0932
+822,Yellow-vented bulbul,3,15.278874536821952,Crimson Sunbird---Area between CREATE and UTR along College Ave East,0932
+823,Javan myna,5,25.464790894703256,Crimson Sunbird---Area between CREATE and UTR along College Ave East,0932
+824,Rock pigeon,0,0.0,Crimson Sunbird---Area between CREATE and UTR along College Ave East,0932
+825,Black-naped oriole,0,0.0,Crimson Sunbird---College Link Roundabout outside CREATE,0945
+826,Olive-backed sunbird,1,5.092958178940651,Crimson Sunbird---College Link Roundabout outside CREATE,0945
+827,Yellow-vented bulbul,1,5.092958178940651,Crimson Sunbird---College Link Roundabout outside CREATE,0945
+828,Javan myna,2,10.185916357881302,Crimson Sunbird---College Link Roundabout outside CREATE,0945
+829,Rock pigeon,0,0.0,Crimson Sunbird---College Link Roundabout outside CREATE,0945
+830,Black-naped oriole,0,0.0,"Crimson Sunbird---Utown Town Green, between SRC and CREATE",1000
+831,Olive-backed sunbird,0,0.0,"Crimson Sunbird---Utown Town Green, between SRC and CREATE",1000
+832,Yellow-vented bulbul,0,0.0,"Crimson Sunbird---Utown Town Green, between SRC and CREATE",1000
+833,Javan myna,2,10.185916357881302,"Crimson Sunbird---Utown Town Green, between SRC and CREATE",1000
+834,Rock pigeon,0,0.0,"Crimson Sunbird---Utown Town Green, between SRC and CREATE",1000
+835,Black-naped oriole,0,0.0,"Crimson Sunbird---Green area between ERC and Tembusu, UTown",1013
+836,Olive-backed sunbird,0,0.0,"Crimson Sunbird---Green area between ERC and Tembusu, UTown",1013
+837,Yellow-vented bulbul,2,10.185916357881302,"Crimson Sunbird---Green area between ERC and Tembusu, UTown",1013
+838,Javan myna,2,10.185916357881302,"Crimson Sunbird---Green area between ERC and Tembusu, UTown",1013
+839,Rock pigeon,0,0.0,"Crimson Sunbird---Green area between ERC and Tembusu, UTown",1013
+840,Black-naped oriole,0,0.0,Crimson Sunbird---Engineering Drive 3 outside E4A Building,1110
+841,Olive-backed sunbird,0,0.0,Crimson Sunbird---Engineering Drive 3 outside E4A Building,1110
+842,Yellow-vented bulbul,0,0.0,Crimson Sunbird---Engineering Drive 3 outside E4A Building,1110
+843,Javan myna,0,0.0,Crimson Sunbird---Engineering Drive 3 outside E4A Building,1110
+844,Rock pigeon,3,15.278874536821952,Crimson Sunbird---Engineering Drive 3 outside E4A Building,1110
+845,Black-naped oriole,0,0.0,"Crimson Sunbird---Near the roadside of Tea Party, south of University Sports Centre",0919
+846,Olive-backed sunbird,0,0.0,"Crimson Sunbird---Near the roadside of Tea Party, south of University Sports Centre",0919
+847,Yellow-vented bulbul,4,20.371832715762604,"Crimson Sunbird---Near the roadside of Tea Party, south of University Sports Centre",0919
+848,Javan myna,6,30.557749073643905,"Crimson Sunbird---Near the roadside of Tea Party, south of University Sports Centre",0919
+849,Rock pigeon,1,5.092958178940651,"Crimson Sunbird---Near the roadside of Tea Party, south of University Sports Centre",0919
+850,Black-naped oriole,0,0.0,"Crimson Sunbird---Outside RVRC, near the opp UHC bustop and stage",0936
+851,Olive-backed sunbird,10,50.92958178940651,"Crimson Sunbird---Outside RVRC, near the opp UHC bustop and stage",0936
+852,Yellow-vented bulbul,3,15.278874536821952,"Crimson Sunbird---Outside RVRC, near the opp UHC bustop and stage",0936
+853,Javan myna,4,20.371832715762604,"Crimson Sunbird---Outside RVRC, near the opp UHC bustop and stage",0936
+854,Rock pigeon,0,0.0,"Crimson Sunbird---Outside RVRC, near the opp UHC bustop and stage",0936
+855,Black-naped oriole,0,0.0,Crimson Sunbird---Near softball field,1007
+856,Olive-backed sunbird,2,10.185916357881302,Crimson Sunbird---Near softball field,1007
+857,Yellow-vented bulbul,3,15.278874536821952,Crimson Sunbird---Near softball field,1007
+858,Javan myna,0,0.0,Crimson Sunbird---Near softball field,1007
+859,Rock pigeon,0,0.0,Crimson Sunbird---Near softball field,1007
+860,Black-naped oriole,0,0.0,"Crimson Sunbird---Near football field, near roadside (AYE) and construction, opp University Hall",1021
+861,Olive-backed sunbird,0,0.0,"Crimson Sunbird---Near football field, near roadside (AYE) and construction, opp University Hall",1021
+862,Yellow-vented bulbul,0,0.0,"Crimson Sunbird---Near football field, near roadside (AYE) and construction, opp University Hall",1021
+863,Javan myna,1,5.092958178940651,"Crimson Sunbird---Near football field, near roadside (AYE) and construction, opp University Hall",1021
+864,Rock pigeon,0,0.0,"Crimson Sunbird---Near football field, near roadside (AYE) and construction, opp University Hall",1021
+865,Black-naped oriole,0,0.0,Crimson Sunbird---Between S12 and S13,1048
+866,Olive-backed sunbird,0,0.0,Crimson Sunbird---Between S12 and S13,1048
+867,Yellow-vented bulbul,0,0.0,Crimson Sunbird---Between S12 and S13,1048
+868,Javan myna,1,5.092958178940651,Crimson Sunbird---Between S12 and S13,1048
+869,Rock pigeon,2,10.185916357881302,Crimson Sunbird---Between S12 and S13,1048
+870,Black-naped oriole,0,0.0,Crimson Sunbird---Behind opposite Kent Ridge MRT bus stop,1121
+871,Olive-backed sunbird,0,0.0,Crimson Sunbird---Behind opposite Kent Ridge MRT bus stop,1121
+872,Yellow-vented bulbul,3,15.278874536821952,Crimson Sunbird---Behind opposite Kent Ridge MRT bus stop,1121
+873,Javan myna,0,0.0,Crimson Sunbird---Behind opposite Kent Ridge MRT bus stop,1121
+874,Rock pigeon,1,5.092958178940651,Crimson Sunbird---Behind opposite Kent Ridge MRT bus stop,1121
+875,Black-naped oriole,1,5.092958178940651,Crimson Sunbird---Opposite Shaw Foundation Building,1500
+876,Olive-backed sunbird,1,5.092958178940651,Crimson Sunbird---Opposite Shaw Foundation Building,1500
+877,Yellow-vented bulbul,1,5.092958178940651,Crimson Sunbird---Opposite Shaw Foundation Building,1500
+878,Javan myna,0,0.0,Crimson Sunbird---Opposite Shaw Foundation Building,1500
+879,Rock pigeon,0,0.0,Crimson Sunbird---Opposite Shaw Foundation Building,1500
+880,Black-naped oriole,0,0.0,"Crimson Sunbird---Along Business Link, near Heng Mui Keng Terrace turning",1520
+881,Olive-backed sunbird,0,0.0,"Crimson Sunbird---Along Business Link, near Heng Mui Keng Terrace turning",1520
+882,Yellow-vented bulbul,0,0.0,"Crimson Sunbird---Along Business Link, near Heng Mui Keng Terrace turning",1520
+883,Javan myna,1,5.092958178940651,"Crimson Sunbird---Along Business Link, near Heng Mui Keng Terrace turning",1520
+884,Rock pigeon,0,0.0,"Crimson Sunbird---Along Business Link, near Heng Mui Keng Terrace turning",1520
+885,Black-naped oriole,0,0.0,Crimson Sunbird---Prince George's Park,1545
+886,Olive-backed sunbird,0,0.0,Crimson Sunbird---Prince George's Park,1545
+887,Yellow-vented bulbul,0,0.0,Crimson Sunbird---Prince George's Park,1545
+888,Javan myna,1,5.092958178940651,Crimson Sunbird---Prince George's Park,1545
+889,Rock pigeon,0,0.0,Crimson Sunbird---Prince George's Park,1545
+890,Black-naped oriole,0,0.0,Spotted Wood Owl---Behind South Tower,0934
+891,Olive-backed sunbird,0,0.0,Spotted Wood Owl---Behind South Tower,0934
+892,Yellow-vented bulbul,8,40.74366543152521,Spotted Wood Owl---Behind South Tower,0934
+893,Javan myna,0,0.0,Spotted Wood Owl---Behind South Tower,0934
+894,Rock pigeon,0,0.0,Spotted Wood Owl---Behind South Tower,0934
