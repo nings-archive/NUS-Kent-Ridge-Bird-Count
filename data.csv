@@ -1,13 +1,13 @@
 ,Bird Species,Coordinates,Date,Distance Bin,Group Name,Habitat Type,Location,Remarks,Time,Time Period
-0,Blacked-naped oriole,Latitude: 1.29587 | Longitude: 103.770656,27th Feb (Tuesday),2,Asian Koel,Urban,8 Kent Ridge Drive (Just outside Ventus),,0935,0932
-1,Blacked-naped oriole,Latitude: 1.29587 | Longitude: 103.770656,27th Feb (Tuesday),3,Asian Koel,Urban,8 Kent Ridge Drive (Just outside Ventus),,0940,0932
+0,Black-naped oriole,Latitude: 1.29587 | Longitude: 103.770656,27th Feb (Tuesday),2,Asian Koel,Urban,8 Kent Ridge Drive (Just outside Ventus),,0935,0932
+1,Black-naped oriole,Latitude: 1.29587 | Longitude: 103.770656,27th Feb (Tuesday),3,Asian Koel,Urban,8 Kent Ridge Drive (Just outside Ventus),,0940,0932
 3,Olive-backed sunbird,Latitude: 1.29587 | Longitude: 103.770656,27th Feb (Tuesday),2,Asian Koel,Urban,8 Kent Ridge Drive (Just outside Ventus),,0936,0932
 4,Olive-backed sunbird,Latitude: 1.295547 | Longitude: 103.77208,27th Feb (Tuesday),2,Asian Koel,Urban,11 Arts Link (Outside AS5 facing CELC),,1007,1005
 7,Yellow-vented bulbul,Latitude: 1.292586 | Longitude: 103.773483,27th Feb (Tuesday),1,Asian Koel,Urban,"15 Kent Ridge Drive (Opp Hon Sui Sen Drive, facing Motchar Riady Building)",,1036,1035
 8,Yellow-vented bulbul,Latitude: 1.292586 | Longitude: 103.773483,27th Feb (Tuesday),1,Asian Koel,Urban,"15 Kent Ridge Drive (Opp Hon Sui Sen Drive, facing Motchar Riady Building)",,1036,1035
 9,Yellow-vented bulbul,Latitude: 1.292586 | Longitude: 103.773483,27th Feb (Tuesday),2,Asian Koel,Urban,"15 Kent Ridge Drive (Opp Hon Sui Sen Drive, facing Motchar Riady Building)",,1042,1035
 10,Olive-backed sunbird,Latitude: 1.292586 | Longitude: 103.773483,27th Feb (Tuesday),1,Asian Koel,Urban,"15 Kent Ridge Drive (Opp Hon Sui Sen Drive, facing Motchar Riady Building)",,1038,1035
-11,Blacked-naped oriole,Latitude: 1.292586 | Longitude: 103.773483,27th Feb (Tuesday),2,Asian Koel,Urban,"15 Kent Ridge Drive (Opp Hon Sui Sen Drive, facing Motchar Riady Building)",,1044,1035
+11,Black-naped oriole,Latitude: 1.292586 | Longitude: 103.773483,27th Feb (Tuesday),2,Asian Koel,Urban,"15 Kent Ridge Drive (Opp Hon Sui Sen Drive, facing Motchar Riady Building)",,1044,1035
 16,Javan myna,Latitude: 1.294425 | Longitude: 103.774844,27th Feb (Tuesday),3,Asian Koel,Urban,3 Research Link (End of D1 Bus terminal),,1055,1055
 17,Javan myna,Latitude: 1.294425 | Longitude: 103.774844,27th Feb (Tuesday),3,Asian Koel,Urban,3 Research Link (End of D1 Bus terminal),,1055,1055
 18,Javan myna,Latitude: 1.294425 | Longitude: 103.774844,27th Feb (Tuesday),2,Asian Koel,Urban,3 Research Link (End of D1 Bus terminal),,1100,1055
@@ -128,8 +128,8 @@
 184,Javan myna,"1°18'17""N 103°46'24""E""",27th Feb,2,Spotted Dove,Urban,YNC (Field),Very hot and shaded area was very far away from observer point (distance bin around 2.5). There might have been more birds hiding in the bushes across the YNC field. Also potential recounting of yellow bulbuls because they were within a 5m radius.,1102,1100
 185,Yellow-vented bulbul,"1°18'17""N 103°46'24""E""",27th Feb,1,Spotted Dove,Urban,YNC (Field),Very hot and shaded area was very far away from observer point (distance bin around 2.5). There might have been more birds hiding in the bushes across the YNC field. Also potential recounting of yellow bulbuls because they were within a 5m radius.,1109,1100
 186,Yellow-vented bulbul,"1°18'17""N 103°46'24""E""",27th Feb,1,Spotted Dove,Urban,YNC (Field),Very hot and shaded area was very far away from observer point (distance bin around 2.5). There might have been more birds hiding in the bushes across the YNC field. Also potential recounting of yellow bulbuls because they were within a 5m radius.,1109,1100
-189,Blacked-naped oriole,"1°29'57""N,103°77'06""E",27th Feb,3,Spotted Dove,Urban,Beside Venus,Location has a lot of butterflies,1117,1110
-190,Blacked-naped oriole,"1°29'57""N,103°77'06""E",27th Feb,3,Spotted Dove,Urban,Beside Venus,Location has a lot of butterflies,1117,1110
+189,Black-naped oriole,"1°29'57""N,103°77'06""E",27th Feb,3,Spotted Dove,Urban,Beside Venus,Location has a lot of butterflies,1117,1110
+190,Black-naped oriole,"1°29'57""N,103°77'06""E",27th Feb,3,Spotted Dove,Urban,Beside Venus,Location has a lot of butterflies,1117,1110
 192,Javan myna,"1°29'49""N,103°77'31""E",27th Feb,1,Spotted Dove,Urban,Computing Dr behind The Deck,Edge of the forest ,1150,1150
 193,Javan myna,"1°29'49""N,103°77'31""E",27th Feb,2,Spotted Dove,Urban,Computing Dr behind The Deck,Edge of the forest ,1150,1150
 194,Javan myna,"1°29'49""N,103°77'31""E",27th Feb,2,Spotted Dove,Urban,Computing Dr behind The Deck,Edge of the forest ,1150,1150
@@ -151,8 +151,8 @@
 218,Javan myna,"1°17'49""N 103°46'57""E",27th Feb,2,Collared Kingfisher,Urban,"Footpath along AYE, next to Carpark 10",,1036,1036
 226,Javan myna,"1°17'51""N 103°46'52""E",27th Feb,1,Collared Kingfisher,Urban,"Along AYE, next to Carpark 10",,1053,1053
 227,Javan myna,"1°17'51""N 103°46'52""E",27th Feb,1,Collared Kingfisher,Urban,"Along AYE, next to Carpark 10",,1053,1053
-228,Blacked-naped oriole,"1°17'51""N 103°46'52""E",27th Feb,2,Collared Kingfisher,Urban,"Along AYE, next to Carpark 10",,1054,1053
-229,Blacked-naped oriole,"1°17'51""N 103°46'52""E",27th Feb,2,Collared Kingfisher,Urban,"Along AYE, next to Carpark 10",,1058,1053
+228,Black-naped oriole,"1°17'51""N 103°46'52""E",27th Feb,2,Collared Kingfisher,Urban,"Along AYE, next to Carpark 10",,1054,1053
+229,Black-naped oriole,"1°17'51""N 103°46'52""E",27th Feb,2,Collared Kingfisher,Urban,"Along AYE, next to Carpark 10",,1058,1053
 230,Javan myna,"1°18'18""N 103°46'24""E",27th Feb,1,Collared Kingfisher,Urban,Town Green,,1118,1118
 231,Javan myna,"1°18'18""N 103°46'24""E",27th Feb,1,Collared Kingfisher,Urban,Town Green,,1118,1118
 235,Yellow-vented bulbul,"1°18'19""N 103°46'19""E",28th Feb,1,Collared Kingfisher,Urban,Between Yale-NUS Saga College and SRC,,0803,0802
@@ -198,9 +198,9 @@
 306,Olive-backed sunbird,"1°17'30.0""N 103°46'57.0""E",27th Feb,3,Banded Woodpecker ,Urban,"Prince George's Park, next to main road",,1025,1019
 307,Olive-backed sunbird,"1°17'30.0""N 103°46'57.0""E",27th Feb,3,Banded Woodpecker ,Urban,"Prince George's Park, next to main road",,1025,1019
 308,Rock pigeon,"1°17'30.0""N 103°46'57.0""E",27th Feb,3,Banded Woodpecker ,Urban,"Prince George's Park, next to main road",,1027,1019
-309,Blacked-naped oriole,"1°17'30.0""N 103°46'57.0""E",27th Feb,3,Banded Woodpecker ,Urban,"Prince George's Park, next to main road",,1027,1019
+309,Black-naped oriole,"1°17'30.0""N 103°46'57.0""E",27th Feb,3,Banded Woodpecker ,Urban,"Prince George's Park, next to main road",,1027,1019
 311,Olive-backed sunbird,"1°17'27.8""N 103°46'55.4""E",27th Feb,1,Banded Woodpecker ,Urban,"Prince George's Park, B1, next to carpark",,1044,1044
-316,Blacked-naped oriole,"1°17'27.8""N 103°46'55.4""E",27th Feb,4,Banded Woodpecker ,Urban,"Prince George's Park, B1, next to carpark",,1047,1044
+316,Black-naped oriole,"1°17'27.8""N 103°46'55.4""E",27th Feb,4,Banded Woodpecker ,Urban,"Prince George's Park, B1, next to carpark",,1047,1044
 318,Javan myna,"1°17'27.8""N 103°46'55.4""E",27th Feb,4,Banded Woodpecker ,Urban,"Prince George's Park, B1, next to carpark",,1051,1044
 319,Rock pigeon,"1°17'27.8""N 103°46'55.4""E",27th Feb,4,Banded Woodpecker ,Urban,"Prince George's Park, B1, next to carpark",,1053,1044
 320,Javan myna,"1°17'56.6""N 103°46'19.6""E",27th Feb,2,Banded Woodpecker ,Urban,"Engineering Drive 3, behind LT6",,1142,1138
@@ -208,7 +208,7 @@
 324,Javan myna,"1°17'59.7""N 103°46'26.9""E",27th Feb,1,Banded Woodpecker ,Urban,Carpark outside Raffles Comm hall,,1202,1138
 325,Olive-backed sunbird,"1°17'59.7""N 103°46'26.9""E",27th Feb,1,Banded Woodpecker ,Urban,Carpark outside Raffles Comm hall,,1204,1200
 326,Olive-backed sunbird,"1°17'59.7""N 103°46'26.9""E",27th Feb,1,Banded Woodpecker ,Urban,Carpark outside Raffles Comm hall,,1204,1200
-327,Blacked-naped oriole,"1°17'59.7""N 103°46'26.9""E",27th Feb,2,Banded Woodpecker ,Urban,Carpark outside Raffles Comm hall,,1209,1200
+327,Black-naped oriole,"1°17'59.7""N 103°46'26.9""E",27th Feb,2,Banded Woodpecker ,Urban,Carpark outside Raffles Comm hall,,1209,1200
 332,Olive-backed sunbird,"1°18'02.4""N 103°46'17.4""E",27th Feb,2,Banded Woodpecker ,Urban,Carpark outside Engineering Auditorium,,1225,1217
 333,Olive-backed sunbird,"1°18'02.4""N 103°46'17.4""E",27th Feb,2,Banded Woodpecker ,Urban,Carpark outside Engineering Auditorium,,1225,1217
 334,Olive-backed sunbird,"1°18'02.4""N 103°46'17.4""E",27th Feb,2,Banded Woodpecker ,Urban,Carpark outside Engineering Auditorium,,1225,1217
@@ -239,14 +239,14 @@
 367,Javan myna,"1°17'38""N 103°46'30""E",28th Feb,2,Collared Kingfisher,Urban,NUS Carpark 11 behind BIZ2,,1104,1102
 368,Javan myna,"1°17'38""N 103°46'30""E",28th Feb,1,Collared Kingfisher,Urban,NUS Carpark 11 behind BIZ2,,1107,1102
 369,Yellow-vented bulbul,"1°17'38""N 103°46'30""E",28th Feb,1,Collared Kingfisher,Urban,NUS Carpark 11 behind BIZ2,,1104,1102
-370,Blacked-naped oriole,"1°17'44""N 103°46'30""E",28th Feb,1,Collared Kingfisher,Urban,NUS Carpark 11 next to Singapore Synchroton Light Source,,1116,1114
+370,Black-naped oriole,"1°17'44""N 103°46'30""E",28th Feb,1,Collared Kingfisher,Urban,NUS Carpark 11 next to Singapore Synchroton Light Source,,1116,1114
 371,Yellow-vented bulbul,"1°17'44""N 103°46'30""E",28th Feb,1,Collared Kingfisher,Urban,NUS Carpark 11 next to Singapore Synchroton Light Source,,1121,1114
 372,Javan myna,"1°17'44""N 103°46'30""E",28th Feb,2,Collared Kingfisher,Urban,NUS Carpark 11 next to Singapore Synchroton Light Source,,1124,1114
 373,Javan myna,"1°17'44""N 103°46'30""E",28th Feb,2,Collared Kingfisher,Urban,NUS Carpark 11 next to Singapore Synchroton Light Source,,1124,1114
 377,Rock pigeon,"1°17'30""N 103°46'51""E",28th Feb,2,Collared Kingfisher,Urban,Stairs to King Edward VII Hall,,1147,1139
 378,Rock pigeon,"1°17'30""N 103°46'51""E",28th Feb,2,Collared Kingfisher,Urban,Stairs to King Edward VII Hall,,1147,1139
 379,Javan myna,"1°17'30""N 103°46'51""E",28th Feb,1,Collared Kingfisher,Urban,Stairs to King Edward VII Hall,,1140,1139
-380,Blacked-naped oriole,"1°17'25""N 103°46'52""E",28th Feb,2,Collared Kingfisher,Urban,"Prince Georges' Park, overlooking basketball court",,1155,1154
+380,Black-naped oriole,"1°17'25""N 103°46'52""E",28th Feb,2,Collared Kingfisher,Urban,"Prince Georges' Park, overlooking basketball court",,1155,1154
 381,Olive-backed sunbird,"1°17'25""N 103°46'52""E",28th Feb,2,Collared Kingfisher,Urban,"Prince Georges' Park, overlooking basketball court",,1155,1154
 382,Olive-backed sunbird,"1°17'25""N 103°46'52""E",28th Feb,1,Collared Kingfisher,Urban,"Prince Georges' Park, overlooking basketball court",,1158,1154
 383,Olive-backed sunbird,"1°17'25""N 103°46'52""E",28th Feb,2,Collared Kingfisher,Urban,"Prince Georges' Park, overlooking basketball court",,1204,1154
@@ -294,7 +294,7 @@
 457,Javan myna,"1.291773, 103.781429",28 Feb,1,Asian Koel,urban with some vegetation,"King Edward VII Hall, Back of Block A, Near a Hill",,0914,0910
 460,Javan myna,"1.291773, 103.781429",28 Feb,2,Asian Koel,urban with some vegetation,"King Edward VII Hall, Back of Block A, Near a Hill",,0915,0910
 461,Javan myna,"1.291773, 103.781429",28 Feb,2,Asian Koel,urban with some vegetation,"King Edward VII Hall, Back of Block A, Near a Hill",,0915,0910
-462,Blacked-naped oriole,"1.291773, 103.781429",28 Feb,1,Asian Koel,urban with some vegetation,"King Edward VII Hall, Back of Block A, Near a Hill",,0915,0910
+462,Black-naped oriole,"1.291773, 103.781429",28 Feb,1,Asian Koel,urban with some vegetation,"King Edward VII Hall, Back of Block A, Near a Hill",,0915,0910
 463,Yellow-vented bulbul,"1.291773, 103.781429",28 Feb,1,Asian Koel,urban with some vegetation,"King Edward VII Hall, Back of Block A, Near a Hill",,0915,0910
 464,Javan myna,"1.291773, 103.781429",28 Feb,3,Asian Koel,urban with some vegetation,"King Edward VII Hall, Back of Block A, Near a Hill",,0917,0910
 465,Javan myna,"1.291773, 103.781429",28 Feb,3,Asian Koel,urban with some vegetation,"King Edward VII Hall, Back of Block A, Near a Hill",,0917,0910
@@ -312,7 +312,7 @@
 478,Javan myna,"1.298967,103.778660",28 Feb,1,Asian Koel,field,Science Field,,1044,1042
 479,Javan myna,"1.298967,103.778660",28 Feb,1,Asian Koel,field,Science Field,,1044,1042
 480,Javan myna,"1.298967,103.778660",28 Feb,1,Asian Koel,field,Science Field,,1044,1042
-482,Blacked-naped oriole,"1°18'00.5""N 103°46'29.9""E",28th Feb (Wed),2,Ashy Minivet,Tree (15m high in tree),University Sports Centre Carpark,moving among branches of same tree,0858,0853
+482,Black-naped oriole,"1°18'00.5""N 103°46'29.9""E",28th Feb (Wed),2,Ashy Minivet,Tree (15m high in tree),University Sports Centre Carpark,moving among branches of same tree,0858,0853
 485,Olive-backed sunbird,"1°17'55.7""N 103°46'32.2""E",28th Feb (Wed),1,Ashy Minivet,Tree (10m high in tree),Busstop (Opp University Health Centre; ID: 18321),moving among branches of same tree; location has high vehicular traffic,0908,0906
 486,Javan myna,"1°17'55.7""N 103°46'32.2""E",28th Feb (Wed),1,Ashy Minivet,Urban (Pavement),Busstop (Opp University Health Centre; ID: 18321),location has high vehicular traffic,0910,0906
 487,Javan myna,"1°17'55.7""N 103°46'32.2""E",28th Feb (Wed),1,Ashy Minivet,Urban (Pavement),Busstop (Opp University Health Centre; ID: 18321),location has high vehicular traffic,0910,0906
@@ -331,7 +331,7 @@
 502,Javan myna,"1°17'51.1""N 103°46'41.3""E",28th Feb (Wed),3,Ashy Minivet,Urban (Under shade of building),Busstop (Opp University Hall; ID: 18319),location has high vehicular traffic,0943,0938
 503,Javan myna,"1°17'51.1""N 103°46'41.3""E",28th Feb (Wed),3,Ashy Minivet,Urban (Rooftop),Busstop (Opp University Hall; ID: 18319),location has high vehicular traffic,0944,0938
 504,Javan myna,"1°17'51.1""N 103°46'41.3""E",28th Feb (Wed),3,Ashy Minivet,Urban (Rooftop),Busstop (Opp University Hall; ID: 18319),location has high vehicular traffic,0946,0938
-505,Blacked-naped oriole,"1°17'46.5""N 103°46'42.0""E",28th Feb (Wed),3,Ashy Minivet,Tree (20m high in tree),Beside bend along Science Drive 4,moving from tree to tree,0952,0951
+505,Black-naped oriole,"1°17'46.5""N 103°46'42.0""E",28th Feb (Wed),3,Ashy Minivet,Tree (20m high in tree),Beside bend along Science Drive 4,moving from tree to tree,0952,0951
 506,Olive-backed sunbird,"1°17'46.5""N 103°46'42.0""E",28th Feb (Wed),2,Ashy Minivet,Tree (10m high in tree),Beside bend along Science Drive 4,moving among branches of same tree,0955,0951
 507,Olive-backed sunbird,"1°17'46.5""N 103°46'42.0""E",28th Feb (Wed),2,Ashy Minivet,Tree (5m high in tree),Beside bend along Science Drive 4,moving among branches of same tree,0958,0951
 508,Olive-backed sunbird,"1°17'50.1""N 103°46'45.9""E",28th Feb (Wed),1,Ashy Minivet,Tree (10m high in tree),Stone benches beside field,moving among branches of same tree; location has high vehicular traffic,1009,1005
@@ -339,13 +339,13 @@
 510,Olive-backed sunbird,"1°17'37.7""N 103°47'06.5""E",28th Feb (Wed),1,Ashy Minivet,Tree (10m high in tree),Grass Patch opposite Kent Ridge MRT Station,moving among branches of same tree; location has high vehicular traffic,1031,1029
 511,Olive-backed sunbird,"1°17'37.7""N 103°47'06.5""E",28th Feb (Wed),1,Ashy Minivet,Tree (10m high in tree),Grass Patch opposite Kent Ridge MRT Station,moving among branches of same tree; location has high vehicular traffic,1031,1029
 512,Javan myna,"1°17'37.7""N 103°47'06.5""E",28th Feb (Wed),1,Ashy Minivet,Urban (In Drain),Grass Patch opposite Kent Ridge MRT Station,location has high vehicular traffic,1031,1029
-513,Blacked-naped oriole,"1°17'35.1""N 103°46'57.3""E",28th Feb (Wed),4,Ashy Minivet,Tree (20m high in tree),Drop-off point along Medical Drive,flew off about 1min after spotted; construction works,1059,1059
+513,Black-naped oriole,"1°17'35.1""N 103°46'57.3""E",28th Feb (Wed),4,Ashy Minivet,Tree (20m high in tree),Drop-off point along Medical Drive,flew off about 1min after spotted; construction works,1059,1059
 514,Javan myna,"1°17'35.1""N 103°46'57.3""E",28th Feb (Wed),1,Ashy Minivet,Tree (10m high in tree),Drop-off point along Medical Drive,construction works,1059,1059
 515,Olive-backed sunbird,"1°17'35.1""N 103°46'57.3""E",28th Feb (Wed),3,Ashy Minivet,Tree (20m high in tree),Drop-off point along Medical Drive,moving from tree to tree; construction works,1100,1059
 516,Javan myna,"1°17'35.1""N 103°46'57.3""E",28th Feb (Wed),3,Ashy Minivet,Urban (Indoor carpark),Drop-off point along Medical Drive,construction works,1101,1059
 517,Javan myna,"1°17'35.1""N 103°46'57.3""E",28th Feb (Wed),3,Ashy Minivet,Urban (Indoor carpark),Drop-off point along Medical Drive,construction works,1101,1059
 518,Javan myna,"1°17'35.1""N 103°46'57.3""E",28th Feb (Wed),3,Ashy Minivet,Urban (Indoor carpark),Drop-off point along Medical Drive,construction works,1101,1059
-520,Blacked-naped oriole,"1°17'29.5""N 103°46'45.0""E",28th Feb (Wed),2,Ashy Minivet,Tree (30m high in tree),Prince George's Park Residences,,1129,1128
+520,Black-naped oriole,"1°17'29.5""N 103°46'45.0""E",28th Feb (Wed),2,Ashy Minivet,Tree (30m high in tree),Prince George's Park Residences,,1129,1128
 521,Yellow-vented bulbul,"1°17'29.5""N 103°46'45.0""E",28th Feb (Wed),2,Ashy Minivet,Tree (5m high in tree),Prince George's Park Residences,flew off about 3min after spotted,1136,1128
 522,Yellow-vented bulbul,"1°17'29.5""N 103°46'45.0""E",28th Feb (Wed),2,Ashy Minivet,Tree (5m high in tree),Prince George's Park Residences,flew off about 3min after spotted,1136,1128
 523,Javan myna,"1°17'29.5""N 103°46'45.0""E",28th Feb (Wed),1,Ashy Minivet,Urban (Pavement),Prince George's Park Residences,,1138,1128
@@ -373,7 +373,7 @@
 584,Yellow-vented bulbul,"1.294779,103.775093",28th Feb (Wed),2,Banded Woodpecker ,Forest,"Area behind SoC, between two buildings, next to a forest",,0909,0906
 587,Javan myna,"1.294779,103.775093",28th Feb (Wed),2,Banded Woodpecker ,Tree,"Area behind SoC, between two buildings, next to a forest",,0914,0906
 589,Javan myna,"1.294779,103.775093",28th Feb (Wed),3,Banded Woodpecker ,Tree,"Area behind SoC, between two buildings, next to a forest",,0916,0906
-590,Blacked-naped oriole,"1.294779,103.775093",28th Feb (Wed),2,Banded Woodpecker ,Tree,"Area behind SoC, between two buildings, next to a forest",,0917,0906
+590,Black-naped oriole,"1.294779,103.775093",28th Feb (Wed),2,Banded Woodpecker ,Tree,"Area behind SoC, between two buildings, next to a forest",,0917,0906
 591,Olive-backed sunbird,"1.294779,103.775093",28th Feb (Wed),2,Banded Woodpecker ,Forest,"Area behind SoC, between two buildings, next to a forest",,0917,0906
 592,Olive-backed sunbird,"1.294779,103.775093",28th Feb (Wed),2,Banded Woodpecker ,Forest,"Area behind SoC, between two buildings, next to a forest",,0917,0906
 603,Olive-backed sunbird,"1.297178,103.773651",28th Feb (Wed),1,Banded Woodpecker ,Tree,"CLB Annexe, outside Centre for Instructional Technology",,0932,0931
@@ -447,17 +447,17 @@
 714,Javan myna,"1.30116, 103.77497",28 Feb (Wed),2,Spotted Wood Owl,Urban,In front of Singapore Wind Tunnel Facility (restricted area),Found on grass,1030,1028
 716,Yellow-vented bulbul,"1.30116, 103.77497",28 Feb (Wed),2,Spotted Wood Owl,Urban,In front of Singapore Wind Tunnel Facility (restricted area),Found on tree,1033,1028
 717,Javan myna,"1.30116, 103.77497",28 Feb (Wed),2,Spotted Wood Owl,Urban,In front of Singapore Wind Tunnel Facility (restricted area),Found on grass,1036,1028
-718,Blacked-naped oriole,"1.30116, 103.77497",28 Feb (Wed),2,Spotted Wood Owl,Urban,In front of Singapore Wind Tunnel Facility (restricted area),Found on tree,1038,1028
+718,Black-naped oriole,"1.30116, 103.77497",28 Feb (Wed),2,Spotted Wood Owl,Urban,In front of Singapore Wind Tunnel Facility (restricted area),Found on tree,1038,1028
 719,Javan myna,"1.30034, 103.77172",28 Feb (Wed),2,Spotted Wood Owl,Urban,Engineering block,Found perched on building,1105,1104
 720,Olive-backed sunbird,"1.30034, 103.77172",28 Feb (Wed),2,Spotted Wood Owl,Urban,Engineering block,Found on tree,1106,1104
 721,Olive-backed sunbird,"1.30034, 103.77172",28 Feb (Wed),2,Spotted Wood Owl,Urban,Engineering block,Found on tree,1106,1104
-729,Blacked-naped oriole,"1.3019, 103.77453",28 Feb (Wed),2,Spotted Wood Owl,Urban,College Link (behind College Link Road),"Found on tree, 180 degree view",1126,1126
+729,Black-naped oriole,"1.3019, 103.77453",28 Feb (Wed),2,Spotted Wood Owl,Urban,College Link (behind College Link Road),"Found on tree, 180 degree view",1126,1126
 735,Yellow-vented bulbul,"1.3019, 103.77453",28 Feb (Wed),2,Spotted Wood Owl,Urban,College Link (behind College Link Road),"Found on tree, 180 degree view",1130,1126
 736,Rock pigeon,"1.3019, 103.77453",28 Feb (Wed),3,Spotted Wood Owl,Urban,College Link (behind College Link Road),"Found perched on building, 180 degree view",1133,1126
 737,Rock pigeon,"1.3019, 103.77453",28 Feb (Wed),3,Spotted Wood Owl,Urban,College Link (behind College Link Road),"Found perched on building, 180 degree view",1133,1126
 738,Rock pigeon,"1.3019, 103.77453",28 Feb (Wed),3,Spotted Wood Owl,Urban,College Link (behind College Link Road),"Found perched on building, 180 degree view",1133,1126
-742,Blacked-naped oriole,"1.3019, 103.77453",28 Feb (Wed),2,Spotted Wood Owl,Urban,College Link (behind College Link Road),"Found on tree, 180 degree view",1136,1126
-743,Blacked-naped oriole,"1.3019, 103.77453",28 Feb (Wed),2,Spotted Wood Owl,Urban,College Link (behind College Link Road),"Found on tree, 180 degree view",1136,1126
+742,Black-naped oriole,"1.3019, 103.77453",28 Feb (Wed),2,Spotted Wood Owl,Urban,College Link (behind College Link Road),"Found on tree, 180 degree view",1136,1126
+743,Black-naped oriole,"1.3019, 103.77453",28 Feb (Wed),2,Spotted Wood Owl,Urban,College Link (behind College Link Road),"Found on tree, 180 degree view",1136,1126
 749,Olive-backed sunbird,"1.30143, 103.77119",28 Feb (Wed),1,Spotted Wood Owl,Urban,Besides University Cultural Centre (UCC),Found in tree,1056,1050
 750,Olive-backed sunbird,"1.30143, 103.77119",28 Feb (Wed),1,Spotted Wood Owl,Urban,Besides University Cultural Centre (UCC),Found in tree,1056,1050
 751,Olive-backed sunbird,"1.30143, 103.77119",28 Feb (Wed),1,Spotted Wood Owl,Urban,Besides University Cultural Centre (UCC),Found in tree,1056,1050
@@ -472,8 +472,8 @@
 764,Javan myna,"1°18'22""N 103°46'22""",1 Mar (Thurs),2,Brahminy Kite,Urban,"30ev, Behind SRC",,1056,1053
 765,Yellow-vented bulbul,"1°18'22""N 103°46'22""",1 Mar (Thurs),2,Brahminy Kite,Urban,"30ev, Behind SRC",,1058,1053
 766,Yellow-vented bulbul,"1°18'22""N 103°46'22""",1 Mar (Thurs),2,Brahminy Kite,Urban,"30ev, Behind SRC",,1058,1053
-767,Blacked-naped oriole,"1°18'22""N 103°46'22""",1 Mar (Thurs),1,Brahminy Kite,Urban,"30ev, Behind SRC",,1058,1053
-768,Blacked-naped oriole,"1°18'22""N 103°46'22""",1 Mar (Thurs),1,Brahminy Kite,Urban,"30ev, Behind SRC",,1058,1053
+767,Black-naped oriole,"1°18'22""N 103°46'22""",1 Mar (Thurs),1,Brahminy Kite,Urban,"30ev, Behind SRC",,1058,1053
+768,Black-naped oriole,"1°18'22""N 103°46'22""",1 Mar (Thurs),1,Brahminy Kite,Urban,"30ev, Behind SRC",,1058,1053
 769,Javan myna,"1°18'22""N 103°46'22""",1 Mar (Thurs),2,Brahminy Kite,Urban,"30ev, Behind SRC",,1059,1053
 770,Yellow-vented bulbul,"1°18'22""N 103°46'22""",1 Mar (Thurs),2,Brahminy Kite,Urban,"30ev, Behind SRC",,1100,1053
 771,Yellow-vented bulbul,"1°18'22""N 103°46'22""",1 Mar (Thurs),2,Brahminy Kite,Urban,"30ev, Behind SRC",,1100,1053
@@ -492,7 +492,7 @@
 790,Yellow-vented bulbul,"Lat: 1.2964774923, Lon: 103.7740066",1 Mar (Thurs),2,Brahminy Kite,Forest,"Research Link, Behind Central Library",Next to Forest,0925,0920
 791,Yellow-vented bulbul,"Lat: 1.2964774923, Lon: 103.7740066",1 Mar (Thurs),2,Brahminy Kite,Forest,"Research Link, Behind Central Library",Next to Forest,0925,0920
 792,Olive-backed sunbird,"Lat: 1.2964774923, Lon: 103.7740066",1 Mar (Thurs),2,Brahminy Kite,Forest,"Research Link, Behind Central Library",Next to Forest,0926,0920
-794,Blacked-naped oriole,"Lat: 1.2964774923, Lon: 103.7740066",1 Mar (Thurs),2,Brahminy Kite,Forest,"Research Link, Behind Central Library",Next to Forest,0926,0920
+794,Black-naped oriole,"Lat: 1.2964774923, Lon: 103.7740066",1 Mar (Thurs),2,Brahminy Kite,Forest,"Research Link, Behind Central Library",Next to Forest,0926,0920
 795,Javan myna,"Lat: 1.2964774923, Lon: 103.7740066",1 Mar (Thurs),2,Brahminy Kite,Forest,"Research Link, Behind Central Library",Next to Forest,0927,0920
 796,Olive-backed sunbird,"Lat: 1.2964774923, Lon: 103.7740066",1 Mar (Thurs),2,Brahminy Kite,Forest,"Research Link, Behind Central Library",Next to Forest,0928,0920
 797,Olive-backed sunbird,"Lat: 1.2964774923, Lon: 103.7740066",1 Mar (Thurs),2,Brahminy Kite,Forest,"Research Link, Behind Central Library",Next to Forest,0928,0920
@@ -555,11 +555,11 @@
 886,Yellow-vented bulbul,"1°18'27""N 103°46'24""",1 Mar (Thurs),2,Brahminy Kite,Urban,"30ev, CAPT Dining Hall exit",In between two buildings. Little visibility of the sky,1043,1042
 888,Yellow-vented bulbul,"1°18'27""N 103°46'24""",1 Mar (Thurs),2,Brahminy Kite,Urban,"30ev, CAPT Dining Hall exit",In between two buildings. Little visibility of the sky,1046,1042
 889,Javan myna,"1°18'27""N 103°46'24""",1 Mar (Thurs),2,Brahminy Kite,Urban,"30ev, CAPT Dining Hall exit",In between two buildings. Little visibility of the sky,1051,1042
-890,Blacked-naped oriole,"1.292301, 103.779346",1 Mar (Thurs),2,Brahminy Kite,Urban (With tall trees around),"Prince George's Park, 20m from Busstop",,0905,0905
-891,Blacked-naped oriole,"1.292301, 103.779346",1 Mar (Thurs),2,Brahminy Kite,Urban (With tall trees around),"Prince George's Park, 20m from Busstop",,0905,0905
-892,Blacked-naped oriole,"1.292301, 103.779346",1 Mar (Thurs),2,Brahminy Kite,Urban (With tall trees around),"Prince George's Park, 20m from Busstop",,0907,0905
-899,Blacked-naped oriole,"1.292301, 103.779346",1 Mar (Thurs),2,Brahminy Kite,Urban (With tall trees around),"Prince George's Park, 20m from Busstop",,0909,0905
-900,Blacked-naped oriole,"1.292301, 103.779346",1 Mar (Thurs),2,Brahminy Kite,Urban (With tall trees around),"Prince George's Park, 20m from Busstop",,0909,0905
+890,Black-naped oriole,"1.292301, 103.779346",1 Mar (Thurs),2,Brahminy Kite,Urban (With tall trees around),"Prince George's Park, 20m from Busstop",,0905,0905
+891,Black-naped oriole,"1.292301, 103.779346",1 Mar (Thurs),2,Brahminy Kite,Urban (With tall trees around),"Prince George's Park, 20m from Busstop",,0905,0905
+892,Black-naped oriole,"1.292301, 103.779346",1 Mar (Thurs),2,Brahminy Kite,Urban (With tall trees around),"Prince George's Park, 20m from Busstop",,0907,0905
+899,Black-naped oriole,"1.292301, 103.779346",1 Mar (Thurs),2,Brahminy Kite,Urban (With tall trees around),"Prince George's Park, 20m from Busstop",,0909,0905
+900,Black-naped oriole,"1.292301, 103.779346",1 Mar (Thurs),2,Brahminy Kite,Urban (With tall trees around),"Prince George's Park, 20m from Busstop",,0909,0905
 901,Javan myna,"1.292301, 103.779346",1 Mar (Thurs),1,Brahminy Kite,Urban (With tall trees around),"Prince George's Park, 20m from Busstop",,0910,0905
 902,Javan myna,"1.292301, 103.779346",1 Mar (Thurs),1,Brahminy Kite,Urban (With tall trees around),"Prince George's Park, 20m from Busstop",,0910,0905
 903,Javan myna,"1.292301, 103.779346",1 Mar (Thurs),2,Brahminy Kite,Urban (With tall trees around),"Prince George's Park, 20m from Busstop",,0912,0905
@@ -577,8 +577,8 @@
 923,Javan myna,"1.293629, 103.776953",1 Mar (Thurs),1,Brahminy Kite,Urban (With tall trees around),"Prince George's Park, At the bend","Construction Site opposite, with backlighting (Harder to spot)",0948,0940
 928,Javan myna,"1.291351, 103.776201",1 Mar (Thurs),2,Brahminy Kite,Urban,"30 Heng Mui Keng Terrace, Besides Sheares Hall",,1007,1000
 932,Olive-backed sunbird,"1.291351, 103.776201",1 Mar (Thurs),2,Brahminy Kite,Urban,"30 Heng Mui Keng Terrace, Besides Sheares Hall",,1010,1000
-933,Blacked-naped oriole,"1.303789, 103.775625",1 Mar (Thurs),2,Brahminy Kite,Urban,"College Link Rd, Roundabout Loop",,1025,1020
-934,Blacked-naped oriole,"1.303789, 103.775625",1 Mar (Thurs),2,Brahminy Kite,Urban,"College Link Rd, Roundabout Loop",,1025,1020
+933,Black-naped oriole,"1.303789, 103.775625",1 Mar (Thurs),2,Brahminy Kite,Urban,"College Link Rd, Roundabout Loop",,1025,1020
+934,Black-naped oriole,"1.303789, 103.775625",1 Mar (Thurs),2,Brahminy Kite,Urban,"College Link Rd, Roundabout Loop",,1025,1020
 935,Yellow-vented bulbul,"1.303789, 103.775625",1 Mar (Thurs),2,Brahminy Kite,Urban,"College Link Rd, Roundabout Loop",,1027,1020
 936,Olive-backed sunbird,"1.303789, 103.775625",1 Mar (Thurs),2,Brahminy Kite,Urban,"College Link Rd, Roundabout Loop",,1028,1020
 940,Javan myna,"1.305254, 103.774441",1 Mar (Thurs),2,Brahminy Kite,Urban,"36 College Ave E, Singapore 138600, Behind UTR",,1045,1040
@@ -590,14 +590,14 @@
 946,Javan myna,"1.309002, 103.772320",1 Mar,2,Ashy Minivet,Tree,"Left of bus stop University Town, ID 19059 College Avenue West",,0812,0811
 947,Javan myna,"1.309002, 103.772320",1 Mar,1,Ashy Minivet,Building opposite bus stop,"Left of bus stop University Town, ID 19059 College Avenue West",,0814,0811
 948,Olive-backed sunbird,"1.309002, 103.772320",1 Mar,4,Ashy Minivet,NIL (in flight),"Left of bus stop University Town, ID 19059 College Avenue West",,0818,0811
-949,Blacked-naped oriole,"1.309002, 103.772320",1 Mar,3,Ashy Minivet,Top of Angsana tree,"Left of bus stop University Town, ID 19059 College Avenue West",,0819,0811
-950,Blacked-naped oriole,"1.308519, 103.771903",1 Mar,2,Ashy Minivet,Covered walkway,"Right of bus stop Aft Dover Road, ID 17099, College Avenue West",,0822,0811
+949,Black-naped oriole,"1.309002, 103.772320",1 Mar,3,Ashy Minivet,Top of Angsana tree,"Left of bus stop University Town, ID 19059 College Avenue West",,0819,0811
+950,Black-naped oriole,"1.308519, 103.771903",1 Mar,2,Ashy Minivet,Covered walkway,"Right of bus stop Aft Dover Road, ID 17099, College Avenue West",,0822,0811
 951,Javan myna,"1.308519, 103.771903",1 Mar,2,Ashy Minivet,Angsana tree canopy,"Right of bus stop Aft Dover Road, ID 17099, College Avenue West",,0823,0811
 952,Rock pigeon,"1.304951, 103.771645",1 Mar,1,Ashy Minivet,Tree with loamy ground,300m walk towards Clementi Road from Stephen Riady Center,,0828,0828
 953,Javan myna,"1.304951, 103.771645",1 Mar,3,Ashy Minivet,Tree opposite road,300m walk towards Clementi Road from Stephen Riady Center,,0829,0828
 954,Javan myna,"1.304951, 103.771645",1 Mar,1,Ashy Minivet,NIL (in flight),300m walk towards Clementi Road from Stephen Riady Center,,0829,0828
 955,Rock pigeon,"1.304951, 103.771645",1 Mar,2,Ashy Minivet,Tree opposite road,300m walk towards Clementi Road from Stephen Riady Center,,0830,0828
-956,Blacked-naped oriole,"1.304951, 103.771645",1 Mar,2,Ashy Minivet,Tree next to pavement,300m walk towards Clementi Road from Stephen Riady Center,,0833,0828
+956,Black-naped oriole,"1.304951, 103.771645",1 Mar,2,Ashy Minivet,Tree next to pavement,300m walk towards Clementi Road from Stephen Riady Center,,0833,0828
 957,Javan myna,"1.304449, 103.774417",1 Mar,1,Ashy Minivet,,Outside Sapore's Italiano,,0846,0846
 958,Javan myna,"1.305037, 103.772685",1 Mar,4,Ashy Minivet,Trees right outside Pizza Hut,Edge of Town Green near Pizza Hut,,0859,0859
 959,Olive-backed sunbird,"1.305037, 103.772685",1 Mar,2,Ashy Minivet,Trees right outside Pizza Hut,Edge of Town Green near Pizza Hut,,0901,0828
@@ -626,7 +626,7 @@
 987,Javan myna,"1.306989, 103.773073",2 Mar,1,Ashy Minivet,Pavement,"18 College Ave E, Singapore 138593",,1002,1001
 988,Javan myna,"1.306989, 103.773073",2 Mar,2,Ashy Minivet,Shrubs,"18 College Ave E, Singapore 138593",,1004,1001
 989,Yellow-vented bulbul,"1.306989, 103.773073",2 Mar,2,Ashy Minivet,,"18 College Ave E, Singapore 138593",,1007,1001
-990,Blacked-naped oriole,"1.306989, 103.773073",2 Mar,2,Ashy Minivet,Shrubs,"18 College Ave E, Singapore 138593",,1009,1001
+990,Black-naped oriole,"1.306989, 103.773073",2 Mar,2,Ashy Minivet,Shrubs,"18 College Ave E, Singapore 138593",,1009,1001
 991,Javan myna,"1.307145, 103.773617",2 Mar,1,Ashy Minivet,Road,Cinnamon College Driveway along College Ave E,,1012,1012
 992,Yellow-vented bulbul,"1.307145, 103.773617",2 Mar,2,Ashy Minivet,NIL (heard only),Cinnamon College Driveway along College Ave E,,1014,1012
 993,Javan myna,"1.307145, 103.773617",2 Mar,2,Ashy Minivet,NIL (in flight),Cinnamon College Driveway along College Ave E,,1015,1012
@@ -639,7 +639,7 @@
 1000,Javan myna,Latitude: 1.30856 | Longitude: 103.77288,26th Feb (Monday),2,Coppersmith Barbet,Urban,28 College Ave West (near Yale-NUS),Point was half blocked by building in the area,0750,0750
 1001,Javan myna,Latitude: 1.30856 | Longitude: 103.77288,26th Feb (Monday),3,Coppersmith Barbet,Urban,28 College Ave West (near Yale-NUS),Point was half blocked by building in the area,0750,0750
 1002,Javan myna,Latitude: 1.30856 | Longitude: 103.77288,26th Feb (Monday),1,Coppersmith Barbet,Urban,28 College Ave West (near Yale-NUS),Point was half blocked by building in the area,0750,0750
-1005,Blacked-naped oriole,Latitude: 1.30856 | Longitude: 103.77288,26th Feb (Monday),2,Coppersmith Barbet,Urban,28 College Ave West (near Yale-NUS),Point was half blocked by building in the area,0750,0750
+1005,Black-naped oriole,Latitude: 1.30856 | Longitude: 103.77288,26th Feb (Monday),2,Coppersmith Barbet,Urban,28 College Ave West (near Yale-NUS),Point was half blocked by building in the area,0750,0750
 1007,Olive-backed sunbird,Latitude: 1.30856 | Longitude: 103.77288,26th Feb (Monday),1,Coppersmith Barbet,Urban,28 College Ave West (near Yale-NUS),Point was half blocked by building in the area,0750,0750
 1013,Javan myna,Latitude: 1.30815 | Longitude: 103.77369,26th Feb (Monday),2,Coppersmith Barbet,Urban,6 College Ave E (near RC4),Point was 3/4 blocked by buildings in the area,0806,0806
 1016,Yellow-vented bulbul,Latitude: 1.30815 | Longitude: 103.77369,26th Feb (Monday),1,Coppersmith Barbet,Urban,6 College Ave E (near RC4),Point was 3/4 blocked by buildings in the area,0806,0806
@@ -647,8 +647,8 @@
 1020,Rock pigeon,Latitude: 1.30815 | Longitude: 103.77369,26th Feb (Monday),1,Coppersmith Barbet,Urban,6 College Ave E (near RC4),Point was 3/4 blocked by buildings in the area,0806,0806
 1021,Rock pigeon,Latitude: 1.30815 | Longitude: 103.77369,26th Feb (Monday),3,Coppersmith Barbet,Urban,6 College Ave E (near RC4),Point was 3/4 blocked by buildings in the area,0806,0806
 1023,Yellow-vented bulbul,Latitude: 1.30755 | Longitude: 103.77303,26th Feb (Monday),1,Coppersmith Barbet,Urban,8 College Ave E (near CAPT),,0822,0822
-1029,Blacked-naped oriole,Latitude: 1.30755 | Longitude: 103.77303,26th Feb (Monday),2,Coppersmith Barbet,Urban,8 College Ave E (near CAPT),,0822,0822
-1030,Blacked-naped oriole,Latitude: 1.30755 | Longitude: 103.77303,26th Feb (Monday),2,Coppersmith Barbet,Urban,8 College Ave E (near CAPT),,0822,0822
+1029,Black-naped oriole,Latitude: 1.30755 | Longitude: 103.77303,26th Feb (Monday),2,Coppersmith Barbet,Urban,8 College Ave E (near CAPT),,0822,0822
+1030,Black-naped oriole,Latitude: 1.30755 | Longitude: 103.77303,26th Feb (Monday),2,Coppersmith Barbet,Urban,8 College Ave E (near CAPT),,0822,0822
 1035,Javan myna,Latitude: 1.30644 | Longitude: 103.77339,26th Feb (Monday),1,Coppersmith Barbet,Urban,26 College Ave E (near Cinnamon College),,0837,0837
 1036,Javan myna,Latitude: 1.30644 | Longitude: 103.77339,26th Feb (Monday),1,Coppersmith Barbet,Urban,26 College Ave E (near Cinnamon College),,0837,0837
 1037,Javan myna,Latitude: 1.30644 | Longitude: 103.77339,26th Feb (Monday),1,Coppersmith Barbet,Urban,26 College Ave E (near Cinnamon College),,0837,0837
@@ -660,7 +660,7 @@
 1046,Rock pigeon,Latitude: 1.30644 | Longitude: 103.77339,26th Feb (Monday),3,Coppersmith Barbet,Urban,26 College Ave E (near Cinnamon College),,0837,0837
 1047,Rock pigeon,Latitude: 1.30644 | Longitude: 103.77339,26th Feb (Monday),3,Coppersmith Barbet,Urban,26 College Ave E (near Cinnamon College),,0837,0837
 1048,Olive-backed sunbird,Latitude: 1.30644 | Longitude: 103.77339,26th Feb (Monday),1,Coppersmith Barbet,Urban,26 College Ave E (near Cinnamon College),,0837,0837
-1049,Blacked-naped oriole,Latitude: 1.30644 | Longitude: 103.77339,26th Feb (Monday),2,Coppersmith Barbet,Urban,26 College Ave E (near Cinnamon College),,0837,0837
+1049,Black-naped oriole,Latitude: 1.30644 | Longitude: 103.77339,26th Feb (Monday),2,Coppersmith Barbet,Urban,26 College Ave E (near Cinnamon College),,0837,0837
 1059,Javan myna,Latitude: 1.30522 | Longitude: 103.77425,26th Feb (Monday),3,Coppersmith Barbet,Urban,36 College Ave E (near UTown Residence),A lot of loud vehicles and the point is half blocked by the building,0900,0900
 1060,Javan myna,Latitude: 1.30522 | Longitude: 103.77425,26th Feb (Monday),3,Coppersmith Barbet,Urban,36 College Ave E (near UTown Residence),A lot of loud vehicles and the point is half blocked by the building,0900,0900
 1061,Javan myna,Latitude: 1.30522 | Longitude: 103.77425,26th Feb (Monday),3,Coppersmith Barbet,Urban,36 College Ave E (near UTown Residence),A lot of loud vehicles and the point is half blocked by the building,0900,0900
@@ -672,7 +672,7 @@
 1069,Yellow-vented bulbul,Latitude: 1.30522 | Longitude: 103.77425,26th Feb (Monday),1,Coppersmith Barbet,Urban,36 College Ave E (near UTown Residence),A lot of loud vehicles and the point is half blocked by the building,0900,0900
 1072,Rock pigeon,Latitude: 1.30522 | Longitude: 103.77425,26th Feb (Monday),2,Coppersmith Barbet,Urban,36 College Ave E (near UTown Residence),A lot of loud vehicles and the point is half blocked by the building,0900,0900
 1073,Olive-backed sunbird,Latitude: 1.30522 | Longitude: 103.77425,26th Feb (Monday),1,Coppersmith Barbet,Urban,36 College Ave E (near UTown Residence),A lot of loud vehicles and the point is half blocked by the building,0900,0900
-1075,Blacked-naped oriole,Latitude: 1.30522 | Longitude: 103.77425,26th Feb (Monday),2,Coppersmith Barbet,Urban,36 College Ave E (near UTown Residence),A lot of loud vehicles and the point is half blocked by the building,0900,0900
+1075,Black-naped oriole,Latitude: 1.30522 | Longitude: 103.77425,26th Feb (Monday),2,Coppersmith Barbet,Urban,36 College Ave E (near UTown Residence),A lot of loud vehicles and the point is half blocked by the building,0900,0900
 1084,Javan myna,Latitude: 1.30401 | Longitude: 103.77416,26th Feb (Monday),2,Coppersmith Barbet,Urban,College Link Rd (near Hwang's),Loud cleaning vehicles and the point is 3/4 blocked by buildings in the area,0921,0921
 1085,Javan myna,Latitude: 1.30401 | Longitude: 103.77416,26th Feb (Monday),2,Coppersmith Barbet,Urban,College Link Rd (near Hwang's),Loud cleaning vehicles and the point is 3/4 blocked by buildings in the area,0921,0921
 1086,Javan myna,Latitude: 1.30401 | Longitude: 103.77416,26th Feb (Monday),3,Coppersmith Barbet,Urban,College Link Rd (near Hwang's),Loud cleaning vehicles and the point is 3/4 blocked by buildings in the area,0921,0921
@@ -704,7 +704,7 @@
 1129,Yellow-vented bulbul,Latitude: 1.30150 | Longitude: 103.77558,26th Feb (Monday),2,Coppersmith Barbet,Urban,AYE (near the wind tunnel facility),Point was half blocked by building in the area,1005,1005
 1130,Yellow-vented bulbul,Latitude: 1.30150 | Longitude: 103.77558,26th Feb (Monday),2,Coppersmith Barbet,Urban,AYE (near the wind tunnel facility),Point was half blocked by building in the area,1005,1005
 1132,Olive-backed sunbird,Latitude: 1.30150 | Longitude: 103.77558,26th Feb (Monday),1,Coppersmith Barbet,Urban,AYE (near the wind tunnel facility),Point was half blocked by building in the area,1005,1005
-1135,Blacked-naped oriole,Latitude: 1.30150 | Longitude: 103.77558,26th Feb (Monday),2,Coppersmith Barbet,Urban,AYE (near the wind tunnel facility),Point was half blocked by building in the area,1005,1005
+1135,Black-naped oriole,Latitude: 1.30150 | Longitude: 103.77558,26th Feb (Monday),2,Coppersmith Barbet,Urban,AYE (near the wind tunnel facility),Point was half blocked by building in the area,1005,1005
 1140,Javan myna,Latitude: 1.30002 | Longitude: 103.77625,27th Feb (Tuesday),2,Coppersmith Barbet,Urban,8 Sports Drive 1 (near NUS Sports Hall),,0745,0745
 1141,Javan myna,Latitude: 1.30002 | Longitude: 103.77625,27th Feb (Tuesday),2,Coppersmith Barbet,Urban,8 Sports Drive 1 (near NUS Sports Hall),,0745,0745
 1142,Javan myna,Latitude: 1.30002 | Longitude: 103.77625,27th Feb (Tuesday),1,Coppersmith Barbet,Urban,8 Sports Drive 1 (near NUS Sports Hall),,0745,0745
@@ -738,7 +738,7 @@
 1195,Yellow-vented bulbul,Latitude: 1.29963 | Longitude: 103.77212,27th Feb (Tuesday),2,Coppersmith Barbet,Urban,"Engineering Drive 1, T-Lab (Carpark)",Half blocked by buildings,0740,0740
 1196,Olive-backed sunbird,Latitude: 1.29963 | Longitude: 103.77212,27th Feb (Tuesday),2,Coppersmith Barbet,Urban,"Engineering Drive 1, T-Lab (Carpark)",Half blocked by buildings,0740,0740
 1197,Olive-backed sunbird,Latitude: 1.29963 | Longitude: 103.77212,27th Feb (Tuesday),2,Coppersmith Barbet,Urban,"Engineering Drive 1, T-Lab (Carpark)",Half blocked by buildings,0740,0740
-1198,Blacked-naped oriole,Latitude: 1.29963 | Longitude: 103.77212,27th Feb (Tuesday),3,Coppersmith Barbet,Urban,"Engineering Drive 1, T-Lab (Carpark)",Half blocked by buildings,0740,0740
+1198,Black-naped oriole,Latitude: 1.29963 | Longitude: 103.77212,27th Feb (Tuesday),3,Coppersmith Barbet,Urban,"Engineering Drive 1, T-Lab (Carpark)",Half blocked by buildings,0740,0740
 1206,Javan myna,Latitude: 1.29784 | Longitude: 103.77159,27th Feb (Tuesday),1,Coppersmith Barbet,Urban,"Engineering Drive 4, Techno Edge",,0810,0810
 1207,Javan myna,Latitude: 1.29784 | Longitude: 103.77159,27th Feb (Tuesday),1,Coppersmith Barbet,Urban,"Engineering Drive 4, Techno Edge",,0810,0810
 1208,Javan myna,Latitude: 1.29784 | Longitude: 103.77159,27th Feb (Tuesday),1,Coppersmith Barbet,Urban,"Engineering Drive 4, Techno Edge",,0810,0810
@@ -750,12 +750,12 @@
 1214,Yellow-vented bulbul,Latitude: 1.29784 | Longitude: 103.77159,27th Feb (Tuesday),2,Coppersmith Barbet,Urban,"Engineering Drive 4, Techno Edge",,0810,0810
 1215,Rock pigeon,Latitude: 1.29784 | Longitude: 103.77159,27th Feb (Tuesday),2,Coppersmith Barbet,Urban,"Engineering Drive 4, Techno Edge",,0810,0810
 1216,Rock pigeon,Latitude: 1.29784 | Longitude: 103.77159,27th Feb (Tuesday),2,Coppersmith Barbet,Urban,"Engineering Drive 4, Techno Edge",,0810,0810
-1217,Blacked-naped oriole,Latitude: 1.29784 | Longitude: 103.77159,27th Feb (Tuesday),3,Coppersmith Barbet,Urban,"Engineering Drive 4, Techno Edge",,0810,0810
-1218,Blacked-naped oriole,Latitude: 1.29784 | Longitude: 103.77159,27th Feb (Tuesday),2,Coppersmith Barbet,Urban,"Engineering Drive 4, Techno Edge",,0810,0810
+1217,Black-naped oriole,Latitude: 1.29784 | Longitude: 103.77159,27th Feb (Tuesday),3,Coppersmith Barbet,Urban,"Engineering Drive 4, Techno Edge",,0810,0810
+1218,Black-naped oriole,Latitude: 1.29784 | Longitude: 103.77159,27th Feb (Tuesday),2,Coppersmith Barbet,Urban,"Engineering Drive 4, Techno Edge",,0810,0810
 1219,Rock pigeon,Latitude: 1.29784 | Longitude: 103.77159,27th Feb (Tuesday),1,Coppersmith Barbet,Urban,"Engineering Drive 4, Techno Edge",,0810,0810
 1220,Rock pigeon,Latitude: 1.29784 | Longitude: 103.77159,27th Feb (Tuesday),2,Coppersmith Barbet,Urban,"Engineering Drive 4, Techno Edge",,0810,0810
 1221,Rock pigeon,Latitude: 1.29784 | Longitude: 103.77159,27th Feb (Tuesday),2,Coppersmith Barbet,Urban,"Engineering Drive 4, Techno Edge",,0810,0810
-1222,Blacked-naped oriole,Latitude: 1.29784 | Longitude: 103.77159,27th Feb (Tuesday),2,Coppersmith Barbet,Urban,"Engineering Drive 4, Techno Edge",,0810,0810
+1222,Black-naped oriole,Latitude: 1.29784 | Longitude: 103.77159,27th Feb (Tuesday),2,Coppersmith Barbet,Urban,"Engineering Drive 4, Techno Edge",,0810,0810
 1234,Javan myna,Latitude: 1.29698 | Longitude: 103.77145,27th Feb (Tuesday),2,Coppersmith Barbet,Urban,"10 Architecture Drive, Center For English Language Communication",,0825,0825
 1235,Javan myna,Latitude: 1.29698 | Longitude: 103.77145,27th Feb (Tuesday),2,Coppersmith Barbet,Urban,"10 Architecture Drive, Center For English Language Communication",,0825,0825
 1236,Javan myna,Latitude: 1.29698 | Longitude: 103.77145,27th Feb (Tuesday),2,Coppersmith Barbet,Urban,"10 Architecture Drive, Center For English Language Communication",,0825,0825
@@ -766,8 +766,8 @@
 1241,Rock pigeon,Latitude: 1.29698 | Longitude: 103.77145,27th Feb (Tuesday),2,Coppersmith Barbet,Urban,"10 Architecture Drive, Center For English Language Communication",,0825,0825
 1242,Olive-backed sunbird,Latitude: 1.29698 | Longitude: 103.77145,27th Feb (Tuesday),3,Coppersmith Barbet,Urban,"10 Architecture Drive, Center For English Language Communication",,0825,0825
 1243,Olive-backed sunbird,Latitude: 1.29698 | Longitude: 103.77145,27th Feb (Tuesday),3,Coppersmith Barbet,Urban,"10 Architecture Drive, Center For English Language Communication",,0825,0825
-1244,Blacked-naped oriole,Latitude: 1.29698 | Longitude: 103.77145,27th Feb (Tuesday),3,Coppersmith Barbet,Urban,"10 Architecture Drive, Center For English Language Communication",,0825,0825
-1245,Blacked-naped oriole,Latitude: 1.29698 | Longitude: 103.77145,27th Feb (Tuesday),3,Coppersmith Barbet,Urban,"10 Architecture Drive, Center For English Language Communication",,0825,0825
+1244,Black-naped oriole,Latitude: 1.29698 | Longitude: 103.77145,27th Feb (Tuesday),3,Coppersmith Barbet,Urban,"10 Architecture Drive, Center For English Language Communication",,0825,0825
+1245,Black-naped oriole,Latitude: 1.29698 | Longitude: 103.77145,27th Feb (Tuesday),3,Coppersmith Barbet,Urban,"10 Architecture Drive, Center For English Language Communication",,0825,0825
 1262,Javan myna,Latitude: 1.29711 | Longitude: 103.77396,27th Feb (Tuesday),1,Coppersmith Barbet,Urban,"15 Kent Ridge Road, Centre for Development of Teaching and Learning",,0844,0844
 1263,Yellow-vented bulbul,Latitude: 1.29711 | Longitude: 103.77396,27th Feb (Tuesday),2,Coppersmith Barbet,Urban,"15 Kent Ridge Road, Centre for Development of Teaching and Learning",,0844,0844
 1264,Yellow-vented bulbul,Latitude: 1.29711 | Longitude: 103.77396,27th Feb (Tuesday),2,Coppersmith Barbet,Urban,"15 Kent Ridge Road, Centre for Development of Teaching and Learning",,0844,0844
@@ -780,7 +780,7 @@
 1271,Olive-backed sunbird,Latitude: 1.29711 | Longitude: 103.77396,27th Feb (Tuesday),3,Coppersmith Barbet,Urban,"15 Kent Ridge Road, Centre for Development of Teaching and Learning",,0844,0844
 1272,Olive-backed sunbird,Latitude: 1.29711 | Longitude: 103.77396,27th Feb (Tuesday),3,Coppersmith Barbet,Urban,"15 Kent Ridge Road, Centre for Development of Teaching and Learning",,0844,0844
 1273,Olive-backed sunbird,Latitude: 1.29711 | Longitude: 103.77396,27th Feb (Tuesday),2,Coppersmith Barbet,Urban,"15 Kent Ridge Road, Centre for Development of Teaching and Learning",,0844,0844
-1274,Blacked-naped oriole,Latitude: 1.29711 | Longitude: 103.77396,27th Feb (Tuesday),3,Coppersmith Barbet,Urban,"15 Kent Ridge Road, Centre for Development of Teaching and Learning",,0844,0844
+1274,Black-naped oriole,Latitude: 1.29711 | Longitude: 103.77396,27th Feb (Tuesday),3,Coppersmith Barbet,Urban,"15 Kent Ridge Road, Centre for Development of Teaching and Learning",,0844,0844
 1284,Javan myna,Latitude: 1.29758 | Longitude: 103.77718,27th Feb (Tuesday),1,Coppersmith Barbet,Urban,Ridge View Residential College,Loud sound by leaf blower,0908,0908
 1285,Javan myna,Latitude: 1.29758 | Longitude: 103.77719,27th Feb (Tuesday),1,Coppersmith Barbet,Urban,Ridge View Residential College,Loud sound by leaf blower,0908,0908
 1286,Javan myna,Latitude: 1.29758 | Longitude: 103.77720,27th Feb (Tuesday),1,Coppersmith Barbet,Urban,Ridge View Residential College,Loud sound by leaf blower,0908,0908
@@ -794,7 +794,7 @@
 1294,Yellow-vented bulbul,Latitude: 1.29758 | Longitude: 103.77728,27th Feb (Tuesday),2,Coppersmith Barbet,Urban,Ridge View Residential College,Loud sound by leaf blower,0908,0908
 1295,Rock pigeon,Latitude: 1.29758 | Longitude: 103.77729,27th Feb (Tuesday),2,Coppersmith Barbet,Urban,Ridge View Residential College,Loud sound by leaf blower,0908,0908
 1296,Rock pigeon,Latitude: 1.29758 | Longitude: 103.77730,27th Feb (Tuesday),2,Coppersmith Barbet,Urban,Ridge View Residential College,Loud sound by leaf blower,0908,0908
-1297,Blacked-naped oriole,Latitude: 1.29758 | Longitude: 103.77731,27th Feb (Tuesday),2,Coppersmith Barbet,Urban,Ridge View Residential College,Loud sound by leaf blower,0908,0908
+1297,Black-naped oriole,Latitude: 1.29758 | Longitude: 103.77731,27th Feb (Tuesday),2,Coppersmith Barbet,Urban,Ridge View Residential College,Loud sound by leaf blower,0908,0908
 1307,Yellow-vented bulbul,Latitude: 1.29758 | Longitude: 103.77733,27th Feb (Tuesday),2,Coppersmith Barbet,Urban,14A Prince George's Park,,0935,0935
 1308,Yellow-vented bulbul,Latitude: 1.29758 | Longitude: 103.77733,27th Feb (Tuesday),2,Coppersmith Barbet,Urban,14A Prince George's Park,,0935,0935
 1309,Yellow-vented bulbul,Latitude: 1.29758 | Longitude: 103.77733,27th Feb (Tuesday),2,Coppersmith Barbet,Urban,14A Prince George's Park,,0935,0935
@@ -802,15 +802,15 @@
 1311,Yellow-vented bulbul,Latitude: 1.29758 | Longitude: 103.77733,27th Feb (Tuesday),2,Coppersmith Barbet,Urban,14A Prince George's Park,,0935,0935
 1312,Yellow-vented bulbul,Latitude: 1.29758 | Longitude: 103.77733,27th Feb (Tuesday),2,Coppersmith Barbet,Urban,14A Prince George's Park,,0935,0935
 1313,Olive-backed sunbird,Latitude: 1.29758 | Longitude: 103.77733,27th Feb (Tuesday),3,Coppersmith Barbet,Urban,14A Prince George's Park,,0935,0935
-1314,Blacked-naped oriole,Latitude: 1.29758 | Longitude: 103.77733,27th Feb (Tuesday),2,Coppersmith Barbet,Urban,14A Prince George's Park,,0935,0935
-1315,Blacked-naped oriole,Latitude: 1.29758 | Longitude: 103.77733,27th Feb (Tuesday),2,Coppersmith Barbet,Urban,14A Prince George's Park,,0935,0935
-1316,Blacked-naped oriole,Latitude: 1.29758 | Longitude: 103.77733,27th Feb (Tuesday),2,Coppersmith Barbet,Urban,14A Prince George's Park,,0935,0935
+1314,Black-naped oriole,Latitude: 1.29758 | Longitude: 103.77733,27th Feb (Tuesday),2,Coppersmith Barbet,Urban,14A Prince George's Park,,0935,0935
+1315,Black-naped oriole,Latitude: 1.29758 | Longitude: 103.77733,27th Feb (Tuesday),2,Coppersmith Barbet,Urban,14A Prince George's Park,,0935,0935
+1316,Black-naped oriole,Latitude: 1.29758 | Longitude: 103.77733,27th Feb (Tuesday),2,Coppersmith Barbet,Urban,14A Prince George's Park,,0935,0935
 1325,Javan myna,Latitude: 1.300 | Longitude: 103.770,2nd Mar (Friday),1,Pacific Swallow,Urban,9 Engineering Dr 1,,1042,1042
 1326,Javan myna,Latitude: 1.300 | Longitude: 103.770,2nd Mar (Friday),1,Pacific Swallow,Urban,9 Engineering Dr 1,,1042,1042
 1327,Javan myna,Latitude: 1.300 | Longitude: 103.770,2nd Mar (Friday),1,Pacific Swallow,Urban,9 Engineering Dr 1,,1042,1042
 1328,Javan myna,Latitude: 1.300 | Longitude: 103.770,2nd Mar (Friday),1,Pacific Swallow,Urban,9 Engineering Dr 1,,1042,1042
 1329,Olive-backed sunbird,Latitude: 1.300 | Longitude: 103.770,2nd Mar (Friday),1,Pacific Swallow,Urban,9 Engineering Dr 1,,1042,1042
-1360,Blacked-naped oriole,Latitude: 1.293 | Longitude: 103.773,2nd Mar (Friday),1,Pacific Swallow,Urban,"Kent Ridge Dr, Opposite Kent Ridge Guild House",,1118,1118
+1360,Black-naped oriole,Latitude: 1.293 | Longitude: 103.773,2nd Mar (Friday),1,Pacific Swallow,Urban,"Kent Ridge Dr, Opposite Kent Ridge Guild House",,1118,1118
 1367,Javan myna,Latitude: 1.293 | Longitude: 103.773,2nd Mar (Friday),1,Pacific Swallow,Urban,"Kent Ridge Dr, in front of Shaw Foundation Alumni House",,1130,1130
 1368,Javan myna,Latitude: 1.293 | Longitude: 103.773,2nd Mar (Friday),1,Pacific Swallow,Urban,"Kent Ridge Dr, in front of Shaw Foundation Alumni House",,1130,1130
 1369,Javan myna,Latitude: 1.293 | Longitude: 103.773,2nd Mar (Friday),1,Pacific Swallow,Urban,"Kent Ridge Dr, in front of Shaw Foundation Alumni House",,1130,1130
@@ -853,7 +853,7 @@
 1488,Yellow-vented bulbul,Latitute : 1.306 | Longitute: 103.773,2nd Mar (Friday),1,Pacific Swallow,Urban,Right outside of Cinnamon College,,0822,0818
 1489,Javan myna,Latitute : 1.306 | Longitute: 103.773,2nd Mar (Friday),1,Pacific Swallow,Urban,Right outside of Cinnamon College,,0823,0818
 1490,Javan myna,Latitute : 1.306 | Longitute: 103.773,2nd Mar (Friday),1,Pacific Swallow,Urban,Right outside of Cinnamon College,,0823,0818
-1491,Blacked-naped oriole,Latitute : 1.306 | Longitute: 103.773,2nd Mar (Friday),1,Pacific Swallow,Urban,Right outside of Cinnamon College,,0823,0818
+1491,Black-naped oriole,Latitute : 1.306 | Longitute: 103.773,2nd Mar (Friday),1,Pacific Swallow,Urban,Right outside of Cinnamon College,,0823,0818
 1492,Yellow-vented bulbul,Latitute : 1.306 | Longitute: 103.773,2nd Mar (Friday),2,Pacific Swallow,Urban,Right outside of Cinnamon College,,0824,0818
 1495,Javan myna,Latitute : 1.308 | Longitute: 103.772,2nd Mar (Friday),1,Pacific Swallow,Urban,Yale NUS College,,0842,0842
 1496,Javan myna,Latitute : 1.308 | Longitute: 103.772,2nd Mar (Friday),1,Pacific Swallow,Urban,Yale NUS College,,0842,0842
@@ -892,7 +892,7 @@
 1539,Javan myna,Latitute : 1.308| Longitute: 103.773,2nd Mar (Friday),1,Pacific Swallow,Urban,"Up the steps of RC4, zebra crossing area",,0945,0938
 1540,Javan myna,Latitute : 1.308| Longitute: 103.773,2nd Mar (Friday),1,Pacific Swallow,Urban,"Up the steps of RC4, zebra crossing area",,0945,0938
 1541,Javan myna,Latitute : 1.308| Longitute: 103.773,2nd Mar (Friday),1,Pacific Swallow,Urban,"Up the steps of RC4, zebra crossing area",,0945,0938
-1542,Blacked-naped oriole,"Latitutde: 1.301714, Longitude103.771106",1st Mar (Thursday),1,Crimson Sunbird,Urban,"Opposite Kent Ridge residences, zebra crossing area, east of the University Cultural Centre",,0906,0906
+1542,Black-naped oriole,"Latitutde: 1.301714, Longitude103.771106",1st Mar (Thursday),1,Crimson Sunbird,Urban,"Opposite Kent Ridge residences, zebra crossing area, east of the University Cultural Centre",,0906,0906
 1547,Yellow-vented bulbul,"Latitutde: 1.301714, Longitude103.771106",1st Mar (Thursday),1,Crimson Sunbird,Urban,"Opposite Kent Ridge residences, zebra crossing area, east of the University Cultural Centre",,0907,0906
 1548,Olive-backed sunbird,"Latitutde: 1.301714, Longitude103.771106",1st Mar (Thursday),1,Crimson Sunbird,Urban,"Opposite Kent Ridge residences, zebra crossing area, east of the University Cultural Centre",,0908,0906
 1549,Olive-backed sunbird,"Latitutde: 1.301714, Longitude103.771106",1st Mar (Thursday),1,Crimson Sunbird,Urban,"Opposite Kent Ridge residences, zebra crossing area, east of the University Cultural Centre",,0908,0906
@@ -908,7 +908,7 @@
 1561,Javan myna,"Latitude: 1.297761, Longtitude: 103.770152",1st Mar (Thursday),3,Crimson Sunbird,Urban,Near rubbish bins and construction work/lab drilling at SDE and the back of Engine,roof top of blcok,0938,0935
 1562,Javan myna,"Latitude: 1.297761, Longtitude: 103.770152",1st Mar (Thursday),3,Crimson Sunbird,Urban,Near rubbish bins and construction work/lab drilling at SDE and the back of Engine,roof top of block,0938,0935
 1563,Javan myna,"Latitude: 1.297761, Longtitude: 103.770152",1st Mar (Thursday),3,Crimson Sunbird,Urban,Near rubbish bins and construction work/lab drilling at SDE and the back of Engine,roof top of block,0938,0935
-1564,Blacked-naped oriole,"Latitude: 1.297761, Longtitude: 103.770152",1st Mar (Thursday),2,Crimson Sunbird,Urban,Near rubbish bins and construction work/lab drilling at SDE and the back of Engine,,0940,0935
+1564,Black-naped oriole,"Latitude: 1.297761, Longtitude: 103.770152",1st Mar (Thursday),2,Crimson Sunbird,Urban,Near rubbish bins and construction work/lab drilling at SDE and the back of Engine,,0940,0935
 1565,Olive-backed sunbird,"Latitude: 1.297761, Longtitude: 103.770152",1st Mar (Thursday),2,Crimson Sunbird,Urban,Near rubbish bins and construction work/lab drilling at SDE and the back of Engine,,0941,0935
 1572,Rock pigeon,"Latitude: 1.297761, Longtitude: 103.770152",1st Mar (Thursday),3,Crimson Sunbird,Urban,Near rubbish bins and construction work/lab drilling at SDE and the back of Engine,roof top of block,0943,0935
 1573,Rock pigeon,"Latitude: 1.297761, Longtitude: 103.770152",1st Mar (Thursday),3,Crimson Sunbird,Urban,Near rubbish bins and construction work/lab drilling at SDE and the back of Engine,roof top of block,0943,0935
@@ -985,7 +985,7 @@
 1689,Yellow-vented bulbul,"Latitude: 1.294768, Longtitude:103.784733",2nd Mar (Friday),1,Crimson Sunbird,Urban,Behind opposite Kent Ridge MRT bus stop,,1137,1121
 1690,Yellow-vented bulbul,"Latitude: 1.294768, Longtitude:103.784733",2nd Mar (Friday),1,Crimson Sunbird,Urban,Behind opposite Kent Ridge MRT bus stop,,1127,1121
 1691,Yellow-vented bulbul,"Latitude: 1.294768, Longtitude:103.784733",2nd Mar (Friday),1,Crimson Sunbird,Urban,Behind opposite Kent Ridge MRT bus stop,,1127,1121
-1698,Blacked-naped oriole,"Lat: 1.29289434, Lon: 103.77311567",3rd Mar (Sat),1,Crimson Sunbird,Urban,Opposite Shaw Foundation Building,,1500,1500
+1698,Black-naped oriole,"Lat: 1.29289434, Lon: 103.77311567",3rd Mar (Sat),1,Crimson Sunbird,Urban,Opposite Shaw Foundation Building,,1500,1500
 1699,Olive-backed sunbird,"Lat: 1.29289434, Lon: 103.77311568",3rd Mar (Sat),1,Crimson Sunbird,Urban,Opposite Shaw Foundation Building,,1500,1500
 1700,Yellow-vented bulbul,"Lat: 1.29289434, Lon: 103.77311569",3rd Mar (Sat),1,Crimson Sunbird,Urban,Opposite Shaw Foundation Building,,1503,1500
 1709,Javan myna,"Lat: 1.29223583, Lon: 103.77424280",3rd Mar (Sat),1,Crimson Sunbird,Urban,"Along Business Link, near Heng Mui Keng Terrace turning",,1526,1520
