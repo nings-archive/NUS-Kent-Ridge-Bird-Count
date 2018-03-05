@@ -65,18 +65,23 @@ paste('  err: ', oriole_ci,
 paste('  total pop: ', oriole_mean * 1.5, ' +- ', oriole_ci * 1.5, sep='')
 
 gm <- ggplot(myna, aes(x='Javan myna', y=Density)) +
-    geom_boxplot()
+    geom_boxplot() + 
+    labs(y=parse(text='Density (km^-2)'), x='')
 gb <- ggplot(bulbul, aes(x='Yellow-vented bulbul', y=Density)) +
-    geom_boxplot()
+    geom_boxplot() +
+    labs(y=parse(text='Density (km^-2)'), x='')
 gp <- ggplot(pigeon, aes(x='Rock pigeon', y=Density)) +
-    geom_boxplot()
+    geom_boxplot() +
+    labs(y=parse(text='Density (km^-2)'), x='')
 gs <- ggplot(sunbird, aes(x='Olive-backed sunbird', y=Density)) +
-    geom_boxplot()
+    geom_boxplot() +
+    labs(y=parse(text='Density (km^-2)'), x='')
 go <- ggplot(oriole, aes(x='Black-naped oriole', y=Density)) +
-    geom_boxplot()
+    geom_boxplot() +
+    labs(y=parse(text='Density (km^-2)'), x='')
 
-ggsave('03-Density-myna.png',    plot=gm, width=9, height=5)
-ggsave('03-Density-bulbul.png',  plot=gb, width=9, height=5)
-ggsave('03-Density-pigeon.png',  plot=gp, width=9, height=5)
-ggsave('03-Density-sunbird.png', plot=gs, width=9, height=5)
-ggsave('03-Density-oriole.png',  plot=go, width=9, height=5)
+ggsave('03-Density-myna.png',    plot=gm, width=3, height=5)
+ggsave('03-Density-bulbul.png',  plot=gb, width=3, height=5)
+ggsave('03-Density-pigeon.png',  plot=gp, width=3, height=5)
+ggsave('03-Density-sunbird.png', plot=gs, width=3, height=5)
+ggsave('03-Density-oriole.png',  plot=go, width=3, height=5)
