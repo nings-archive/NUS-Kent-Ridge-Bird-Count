@@ -37,3 +37,10 @@ make_distance_hist('Yellow-vented bulbul')
 make_distance_hist('Olive-backed sunbird')
 make_distance_hist('Rock pigeon')
 make_distance_hist('Black-naped oriole')
+
+# make a plot for all species,
+g <- ggplot(df, aes(x=Distance.Bin)) +
+    geom_histogram(bins=4) +
+    labs(y='Observations', x='Distance Bin')
+
+ggsave('07-bird_per_distance_general.png', width=5, height=2)
